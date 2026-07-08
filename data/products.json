@@ -1,0 +1,4492 @@
+[
+  {
+    "id": "apple-airpods-pro-2",
+    "name": "AirPods Pro 2",
+    "brand": "Apple",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "35000-40000",
+    "price_label": "39,800円",
+    "price_yen": 39800,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "ios-only",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute",
+      "work",
+      "media"
+    ],
+    "persona_tags": [
+      "luxury",
+      "commuter",
+      "office"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IP54",
+      "battery_hours": 6,
+      "battery_hours_with_case": 30,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "iPhoneユーザー",
+      "ANCを妥協したくない人",
+      "通勤・出張が多い人"
+    ],
+    "tagline": "iPhoneとの連携なら鉄板。ANCも空間オーディオも完成度が高い",
+    "description": [
+      "Appleのフラッグシップイヤホン。第2世代のH2チップにより、ノイズキャンセリング性能が大幅に向上し、静かな環境が欲しい人にとって最有力の選択肢のひとつです。",
+      "iPhoneやMacとの組み合わせでは、デバイス間の自動切り替えや空間オーディオなど、Apple製品同士でしか得られない体験が光ります。IP54の防塵防滴性能も備え、通勤から軽い運動まで幅広いシーンで使えます。"
+    ],
+    "pros": [
+      "業界トップクラスのノイズキャンセリング",
+      "iPhone/Macとのシームレスな連携",
+      "IP54防塵防滴で普段使いに強い",
+      "装着検知や外音取り込みなど機能が充実"
+    ],
+    "cons": [
+      "Androidでは一部機能が使えない",
+      "価格はやや高め"
+    ],
+    "recommended_for": "iPhone・Macをメインで使っていて、集中したい時間も、映画や音楽の没入感も両方妥協したくない人に。"
+  },
+  {
+    "id": "apple-airpods-4-anc",
+    "name": "AirPods 4(ANCモデル)",
+    "brand": "Apple",
+    "release_year": 2024,
+    "category": "ミドル",
+    "price_range": "20000-25000",
+    "price_label": "24,800円",
+    "price_yen": 24800,
+    "price_tier": "high",
+    "fit_type": "open",
+    "os_compatibility": "ios-only",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute",
+      "work"
+    ],
+    "persona_tags": [
+      "commuter",
+      "office"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "basic",
+      "water_resistant": "IP54",
+      "battery_hours": 5,
+      "battery_hours_with_case": 20,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "密閉感が苦手な人",
+      "軽い着け心地を求める人",
+      "iPhoneユーザー"
+    ],
+    "tagline": "耳を塞がない軽い着け心地で、iPhoneユーザーの普段使いに",
+    "description": [
+      "イヤーチップを使わない半開放型デザインを採用したAirPods 4。カナル型が苦手な人でも自然な着け心地で使えるのが最大の特徴です。",
+      "ANCモデルは密閉型ではないため効果は限定的ですが、日常の環境音を抑えつつ音楽や通話を楽しめるバランスの良い1台。軽量設計で長時間の装着にも向いています。"
+    ],
+    "pros": [
+      "カナル型が苦手でも快適な半開放デザイン",
+      "軽量で長時間つけても疲れにくい",
+      "Siri・自動着信検出などiPhone連携が快適",
+      "MagSafe対応でワイヤレス充電も可能"
+    ],
+    "cons": [
+      "密閉型ほどの強力なANCは期待できない",
+      "Androidでは機能が制限される"
+    ],
+    "recommended_for": "耳栓のような密閉感が苦手だけれど、ある程度のANCも欲しいiPhoneユーザーに。"
+  },
+  {
+    "id": "apple-airpods-max",
+    "name": "AirPods Max(USB-C)",
+    "brand": "Apple",
+    "release_year": 2024,
+    "category": "ハイエンド",
+    "price_range": "70000-80000",
+    "price_label": "74,800円",
+    "price_yen": 74800,
+    "price_tier": "premium",
+    "fit_type": "over-ear",
+    "os_compatibility": "ios-only",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": null,
+      "battery_hours": 20,
+      "battery_hours_with_case": null,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "自宅でじっくり音楽・映画を楽しみたい人",
+      "Appleエコシステムのヘビーユーザー",
+      "音質に妥協したくない人"
+    ],
+    "tagline": "圧倒的な物量感と没入感。Appleが作るオーバーイヤーの実力機",
+    "description": [
+      "耳全体を覆うオーバーイヤー型で、AirPodsシリーズの中でも別格の音質とノイズキャンセリング性能を誇ります。金属フレームとメッシュキャノピーによる高級感のある作りも特徴です。",
+      "長時間のリスニングでも音の情報量に満足できる一台ですが、重量はやや重めでスポーツ用途には不向き。じっくり音楽や映画に浸りたい人向けのモデルです。"
+    ],
+    "pros": [
+      "圧倒的な物量感のあるサウンド",
+      "業界トップクラスのANC",
+      "高級感のある素材・作り",
+      "装着感の良いイヤークッション"
+    ],
+    "cons": [
+      "本体が重くスポーツには不向き",
+      "価格が非常に高い",
+      "専用ケースは充電非対応"
+    ],
+    "recommended_for": "自宅でじっくり音楽や映画に浸りたい、Apple製品を使い込んでいる音質重視派に。"
+  },
+  {
+    "id": "sony-wf-1000xm5",
+    "name": "WF-1000XM5",
+    "brand": "SONY",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "35000-40000",
+    "price_label": "39,600円",
+    "price_yen": 39600,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "commuter",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IPX4",
+      "battery_hours": 8,
+      "battery_hours_with_case": 24,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ]
+    },
+    "target_users": [
+      "音質にこだわりたい人",
+      "長時間リスニングをする人",
+      "出張・移動が多い人"
+    ],
+    "tagline": "音質・ANCともに妥協なし。こだわり派の本命",
+    "description": [
+      "SONYのフラッグシップモデルとして、音質とノイズキャンセリング性能の両方でトップクラスの完成度を誇ります。専用プロセッサとデュアルノイズセンサーにより、静けさと自然な音質を両立しています。",
+      "前モデルより小型・軽量化され、装着感も向上。LDAC対応でハイレゾ音源を無線でも楽しめるため、音質にこだわりたいユーザーの本命候補です。"
+    ],
+    "pros": [
+      "業界最高クラスの音質とノイズキャンセリング",
+      "小型・軽量化された装着感",
+      "マルチポイント接続に対応",
+      "LDAC対応でハイレゾ相当の音質"
+    ],
+    "cons": [
+      "価格は高め",
+      "ワイヤレス充電はケースのみ対応"
+    ],
+    "recommended_for": "音質に強くこだわりたい人、長時間リスニングや映画・ゲームの没入感を求める人に。"
+  },
+  {
+    "id": "sony-linkbuds-s",
+    "name": "LinkBuds S",
+    "brand": "SONY",
+    "release_year": 2022,
+    "category": "ミドル",
+    "price_range": "20000-25000",
+    "price_label": "24,000円",
+    "price_yen": 24000,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute",
+      "work"
+    ],
+    "persona_tags": [
+      "commuter",
+      "office",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX4",
+      "battery_hours": 6,
+      "battery_hours_with_case": 20,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ]
+    },
+    "target_users": [
+      "長時間の装着でも疲れにくいものを探している人",
+      "仕事や通勤で毎日使う人",
+      "軽さを重視する人"
+    ],
+    "tagline": "圧倒的な軽さで、着けていることを忘れる快適さ",
+    "description": [
+      "わずか約4.8gという超軽量ボディが特徴のモデル。長時間つけていても耳への負担が少なく、仕事中や移動中に「着けていることを忘れる」快適さを追求しています。",
+      "軽量ながらノイズキャンセリング性能もしっかり搭載。外音取り込みモードも自然で、周囲の音を聞きながら使いたいシーンにも対応します。"
+    ],
+    "pros": [
+      "わずか約4.8gの超軽量設計",
+      "しっかりめのノイズキャンセリング",
+      "外音取り込みが自然",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "ワイヤレス充電には非対応",
+      "バッテリー持続時間は標準的"
+    ],
+    "recommended_for": "長時間の装着でも疲れにくいものを探している、仕事や通勤で毎日使う人に。"
+  },
+  {
+    "id": "sony-linkbuds-fit",
+    "name": "LinkBuds Fit",
+    "brand": "SONY",
+    "release_year": 2024,
+    "category": "ミドル",
+    "price_range": "20000-25000",
+    "price_label": "22,000円",
+    "price_yen": 22000,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute",
+      "sports"
+    ],
+    "persona_tags": [
+      "commuter",
+      "sports",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX4",
+      "battery_hours": 7,
+      "battery_hours_with_case": 17,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ]
+    },
+    "target_users": [
+      "フィット感を重視する人",
+      "毎日使うデイリーユースを探している人",
+      "軽い運動にも使いたい人"
+    ],
+    "tagline": "LinkBuds Sの快適さを受け継ぐ、フィット感重視の新定番",
+    "description": [
+      "LinkBuds Sの後継的な位置づけとなるモデルで、耳の形に合わせやすい新設計のイヤーピースにより高いフィット感を実現しています。",
+      "軽量設計とノイズキャンセリングのバランスは健在で、通勤や軽い運動などデイリーユースに向いた1台です。"
+    ],
+    "pros": [
+      "高いフィット感の新設計イヤーピース",
+      "軽量でしっかりめのANC",
+      "マルチポイント接続に対応",
+      "LDAC対応"
+    ],
+    "cons": [
+      "ワイヤレス充電には非対応",
+      "価格はLinkBuds Sよりやや高め"
+    ],
+    "recommended_for": "フィット感を重視しつつ、軽い運動にも通勤にも幅広く使いたい人に。"
+  },
+  {
+    "id": "sony-wf-c700n",
+    "name": "WF-C700N",
+    "brand": "SONY",
+    "release_year": 2023,
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "14,300円",
+    "price_yen": 14300,
+    "price_tier": "mid",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "basic",
+      "water_resistant": "IPX4",
+      "battery_hours": 7.5,
+      "battery_hours_with_case": 20,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "初めてノイキャンイヤホンを試したい人",
+      "予算を抑えつつSONYブランドが欲しい人",
+      "軽量なイヤホンを探している人"
+    ],
+    "tagline": "手が届く価格で、SONYのノイキャンを体験できる入門機",
+    "description": [
+      "SONYのノイズキャンセリング技術を、比較的手に取りやすい価格で体験できるエントリー〜ミドルクラスのモデルです。小型軽量なボディも魅力です。",
+      "上位モデルほどの静音性はないものの、日常の電車や街中のノイズを抑えるには十分な性能。初めてノイキャンイヤホンを試したい人にも向いています。"
+    ],
+    "pros": [
+      "手頃な価格でSONYのANCを体験できる",
+      "小型軽量なデザイン",
+      "カラーバリエーションが豊富",
+      "アプリでのカスタマイズに対応"
+    ],
+    "cons": [
+      "上位モデルよりANC性能は控えめ",
+      "マルチポイントには非対応"
+    ],
+    "recommended_for": "初めてノイキャンイヤホンを試したい人、予算を抑えつつSONYブランドを選びたい人に。"
+  },
+  {
+    "id": "bose-qc-ultra-earbuds",
+    "name": "QuietComfort Ultra Earbuds",
+    "brand": "Bose",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "35000-40000",
+    "price_label": "39,600円",
+    "price_yen": 39600,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "commuter",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IPX4",
+      "battery_hours": 6,
+      "battery_hours_with_case": 24,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC",
+        "aptX Adaptive"
+      ]
+    },
+    "target_users": [
+      "とにかく周囲の音を遮断したい人",
+      "新幹線移動や集中作業が多い人",
+      "音に包まれる体験を求める人"
+    ],
+    "tagline": "静寂を求めるならこの一台。ANCの完成度が別格",
+    "description": [
+      "「静けさ」に関してはBoseの真骨頂とも言えるモデル。業界屈指のノイズキャンセリング性能により、新幹線や飛行機など騒がしい環境でも高い静音性を発揮します。",
+      "イマーシブオーディオモードでは音に包まれるような立体的な音場を体験でき、長時間でも疲れにくい装着感と合わせて、集中したい時間にも没入したい時間にも使える万能機です。"
+    ],
+    "pros": [
+      "業界屈指の静音性能",
+      "イマーシブオーディオによる立体的なサウンド",
+      "長時間でも疲れにくい装着感",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "価格は高め",
+      "ケースがやや大きめ"
+    ],
+    "recommended_for": "とにかく周囲の音を遮断したい、移動中や集中作業の時間が多い人に。"
+  },
+  {
+    "id": "bose-ultra-open-earbuds",
+    "name": "Ultra Open Earbuds",
+    "brand": "Bose",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "35000-40000",
+    "price_label": "39,600円",
+    "price_yen": 39600,
+    "price_tier": "premium",
+    "fit_type": "open",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "sports"
+    ],
+    "use_case_tags": [
+      "commute",
+      "sports"
+    ],
+    "persona_tags": [
+      "luxury",
+      "commuter",
+      "sports"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": false,
+      "anc_level": "none",
+      "water_resistant": "IPX4",
+      "battery_hours": 7.5,
+      "battery_hours_with_case": 22,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "耳を塞がれる感覚が苦手な人",
+      "周囲の音を聞きながら使いたい人",
+      "開放型でも音質を妥協したくない人"
+    ],
+    "tagline": "耳を塞がずに、Boseならではの豊かな低音を",
+    "description": [
+      "イヤーカフのように耳にかけて使うオープンイヤー型でありながら、Bose独自の音響設計により、開放型としては非常に豊かな低音を再現するのが特徴です。",
+      "耳を塞がないため周囲の音や自分の声が自然に聞こえ、長時間の装着でも圧迫感がありません。ノイズキャンセリングは搭載していないため、静寂よりも「聞きながら使う」ことを重視する人向けです。"
+    ],
+    "pros": [
+      "オープン型としては珍しいしっかりした低音",
+      "耳を塞がず自然な聞こえ方",
+      "長時間でも圧迫感が少ない装着感",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "ノイズキャンセリング非搭載",
+      "周囲が非常に騒がしい環境では音楽が聞き取りづらい"
+    ],
+    "recommended_for": "耳を塞がれる感覚が苦手な人、周囲の音を聞きながら音楽や通話をしたい人に。"
+  },
+  {
+    "id": "bw-pi8",
+    "name": "Pi8",
+    "brand": "Bowers & Wilkins",
+    "release_year": 2024,
+    "category": "ハイエンド",
+    "price_range": "60000-70000",
+    "price_label": "64,900円",
+    "price_yen": 64900,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IP54",
+      "battery_hours": 7,
+      "battery_hours_with_case": 21,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "aptX Adaptive"
+      ]
+    },
+    "target_users": [
+      "音質に強くこだわりたい人",
+      "所有する満足感も重視する人",
+      "予算に余裕がある人"
+    ],
+    "tagline": "英国発の音響ブランドが作る、上質なサウンドの完成形",
+    "description": [
+      "スピーカーやヘッドホンで知られる音響ブランドBowers & Wilkinsが手がけるフラッグシップイヤホン。カスタムドライバーによる緻密で上質なサウンドが持ち味です。",
+      "高級感のあるデザインと素材、しっかりとしたノイズキャンセリングも兼ね備え、価格に見合う所有満足度の高さが際立つ一台です。"
+    ],
+    "pros": [
+      "音響ブランドならではの緻密で上質なサウンド",
+      "高級感のあるデザイン・素材",
+      "しっかりとしたノイズキャンセリング",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "価格が非常に高い",
+      "国内でのサポート拠点はやや少なめ"
+    ],
+    "recommended_for": "音質と所有満足度の両方を重視する、予算に余裕のあるこだわり派に。"
+  },
+  {
+    "id": "technics-eah-az80",
+    "name": "EAH-AZ80",
+    "brand": "Technics",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "35000-40000",
+    "price_label": "39,600円",
+    "price_yen": 39600,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "commuter",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IPX4",
+      "battery_hours": 7,
+      "battery_hours_with_case": 24,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "LDAC",
+        "aptX Adaptive"
+      ]
+    },
+    "target_users": [
+      "音質とANCの両方を重視する人",
+      "老舗オーディオブランドを信頼する人",
+      "出張・移動が多い人"
+    ],
+    "tagline": "老舗オーディオブランドの技術を詰め込んだ実力派",
+    "description": [
+      "Technicsのオーディオ技術を凝縮したフラッグシップモデル。8方向のノイズセンサーによる高精度なノイズキャンセリングと、クリアな音質のバランスに優れています。",
+      "LDACやマルチポイントなど機能面も充実しており、音質と実用性の両方を高いレベルで求める人に適した1台です。"
+    ],
+    "pros": [
+      "高精度なノイズキャンセリング",
+      "クリアで解像度の高いサウンド",
+      "LDAC対応でハイレゾ相当の音質",
+      "マルチポイント・ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "価格は高め",
+      "本体がやや大きめ"
+    ],
+    "recommended_for": "音質とANCの両方を高いレベルで求める、出張や移動が多い人に。"
+  },
+  {
+    "id": "anker-liberty-4-nc",
+    "name": "Soundcore Liberty 4 NC",
+    "brand": "Anker",
+    "release_year": 2023,
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "14,990円",
+    "price_yen": 14990,
+    "price_tier": "mid",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "longwear",
+      "sports"
+    ],
+    "use_case_tags": [
+      "commute",
+      "sports"
+    ],
+    "persona_tags": [
+      "commuter",
+      "sports"
+    ],
+    "low_latency_mode": true,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX4",
+      "battery_hours": 6.5,
+      "battery_hours_with_case": 26,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "予算を抑えつつANCも欲しい人",
+      "コストパフォーマンス重視派",
+      "ワークアウトでも使いたい人"
+    ],
+    "tagline": "この価格でANC搭載。コスパを求めるならまずこれ",
+    "description": [
+      "1万円台という手頃な価格ながら、本格的なノイズキャンセリングを搭載したコストパフォーマンスに優れたモデルです。心拍センサーも備え、ワークアウト用途にも対応します。",
+      "アプリからイコライザーを細かく調整できるため、自分好みのサウンドに仕上げやすいのも魅力。価格を抑えつつ機能はしっかり欲しい人に向いています。"
+    ],
+    "pros": [
+      "1万円台で本格的なノイズキャンセリング",
+      "心拍センサー搭載でワークアウトにも対応",
+      "アプリでイコライザーを細かくカスタム可能",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "上位モデルに比べ音質は一段劣る",
+      "装着感はやや大きめ"
+    ],
+    "recommended_for": "予算を抑えつつANCも欲しい、コストパフォーマンス重視派に。"
+  },
+  {
+    "id": "anker-liberty-5",
+    "name": "Soundcore Liberty 5",
+    "brand": "Anker",
+    "release_year": 2024,
+    "category": "ミドル",
+    "price_range": "15000-20000",
+    "price_label": "16,990円",
+    "price_yen": 16990,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "sports"
+    ],
+    "use_case_tags": [
+      "commute",
+      "sports",
+      "media"
+    ],
+    "persona_tags": [
+      "commuter",
+      "sports",
+      "audiophile"
+    ],
+    "low_latency_mode": true,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX4",
+      "battery_hours": 7,
+      "battery_hours_with_case": 32,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ]
+    },
+    "target_users": [
+      "コスパと音質を両立したい人",
+      "バッテリー持ちを重視する人",
+      "長時間の外出が多い人"
+    ],
+    "tagline": "Liberty 4 NCの上位版。LDAC対応でワンランク上の音質へ",
+    "description": [
+      "Liberty 4 NCの上位モデルとして、LDAC対応によるハイレゾ相当の音質と、より洗練されたノイズキャンセリングを実現しています。",
+      "バッテリー持続時間も長く、外出先での使用にも安心。価格と性能のバランスが良く、コスパを重視しつつ音質にもこだわりたい人に向いています。"
+    ],
+    "pros": [
+      "LDAC対応で高音質",
+      "長時間再生に対応するバッテリー",
+      "しっかりめのノイズキャンセリング",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "Liberty 4 NCよりは価格が上がる",
+      "ケースがやや大きめ"
+    ],
+    "recommended_for": "コストパフォーマンスと音質の両方を求める、長時間外出が多い人に。"
+  },
+  {
+    "id": "anker-life-p3",
+    "name": "Soundcore Life P3",
+    "brand": "Anker",
+    "release_year": 2021,
+    "category": "エントリー",
+    "price_range": "5000-8000",
+    "price_label": "7,990円",
+    "price_yen": 7990,
+    "price_tier": "low",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "basic",
+      "water_resistant": "IPX5",
+      "battery_hours": 7,
+      "battery_hours_with_case": 40,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "とにかく予算を抑えたい人",
+      "初めてワイヤレスイヤホンを試す人",
+      "コスパ重視の人"
+    ],
+    "tagline": "初めてのワイヤレスイヤホンに、価格以上の完成度",
+    "description": [
+      "1万円以下という価格ながらノイズキャンセリングを搭載し、価格以上の完成度を実現しているエントリーモデルです。",
+      "アプリでのカスタムイコライザーにも対応し、ケース込みで長時間再生できる点も魅力。初めてワイヤレスイヤホンを試す人に適しています。"
+    ],
+    "pros": [
+      "1万円以下ながらノイズキャンセリングを搭載",
+      "アプリでカスタムイコライザーに対応",
+      "ケース込みで長時間再生",
+      "装着感も比較的良好"
+    ],
+    "cons": [
+      "上位モデルに比べ音質・ANC性能は控えめ",
+      "マルチポイント非対応"
+    ],
+    "recommended_for": "とにかく予算を抑えたい人、初めてワイヤレスイヤホンを試す人に。"
+  },
+  {
+    "id": "anker-p30i",
+    "name": "Soundcore P30i",
+    "brand": "Anker",
+    "release_year": 2024,
+    "category": "エントリー",
+    "price_range": "0-5000",
+    "price_label": "4,990円",
+    "price_yen": 4990,
+    "price_tier": "low",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "basic",
+      "water_resistant": "IPX5",
+      "battery_hours": 6,
+      "battery_hours_with_case": 25,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "とにかく安く済ませたい人",
+      "予備の1台が欲しい人",
+      "初めてワイヤレスイヤホンを使う人"
+    ],
+    "tagline": "5,000円以下で試せる、気軽な普段使いの1台",
+    "description": [
+      "5,000円以下という非常に手頃な価格帯のエントリーモデル。とりあえず1台試してみたいという人にちょうど良い価格設定です。",
+      "上位モデルのような高機能さはありませんが、日常的な音楽再生や通話には十分な性能を備えています。"
+    ],
+    "pros": [
+      "非常に手頃な価格",
+      "軽量でシンプルな使い勝手",
+      "基本的なノイズキャンセリングを搭載",
+      "カラーバリエーションが豊富"
+    ],
+    "cons": [
+      "音質・ANC性能は価格なりの範囲",
+      "マルチポイント非対応"
+    ],
+    "recommended_for": "とにかく安く済ませたい人、予備の1台やサブ機を探している人に。"
+  },
+  {
+    "id": "anker-aerofit-pro",
+    "name": "Soundcore AeroFit Pro",
+    "brand": "Anker",
+    "release_year": 2023,
+    "category": "ミドル",
+    "price_range": "20000-25000",
+    "price_label": "22,990円",
+    "price_yen": 22990,
+    "price_tier": "high",
+    "fit_type": "open",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "sports",
+      "compact"
+    ],
+    "use_case_tags": [
+      "sports"
+    ],
+    "persona_tags": [
+      "sports"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": false,
+      "anc_level": "none",
+      "water_resistant": "IPX5",
+      "battery_hours": 8,
+      "battery_hours_with_case": 28,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "耳を塞がれる感覚が苦手な人",
+      "ランニングなど運動時に使いたい人",
+      "周囲の音を聞きながら使いたい人"
+    ],
+    "tagline": "耳を塞がないから、外音も音楽も両方欲しい人に",
+    "description": [
+      "耳をクリップのように挟んで装着するオープンイヤー型。耳を塞がないため、周囲の音を聞きながらランニングや通勤で使いたい人に向いています。",
+      "軽量設計で長時間の運動でも快適に使え、IPX5相当の防水性能により汗や急な雨にも安心です。"
+    ],
+    "pros": [
+      "オープンイヤー型で周囲の音を聞きながら使える",
+      "軽量で長時間の運動でも快適",
+      "防水性能でランニングにも安心",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "ノイズキャンセリングは非搭載",
+      "低音の量感はカナル型に劣る"
+    ],
+    "recommended_for": "耳を塞がれる感覚が苦手な人、周囲の音を聞きながら音楽や通話をしたい人に。"
+  },
+  {
+    "id": "anker-space-one",
+    "name": "Soundcore Space One",
+    "brand": "Anker",
+    "release_year": 2023,
+    "category": "エントリー",
+    "price_range": "8000-10000",
+    "price_label": "9,990円",
+    "price_yen": 9990,
+    "price_tier": "mid",
+    "fit_type": "over-ear",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": null,
+      "battery_hours": 40,
+      "battery_hours_with_case": null,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "イヤホンの密閉感が苦手な人",
+      "自宅や移動中に集中したい人",
+      "手頃な価格でヘッドホンを探している人"
+    ],
+    "tagline": "手頃な価格で本格ANCを体験できるオーバーイヤー",
+    "description": [
+      "オーバーイヤー型でありながら比較的手頃な価格を実現したモデル。しっかりとしたノイズキャンセリングを搭載し、自宅や移動中の集中したい時間に向いています。",
+      "バッテリー持続時間も長く、一度の充電で長時間使えるのも魅力。イヤホンの密閉感が苦手な人にとって、ヘッドホンタイプという選択肢を手頃な価格で提供します。"
+    ],
+    "pros": [
+      "手頃な価格でオーバーイヤー型のANCを体験できる",
+      "長時間再生に対応するバッテリー",
+      "装着感の良いイヤークッション",
+      "アプリでのカスタマイズに対応"
+    ],
+    "cons": [
+      "持ち運びにはややかさばる",
+      "スポーツ用途には不向き"
+    ],
+    "recommended_for": "イヤホンの密閉感が苦手で、手頃な価格のヘッドホンタイプを探している人に。"
+  },
+  {
+    "id": "nothing-ear-a",
+    "name": "Ear (a)",
+    "brand": "Nothing",
+    "release_year": 2024,
+    "category": "ミドル",
+    "price_range": "15000-20000",
+    "price_label": "15,800円",
+    "price_yen": 15800,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": true,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IP54",
+      "battery_hours": 5.5,
+      "battery_hours_with_case": 24,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "性能はもちろんデザインの個性も大事にしたい人",
+      "コスパを重視する人",
+      "人と被らないアイテムが欲しい人"
+    ],
+    "tagline": "個性的な透明デザインと、価格を超えたサウンド",
+    "description": [
+      "半透明のボディを採用した個性的なデザインが目を引くモデル。人と被りにくい見た目でありながら、価格帯を超えたバランスの良いサウンドを実現しています。",
+      "しっかりめのノイズキャンセリングも搭載し、デザイン・性能ともにコストパフォーマンスに優れた1台です。"
+    ],
+    "pros": [
+      "半透明の独特なデザイン",
+      "価格帯を超えるバランスの良いサウンド",
+      "しっかりめのノイズキャンセリング",
+      "アプリでのカスタマイズが豊富"
+    ],
+    "cons": [
+      "マルチポイントには非対応",
+      "ワイヤレス充電は非対応"
+    ],
+    "recommended_for": "性能はもちろん、デザインの個性も大事にしたい人に。"
+  },
+  {
+    "id": "nothing-ear-2024",
+    "name": "Ear",
+    "brand": "Nothing",
+    "release_year": 2024,
+    "category": "ミドル",
+    "price_range": "20000-25000",
+    "price_label": "21,800円",
+    "price_yen": 21800,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media"
+    ],
+    "persona_tags": [
+      "commuter",
+      "audiophile"
+    ],
+    "low_latency_mode": true,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IP55",
+      "battery_hours": 6,
+      "battery_hours_with_case": 22,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "LHDC"
+      ]
+    },
+    "target_users": [
+      "デザインと音質どちらも譲れない人",
+      "最新ガジェットが好きな人",
+      "実用機能も重視したい人"
+    ],
+    "tagline": "Nothingの上位モデル。デザイン性と音質を高次元で両立",
+    "description": [
+      "Ear (a) の上位に位置するモデルで、より高性能なドライバーとノイズキャンセリングを搭載。Nothingらしい透明感のあるデザインはそのままに、完成度を高めています。",
+      "ハイレゾ相当のコーデックにも対応し、マルチポイントやワイヤレス充電など実用面の機能も充実。デザインと実用性を両立したい人に向いています。"
+    ],
+    "pros": [
+      "デザイン性と音質を高次元で両立",
+      "しっかりめのノイズキャンセリング",
+      "マルチポイント・ワイヤレス充電に対応",
+      "ハイレゾ相当のコーデックに対応"
+    ],
+    "cons": [
+      "Ear (a) より価格は上がる",
+      "日本国内でのアフターサポート拠点は少なめ"
+    ],
+    "recommended_for": "デザインと音質のどちらも譲れない、最新ガジェット好きな人に。"
+  },
+  {
+    "id": "jbl-live-pro-2",
+    "name": "Live Pro 2",
+    "brand": "JBL",
+    "release_year": 2023,
+    "category": "ミドル",
+    "price_range": "15000-20000",
+    "price_label": "19,800円",
+    "price_yen": 19800,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX5",
+      "battery_hours": 8,
+      "battery_hours_with_case": 40,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "迫力のある低音を求める人",
+      "通勤中に音楽を楽しみたい人",
+      "コスパの良いANCイヤホンを探している人"
+    ],
+    "tagline": "JBLらしいパワフルなサウンドと、しっかりめのANC",
+    "description": [
+      "JBLらしい迫力のある低音とパワフルなサウンドが持ち味のモデル。ノイズキャンセリングもしっかりと搭載され、通勤や自宅でのリスニングに向いています。",
+      "ケース込みで長時間の再生が可能なうえ、ワイヤレス充電にも対応。音の迫力を求める人にとって満足度の高い1台です。"
+    ],
+    "pros": [
+      "JBLらしいパワフルで迫力のあるサウンド",
+      "しっかりめのノイズキャンセリング",
+      "ケース込みで長時間再生が可能",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "繊細さより迫力重視のチューニング",
+      "マルチポイントの安定性は上位機に劣る"
+    ],
+    "recommended_for": "迫力のある低音を求める、コスパの良いANCイヤホンを探している人に。"
+  },
+  {
+    "id": "jbl-tour-pro-2",
+    "name": "Tour Pro 2",
+    "brand": "JBL",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "35000-40000",
+    "price_label": "38,500円",
+    "price_yen": 38500,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "work",
+      "commute",
+      "media"
+    ],
+    "persona_tags": [
+      "luxury",
+      "commuter",
+      "office"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX5",
+      "battery_hours": 8,
+      "battery_hours_with_case": 40,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "ガジェットとしての面白さも求める人",
+      "機能性を重視する人",
+      "音質にもこだわりたい人"
+    ],
+    "tagline": "ケースに液晶ディスプレイを搭載した、遊び心のある1台",
+    "description": [
+      "充電ケースに小型のタッチディスプレイを搭載しているのが最大の特徴。イヤホンを取り出さずに操作や通知確認ができるユニークなモデルです。",
+      "音質・ノイズキャンセリング性能もハイエンドクラスで、機能性とエンターテインメント性を両立したい人に向いています。"
+    ],
+    "pros": [
+      "充電ケースの液晶ディスプレイがユニーク",
+      "ハイエンドクラスの音質とANC",
+      "ケース込みで長時間再生が可能",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "ケースがやや大きめでかさばる",
+      "価格はハイエンド帯"
+    ],
+    "recommended_for": "ガジェットとしての面白さと、確かな音質・機能性を両方求める人に。"
+  },
+  {
+    "id": "jbl-tune-230nc",
+    "name": "Tune 230NC TWS",
+    "brand": "JBL",
+    "release_year": 2023,
+    "category": "エントリー",
+    "price_range": "8000-10000",
+    "price_label": "8,980円",
+    "price_yen": 8980,
+    "price_tier": "mid",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "basic",
+      "water_resistant": "IPX4",
+      "battery_hours": 8,
+      "battery_hours_with_case": 40,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "とにかく予算を抑えたい人",
+      "気軽にANCイヤホンを試したい人",
+      "シンプルな機能で十分な人"
+    ],
+    "tagline": "1万円以下で気軽にJBLサウンドとANCを",
+    "description": [
+      "1万円以下という手頃な価格ながら、ノイズキャンセリングを搭載したエントリーモデル。JBLらしい聞き取りやすいサウンドチューニングが特徴です。",
+      "特別な機能は絞られていますが、必要十分な性能を手頃な価格で求める人にとって選びやすい1台です。"
+    ],
+    "pros": [
+      "1万円以下で購入しやすい価格",
+      "JBLらしい聞き取りやすいサウンド",
+      "基本的なノイズキャンセリングを搭載",
+      "軽量で装着しやすい"
+    ],
+    "cons": [
+      "マルチポイント・ワイヤレス充電は非対応",
+      "上位モデルに比べ機能はシンプル"
+    ],
+    "recommended_for": "とにかく予算を抑えたい人、気軽にANCイヤホンを試したい人に。"
+  },
+  {
+    "id": "beats-fit-pro",
+    "name": "Beats Fit Pro",
+    "brand": "Beats",
+    "release_year": 2021,
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "29,800円",
+    "price_yen": 29800,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "sports",
+      "longwear"
+    ],
+    "use_case_tags": [
+      "sports",
+      "commute"
+    ],
+    "persona_tags": [
+      "luxury",
+      "commuter",
+      "sports"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX4",
+      "battery_hours": 6,
+      "battery_hours_with_case": 24,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "ランニングやジムでの使用がメインの人",
+      "装着の安定感を最優先したい人",
+      "iPhone以外でも使いたい人"
+    ],
+    "tagline": "ウイングチップでどんな動きにも外れない安定感",
+    "description": [
+      "独自のウイングチップにより、激しい運動でもズレにくい安定した装着感を実現したスポーツ向けモデル。Beatsらしいパワフルなサウンドも持ち味です。",
+      "iPhone・Androidのどちらでも専用アプリからフル機能を使えるため、Apple製品以外を使っている人でも扱いやすいのが特徴です。"
+    ],
+    "pros": [
+      "独自のウイングチップで運動中もズレにくい",
+      "しっかりめのANCと外音取り込み",
+      "iPhone・Androidどちらでもフル機能",
+      "Beatsらしいパワフルなサウンド"
+    ],
+    "cons": [
+      "ケースはややかさばる",
+      "ワイヤレス充電は非対応"
+    ],
+    "recommended_for": "ランニングやジムでの使用がメインで、装着の安定感を最優先したい人に。"
+  },
+  {
+    "id": "beats-studio-buds-plus",
+    "name": "Beats Studio Buds +",
+    "brand": "Beats",
+    "release_year": 2023,
+    "category": "ミドル",
+    "price_range": "20000-25000",
+    "price_label": "24,980円",
+    "price_yen": 24980,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "compact",
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "work"
+    ],
+    "persona_tags": [
+      "commuter",
+      "office"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX4",
+      "battery_hours": 6,
+      "battery_hours_with_case": 24,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "小型軽量なイヤホンを探している人",
+      "iPhone以外でも使いたい人",
+      "通話品質を重視する人"
+    ],
+    "tagline": "コンパクトなボディに、Beatsらしいサウンドを凝縮",
+    "description": [
+      "小型軽量なボディにBeatsらしいパワフルなサウンドを凝縮したモデル。ステムのない丸みを帯びたデザインで、装着時の主張も控えめです。",
+      "iPhone・Androidどちらでも専用アプリでフル機能を使え、通話品質にも定評があります。日常使いしやすいバランスの良い1台です。"
+    ],
+    "pros": [
+      "小型軽量で主張しすぎないデザイン",
+      "Beatsらしいパワフルなサウンド",
+      "iPhone・Androidどちらでもフル機能",
+      "通話品質に定評あり"
+    ],
+    "cons": [
+      "ワイヤレス充電には非対応",
+      "バッテリー持続時間は標準的"
+    ],
+    "recommended_for": "小型軽量で、iPhone以外でも使いやすいイヤホンを探している人に。"
+  },
+  {
+    "id": "earfun-air-pro-3",
+    "name": "Air Pro 3",
+    "brand": "EarFun",
+    "release_year": 2023,
+    "category": "エントリー",
+    "price_range": "5000-8000",
+    "price_label": "7,990円",
+    "price_yen": 7990,
+    "price_tier": "low",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX5",
+      "battery_hours": 9,
+      "battery_hours_with_case": 52,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "とにかくコストパフォーマンスを重視する人",
+      "ANC性能を安く体験したい人",
+      "バッテリー持ちを重視する人"
+    ],
+    "tagline": "コスパブランドの実力派。価格を超えたANC性能",
+    "description": [
+      "新興オーディオブランドEarFunによる、価格を大きく超えるノイズキャンセリング性能が評判のモデルです。1万円以下ながら本格的な静音性を体験できます。",
+      "バッテリー持続時間も長く、ケース込みで50時間以上の再生に対応。コストパフォーマンスを最優先したい人におすすめです。"
+    ],
+    "pros": [
+      "価格を超えるノイズキャンセリング性能",
+      "ケース込みで非常に長いバッテリー持続時間",
+      "軽量でコンパクトなデザイン",
+      "アプリでのカスタマイズに対応"
+    ],
+    "cons": [
+      "ブランド知名度は大手より低い",
+      "国内サポート体制はシンプル"
+    ],
+    "recommended_for": "とにかくコストパフォーマンスを重視する、ANC性能を安く体験したい人に。"
+  },
+  {
+    "id": "redmi-buds-5",
+    "name": "Redmi Buds 5",
+    "brand": "Redmi",
+    "release_year": 2023,
+    "category": "エントリー",
+    "price_range": "5000-8000",
+    "price_label": "5,980円",
+    "price_yen": 5980,
+    "price_tier": "low",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "basic",
+      "water_resistant": "IP54",
+      "battery_hours": 10,
+      "battery_hours_with_case": 36,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "とにかく価格を抑えたい人",
+      "サブ機・予備機を探している人",
+      "シンプルな機能で十分な人"
+    ],
+    "tagline": "驚きの低価格で日常使いに十分な性能",
+    "description": [
+      "スマートフォンで知られるXiaomi系ブランドによる、非常に手頃な価格が魅力のモデルです。日常的な音楽再生や通話に必要な性能を過不足なく備えています。",
+      "ノイズキャンセリングは基本的なレベルですが、価格を考えれば十分な完成度。予備の1台やサブ機としても扱いやすい1台です。"
+    ],
+    "pros": [
+      "非常に手頃な価格",
+      "バッテリー持続時間が長め",
+      "軽量でシンプルなデザイン",
+      "日常使いに必要十分な性能"
+    ],
+    "cons": [
+      "ANC性能は上位機に見劣りする",
+      "マルチポイント・ワイヤレス充電は非対応"
+    ],
+    "recommended_for": "とにかく価格を抑えたい人、サブ機・予備機を探している人に。"
+  },
+  {
+    "id": "jabra-elite-5",
+    "name": "Elite 5",
+    "brand": "Jabra",
+    "release_year": 2022,
+    "category": "ミドル",
+    "price_range": "15000-20000",
+    "price_label": "16,900円",
+    "price_yen": 16900,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "sports"
+    ],
+    "use_case_tags": [
+      "work",
+      "commute"
+    ],
+    "persona_tags": [
+      "commuter",
+      "office",
+      "mic_quality"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "excellent",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IP55",
+      "battery_hours": 6,
+      "battery_hours_with_case": 20,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "オンライン会議や通話が多い人",
+      "バランスの良い実力機を探している人",
+      "仕事用のイヤホンを探している人"
+    ],
+    "tagline": "通話品質に定評のあるブランドが作る、バランス型の実力機",
+    "description": [
+      "ビジネス向け通信機器で培った技術を持つJabraによるモデル。マイク・通話品質の高さに定評があり、オンライン会議や電話利用が多い人に適しています。",
+      "ノイズキャンセリングや装着感のバランスも良く、価格に対して機能面の満足度が高い、いわゆる「隠れた実力機」的な存在です。"
+    ],
+    "pros": [
+      "通話・マイク品質に定評がある",
+      "バランスの良いノイズキャンセリング",
+      "安定した装着感",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "ブランドとしての知名度はやや控えめ",
+      "デザインはやや実用重視"
+    ],
+    "recommended_for": "オンライン会議や通話が多い、バランスの良い実力機を探している人に。"
+  },
+  {
+    "id": "shokz-openrun-pro-2",
+    "name": "OpenRun Pro 2",
+    "brand": "Shokz",
+    "release_year": 2024,
+    "category": "ミドル",
+    "price_range": "20000-25000",
+    "price_label": "23,760円",
+    "price_yen": 23760,
+    "price_tier": "high",
+    "fit_type": "bone-conduction",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "sports",
+      "compact"
+    ],
+    "use_case_tags": [
+      "sports"
+    ],
+    "persona_tags": [
+      "sports"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": false,
+      "anc_level": "none",
+      "water_resistant": "IP55",
+      "battery_hours": 10,
+      "battery_hours_with_case": null,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "ランニングやサイクリングをする人",
+      "周囲の音を聞きながら運動したい人",
+      "耳の穴を塞ぎたくない人"
+    ],
+    "tagline": "耳を完全に開放する骨伝導。運動中の安全性を重視する人に",
+    "description": [
+      "耳を塞がずに音を伝える骨伝導技術を採用したスポーツ向けモデル。耳の穴を完全に開放したまま音楽や通話を楽しめるため、周囲の音への注意が必要なランニングやサイクリングに適しています。",
+      "IP55相当の防水性能で汗や雨にも対応し、耳にかけるタイプの安定した装着感も特徴。ノイズキャンセリングは搭載していませんが、「音を聞きながら安全に運動したい」というニーズに特化した1台です。"
+    ],
+    "pros": [
+      "耳を完全に開放する骨伝導設計",
+      "運動中も周囲の音に気づきやすい安全性",
+      "IP55相当の高い防水性能",
+      "安定した装着感"
+    ],
+    "cons": [
+      "ノイズキャンセリングは非搭載",
+      "骨伝導特有の音質(振動音)に好みが分かれる"
+    ],
+    "recommended_for": "ランニングやサイクリングをする、周囲の音を聞きながら安全に運動したい人に。"
+  },
+  {
+    "id": "bang-olufsen-beoplay-ex",
+    "name": "Beoplay EX",
+    "brand": "Bang & Olufsen",
+    "release_year": 2022,
+    "category": "ハイエンド",
+    "price_range": "40000-50000",
+    "price_label": "45,000円",
+    "price_yen": 45000,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IP57",
+      "battery_hours": 6,
+      "battery_hours_with_case": 20,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "aptX Adaptive"
+      ]
+    },
+    "target_users": [
+      "高級感のあるデザインを求める人",
+      "北欧ブランドが好きな人",
+      "上質な音質を求める人"
+    ],
+    "tagline": "北欧デザインの美しさと、確かな音質を兼ね備えた一台",
+    "description": [
+      "北欧デザインで知られるBang & Olufsenが手がける、アルミニウムボディの美しい仕上げが特徴のフラッグシップイヤホンです。IP57相当の高い防塵防水性能を備え、日常使いでも安心して使えます。",
+      "しっかりとしたノイズキャンセリングと、ブランドらしい温かみのあるサウンドチューニングが持ち味。高級感のある所有体験を求める人に向いた一台です。"
+    ],
+    "pros": [
+      "高級感のあるアルミニウムボディ",
+      "IP57相当の高い防塵防水性能",
+      "しっかりとしたノイズキャンセリング",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "価格が高め",
+      "国内の取扱店舗はやや限られる"
+    ],
+    "recommended_for": "高級感のあるデザインと所有満足度を重視する、上質なイヤホンを探している人に。"
+  },
+  {
+    "id": "sennheiser-momentum-tw4",
+    "name": "MOMENTUM True Wireless 4",
+    "brand": "Sennheiser",
+    "release_year": 2024,
+    "category": "ハイエンド",
+    "price_range": "35000-40000",
+    "price_label": "39,800円",
+    "price_yen": 39800,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IP54",
+      "battery_hours": 7,
+      "battery_hours_with_case": 28,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "aptX Adaptive"
+      ]
+    },
+    "target_users": [
+      "自然なサウンドを求める人",
+      "老舗オーディオブランドを信頼する人",
+      "出張・移動が多い人"
+    ],
+    "tagline": "老舗オーディオブランドが磨き上げた、自然で解像感のあるサウンド",
+    "description": [
+      "ドイツの音響ブランドSennheiserが培ってきたチューニング技術を注ぎ込んだフラッグシップモデル。誇張のない自然なサウンドバランスに定評があります。",
+      "ノイズキャンセリングやマルチポイント接続など機能面も充実しており、音質と実用性を高いレベルで両立しています。"
+    ],
+    "pros": [
+      "自然で解像感のあるサウンド",
+      "しっかりとしたノイズキャンセリング",
+      "マルチポイント接続に対応",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "価格は高め",
+      "ケースがやや大きめ"
+    ],
+    "recommended_for": "誇張のない自然なサウンドを求める、音質にこだわりたい人に。"
+  },
+  {
+    "id": "bw-pi7-s2",
+    "name": "Pi7 S2",
+    "brand": "Bowers & Wilkins",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "50000-60000",
+    "price_label": "54,000円",
+    "price_yen": 54000,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IP54",
+      "battery_hours": 5,
+      "battery_hours_with_case": 20,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "aptX Adaptive",
+        "aptX HD"
+      ]
+    },
+    "target_users": [
+      "音質に強くこだわりたい人",
+      "所有する満足感も重視する人",
+      "テレビの音声も高音質で聞きたい人"
+    ],
+    "tagline": "独自のワイヤレスオーディオ伝送で、上質なサウンドを",
+    "description": [
+      "既存モデルPi8の弟分にあたるモデルで、独自の高音質ワイヤレス伝送技術により、付属の充電ケースをトランスミッターとしてテレビなどの音声も高音質で楽しめるのが特徴です。",
+      "Pi8に迫る音質を、一段手に取りやすい価格で体験できるバランスの良い一台です。"
+    ],
+    "pros": [
+      "独自のワイヤレスオーディオ伝送技術",
+      "Pi8に迫る上質なサウンド",
+      "しっかりとしたノイズキャンセリング",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "価格は依然として高め",
+      "バッテリー持続時間は標準的"
+    ],
+    "recommended_for": "Pi8ほどの予算はかけられないが、B&Wの音質は体験したい人に。"
+  },
+  {
+    "id": "master-dynamic-mw09",
+    "name": "MW09",
+    "brand": "Master & Dynamic",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "45000-50000",
+    "price_label": "49,500円",
+    "price_yen": 49500,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IPX5",
+      "battery_hours": 10,
+      "battery_hours_with_case": 38,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ]
+    },
+    "target_users": [
+      "デザイン性を重視する人",
+      "長時間の外出が多い人",
+      "音質にもこだわりたい人"
+    ],
+    "tagline": "レザーとメタルの高級素材が際立つ、ラグジュアリーな一台",
+    "description": [
+      "高級レザー製品でも知られるMaster & Dynamicらしい、メタルとレザーを組み合わせた重厚感のあるデザインが特徴です。",
+      "LDAC対応の高音質に加え、10時間という長いバッテリー持続時間も魅力。デザイン性と実用性を両立したい人に向いています。"
+    ],
+    "pros": [
+      "メタル・レザー素材の高級感あるデザイン",
+      "LDAC対応の高音質",
+      "長時間再生に対応するバッテリー",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "価格が高い",
+      "本体はやや重め"
+    ],
+    "recommended_for": "デザイン性と音質を両立したい、所有する満足感を重視する人に。"
+  },
+  {
+    "id": "denon-perl-pro",
+    "name": "PerL Pro",
+    "brand": "Denon",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "50000-60000",
+    "price_label": "54,780円",
+    "price_yen": 54780,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IPX4",
+      "battery_hours": 8,
+      "battery_hours_with_case": 22,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "自分の聴こえ方に合わせたい人",
+      "唯一無二の音質体験をしたい人",
+      "予算に余裕がある人"
+    ],
+    "tagline": "聴力に合わせて音を最適化する、パーソナライズドサウンド",
+    "description": [
+      "医療機器メーカーMasimoの技術を応用し、個人の聴力特性に合わせて音質を自動調整する「PerL」機能が最大の特徴です。専用アプリで自分だけの聴こえ方にチューニングできます。",
+      "価格は高めですが、自分の耳に最適化されたサウンドという唯一無二の体験ができる一台です。"
+    ],
+    "pros": [
+      "聴力に合わせた個人最適化サウンド",
+      "しっかりとしたノイズキャンセリング",
+      "ワイヤレス充電に対応",
+      "高級感のあるデザイン"
+    ],
+    "cons": [
+      "価格が非常に高い",
+      "初期設定にやや時間がかかる"
+    ],
+    "recommended_for": "自分の聴こえ方に合わせた、唯一無二のサウンド体験をしたい人に。"
+  },
+  {
+    "id": "akg-n5-hybrid",
+    "name": "N5 Hybrid",
+    "brand": "AKG",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "29,800円",
+    "price_yen": 29800,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media"
+    ],
+    "persona_tags": [
+      "luxury"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX4",
+      "battery_hours": 6,
+      "battery_hours_with_case": 24,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "プレミアムブランドを試したい人",
+      "厚みのあるサウンドが好きな人",
+      "通勤中の音楽鑑賞を重視する人"
+    ],
+    "tagline": "Harman系ブランドのサウンドチューニングをハイブリッド設計で",
+    "description": [
+      "音響ブランドAKGが手がけるモデルで、ハイブリッドドライバー構成による厚みのあるサウンドが特徴です。",
+      "しっかりとしたノイズキャンセリングと使い勝手の良さを兼ね備え、プレミアムブランドの入門機としても選びやすい一台です。"
+    ],
+    "pros": [
+      "ハイブリッドドライバーによる厚みのあるサウンド",
+      "しっかりとしたノイズキャンセリング",
+      "ワイヤレス充電に対応",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "国内での知名度はやや低い",
+      "LDACなど上位コーデックには非対応"
+    ],
+    "recommended_for": "プレミアムブランドのサウンドを、比較的手に取りやすい価格で試したい人に。"
+  },
+  {
+    "id": "focal-bathys",
+    "name": "Bathys",
+    "brand": "Focal",
+    "release_year": 2022,
+    "category": "ハイエンド",
+    "price_range": "70000-80000",
+    "price_label": "73,000円",
+    "price_yen": 73000,
+    "price_tier": "premium",
+    "fit_type": "over-ear",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": null,
+      "battery_hours": 30,
+      "battery_hours_with_case": null,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "aptX Adaptive"
+      ]
+    },
+    "target_users": [
+      "自宅でじっくり音楽に向き合いたい人",
+      "本格的なオーバーイヤーを探している人",
+      "有線接続もしたい人"
+    ],
+    "tagline": "フランスの名門オーディオブランドが作る、本格オーバーイヤー",
+    "description": [
+      "スピーカーやハイエンドヘッドホンで知られるフランスのオーディオブランドFocalが手がける、同社初のワイヤレスヘッドホンです。有線接続にも対応し、DAC内蔵で高音質再生ができます。",
+      "30時間という長時間バッテリーと、密閉型ヘッドホンならではの豊かな低音が魅力。自宅でじっくり音楽に向き合いたい人向けの一台です。"
+    ],
+    "pros": [
+      "名門オーディオブランドならではの音質",
+      "30時間の長時間バッテリー",
+      "有線接続にも対応",
+      "しっかりとしたノイズキャンセリング"
+    ],
+    "cons": [
+      "価格が非常に高い",
+      "本体がかさばり携帯性は低い"
+    ],
+    "recommended_for": "自宅でじっくり音楽に向き合いたい、本格的なオーバーイヤーを探している人に。"
+  },
+  {
+    "id": "devialet-gemini-2",
+    "name": "Gemini II",
+    "brand": "Devialet",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "50000-60000",
+    "price_label": "54,780円",
+    "price_yen": 54780,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IPX4",
+      "battery_hours": 7,
+      "battery_hours_with_case": 26,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "所有満足度の高さを求める人",
+      "重厚なサウンドが好きな人",
+      "高級オーディオブランドが好きな人"
+    ],
+    "tagline": "フランスの高級オーディオブランドが放つ、迫力のサウンド",
+    "description": [
+      "高級スピーカーで知られるフランスのDevialetが手がけるイヤホン。専用アプリでの音響調整により、リスニング環境に合わせた最適なサウンドを追求できます。",
+      "価格は高めですが、ブランドならではの重厚なサウンドと所有満足度の高さが際立つ一台です。"
+    ],
+    "pros": [
+      "高級オーディオブランドならではの重厚なサウンド",
+      "専用アプリでの詳細な音響調整",
+      "しっかりとしたノイズキャンセリング",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "価格が非常に高い",
+      "国内でのサポート窓口は限定的"
+    ],
+    "recommended_for": "所有満足度の高さと、重厚なサウンドの両方を求める人に。"
+  },
+  {
+    "id": "cambridge-audio-melomania-m100",
+    "name": "Melomania M100",
+    "brand": "Cambridge Audio",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "30000-35000",
+    "price_label": "34,650円",
+    "price_yen": 34650,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IP54",
+      "battery_hours": 9,
+      "battery_hours_with_case": 42,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "aptX Adaptive",
+        "aptX Lossless"
+      ]
+    },
+    "target_users": [
+      "無線でも妥協のない高音質を求める人",
+      "老舗オーディオブランドを信頼する人",
+      "長時間の外出が多い人"
+    ],
+    "tagline": "aptX Losslessに対応、無圧縮CD品質の音質を無線で",
+    "description": [
+      "英国の老舗オーディオブランドCambridge Audioのフラッグシップモデル。aptX Losslessに対応し、対応スマートフォンとの組み合わせでCD品質相当の無圧縮音源を無線で楽しめます。",
+      "42時間という長時間バッテリーも魅力で、音質と実用性をバランス良く兼ね備えた一台です。"
+    ],
+    "pros": [
+      "aptX Losslessで無圧縮相当の高音質",
+      "ケース込み42時間の長時間バッテリー",
+      "しっかりとしたノイズキャンセリング",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "aptX Losslessは対応スマートフォンが限られる",
+      "国内での知名度はやや低い"
+    ],
+    "recommended_for": "無線でも妥協のない高音質を求める、音質にこだわりたい人に。"
+  },
+  {
+    "id": "sonos-ace",
+    "name": "Ace",
+    "brand": "Sonos",
+    "release_year": 2024,
+    "category": "ハイエンド",
+    "price_range": "45000-50000",
+    "price_label": "50,000円",
+    "price_yen": 50000,
+    "price_tier": "premium",
+    "fit_type": "over-ear",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "media",
+      "work"
+    ],
+    "persona_tags": [
+      "luxury"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": null,
+      "battery_hours": 30,
+      "battery_hours_with_case": null,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "自宅での映画・動画視聴を重視する人",
+      "Sonos製品を使っている人",
+      "快適な装着感を求める人"
+    ],
+    "tagline": "スピーカーブランドSonos初のヘッドホン、映画体験に強み",
+    "description": [
+      "家庭用スピーカーで知られるSonosが手がける初のヘッドホン。対応するSonosサウンドバーとの組み合わせで、テレビの音声をヘッドホンに無劣化で転送できる独自機能が特徴です。",
+      "しっかりとしたノイズキャンセリングと快適な装着感で、自宅での映画・動画視聴に強みを発揮する一台です。"
+    ],
+    "pros": [
+      "Sonosサウンドバーとの連携機能",
+      "しっかりとしたノイズキャンセリング",
+      "快適な装着感",
+      "30時間の長時間バッテリー"
+    ],
+    "cons": [
+      "価格が高い",
+      "Sonos製品との連携以外では機能がやや限定的"
+    ],
+    "recommended_for": "自宅での映画・動画視聴を重視する、Sonos製品を使っている人に。"
+  },
+  {
+    "id": "final-ze8000-mk2",
+    "name": "ZE8000 MK2",
+    "brand": "Final",
+    "release_year": 2024,
+    "category": "ハイエンド",
+    "price_range": "50000-60000",
+    "price_label": "54,780円",
+    "price_yen": 54780,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "luxury",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX4",
+      "battery_hours": 6,
+      "battery_hours_with_case": 18,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ]
+    },
+    "target_users": [
+      "原音に忠実なサウンドを求める人",
+      "実用機能より音質を重視する人",
+      "国産オーディオブランドが好きな人"
+    ],
+    "tagline": "日本の音響ブランドFinalが追求する、原音再生へのこだわり",
+    "description": [
+      "国産オーディオブランドFinalが手がける、音質追求に特化したフラッグシップモデル。独自開発のドライバーにより、色付けの少ない原音に忠実なサウンドを目指しています。",
+      "通話機能やマルチポイントなど実用機能は絞られていますが、音質だけを追求したい人にとっては唯一無二の選択肢です。"
+    ],
+    "pros": [
+      "色付けの少ない原音に忠実なサウンド",
+      "LDAC対応でハイレゾ相当の情報量",
+      "国産ブランドならではの品質へのこだわり",
+      "しっかりとしたノイズキャンセリング"
+    ],
+    "cons": [
+      "マルチポイント非対応",
+      "通話品質は音楽再生ほど重視されていない"
+    ],
+    "recommended_for": "実用機能よりも、音質そのものを突き詰めたいこだわり派の人に。"
+  },
+  {
+    "id": "razer-hammerhead-hyperspeed",
+    "name": "Hammerhead HyperSpeed",
+    "brand": "Razer",
+    "release_year": 2022,
+    "category": "ミドル",
+    "price_range": "15000-20000",
+    "price_label": "18,000円",
+    "price_yen": 18000,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "compact"
+    ],
+    "use_case_tags": [
+      "media"
+    ],
+    "persona_tags": [
+      "gaming"
+    ],
+    "low_latency_mode": true,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "basic",
+      "water_resistant": "IPX4",
+      "battery_hours": 6,
+      "battery_hours_with_case": 24,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "モバイルゲームをよくする人",
+      "配信・実況を見ながら遊ぶ人",
+      "コスパの良いゲーミングイヤホンを探している人"
+    ],
+    "tagline": "2.4GHzワイヤレスで、ゲームに欠かせない低遅延接続",
+    "description": [
+      "Razerのゲーミングブランドらしく、専用USBドングルによる2.4GHz接続で音声遅延を最小限に抑えた設計が特徴です。スマートフォンとのBluetooth接続にも対応し、通勤中の音楽再生にも使えます。",
+      "軽量な装着感で長時間のゲームプレイでも疲れにくく、コストパフォーマンスにも優れたゲーミングイヤホンの定番モデルです。"
+    ],
+    "pros": [
+      "2.4GHz接続による低遅延",
+      "Bluetoothとのデュアル接続に対応",
+      "軽量で長時間のゲームでも快適",
+      "手に取りやすい価格"
+    ],
+    "cons": [
+      "ノイズキャンセリングは控えめ",
+      "マルチポイントには非対応"
+    ],
+    "recommended_for": "モバイルゲームや配信視聴で、音声のズレを気にしたくない人に。"
+  },
+  {
+    "id": "steelseries-arctis-gamebuds",
+    "name": "Arctis GameBuds",
+    "brand": "SteelSeries",
+    "release_year": 2024,
+    "category": "ミドル",
+    "price_range": "20000-25000",
+    "price_label": "24,800円",
+    "price_yen": 24800,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "media",
+      "commute"
+    ],
+    "persona_tags": [
+      "gaming"
+    ],
+    "low_latency_mode": true,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX4",
+      "battery_hours": 8,
+      "battery_hours_with_case": 20,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "PCやPS5でゲームをする人",
+      "通勤・通学でも同じイヤホンを使いたい人",
+      "ANCも欲しいゲーマー"
+    ],
+    "tagline": "2.4GHz低遅延+ANC、PCからモバイルまで幅広く対応",
+    "description": [
+      "SteelSeriesのゲーミングイヤホンで、USB-CドングルによるロスレスワイヤレスとBluetoothのデュアル接続に対応。PC・PS5・スマートフォンなど幅広いデバイスで低遅延のゲームプレイができます。",
+      "ノイズキャンセリングも搭載しており、ゲーム用途だけでなく通勤・通学での音楽鑑賞にも使いやすいバランスの良い一台です。"
+    ],
+    "pros": [
+      "2.4GHzドングルによる低遅延接続",
+      "しっかりとしたノイズキャンセリング",
+      "PC・PS5・スマホなど幅広く対応",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "ドングル使用時はUSBポートを1つ使用する",
+      "価格はゲーミングイヤホンとしては高め"
+    ],
+    "recommended_for": "PCやPS5でのゲームプレイと、普段使いを1台でこなしたい人に。"
+  },
+  {
+    "id": "asus-rog-cetra-tws",
+    "name": "ROG Cetra True Wireless",
+    "brand": "ASUS ROG",
+    "release_year": 2023,
+    "category": "ミドル",
+    "price_range": "10000-20000",
+    "price_label": "15,000円",
+    "price_yen": 15000,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "compact"
+    ],
+    "use_case_tags": [
+      "media"
+    ],
+    "persona_tags": [
+      "gaming"
+    ],
+    "low_latency_mode": true,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "basic",
+      "water_resistant": "IPX4",
+      "battery_hours": 5,
+      "battery_hours_with_case": 20,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "モバイルゲームを中心に遊ぶ人",
+      "個性的なデザインが好きな人",
+      "低遅延接続を手頃な価格で求める人"
+    ],
+    "tagline": "ROGブランドらしい先鋭的デザインと、低遅延ゲームモード",
+    "description": [
+      "ゲーミングブランドROGらしいシャープなデザインが特徴のイヤホン。専用トランシーバーによる低遅延モードを搭載し、モバイルゲームでの音ズレを軽減します。",
+      "コンパクトな装着感で、ゲーム用途はもちろん普段のカジュアルな音楽再生にも使いやすいモデルです。"
+    ],
+    "pros": [
+      "専用トランシーバーによる低遅延モード",
+      "ROGらしい個性的なデザイン",
+      "コンパクトな装着感",
+      "手に取りやすい価格"
+    ],
+    "cons": [
+      "ノイズキャンセリングは基本的なレベル",
+      "マルチポイント非対応"
+    ],
+    "recommended_for": "モバイルゲームを中心に、低遅延な接続を手頃な価格で求める人に。"
+  },
+  {
+    "id": "hyperx-cirro-buds-pro",
+    "name": "Cirro Buds Pro",
+    "brand": "HyperX",
+    "release_year": 2023,
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "12,000円",
+    "price_yen": 12000,
+    "price_tier": "mid",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "compact"
+    ],
+    "use_case_tags": [
+      "media"
+    ],
+    "persona_tags": [
+      "gaming"
+    ],
+    "low_latency_mode": true,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "basic",
+      "water_resistant": "IPX4",
+      "battery_hours": 6,
+      "battery_hours_with_case": 24,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "コスパの良いゲーミングイヤホンを探している人",
+      "ボイスチャットの聞き取りやすさを重視する人",
+      "手頃な価格を重視する人"
+    ],
+    "tagline": "コスパの良いゲーミングイヤホンの定番",
+    "description": [
+      "HyperXのゲーミングブランドらしく、低遅延モードと明瞭なマイク品質を手頃な価格で実現したモデルです。",
+      "ゲームのボイスチャットでの聞き取りやすさに定評があり、コストパフォーマンスを重視するゲーマーに支持されています。"
+    ],
+    "pros": [
+      "低遅延モードを搭載",
+      "ボイスチャットでの聞き取りやすいマイク",
+      "手頃な価格",
+      "コンパクトな装着感"
+    ],
+    "cons": [
+      "ノイズキャンセリングは基本的なレベル",
+      "上位コーデックには非対応"
+    ],
+    "recommended_for": "コストパフォーマンスの良いゲーミングイヤホンを探している人に。"
+  },
+  {
+    "id": "logitech-g-fits",
+    "name": "G FITS",
+    "brand": "Logicool G",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "30,000円",
+    "price_yen": 30000,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "media"
+    ],
+    "persona_tags": [
+      "gaming",
+      "luxury"
+    ],
+    "low_latency_mode": true,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": false,
+      "anc_level": "none",
+      "water_resistant": null,
+      "battery_hours": 8,
+      "battery_hours_with_case": 24,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "フィット感を最優先したい人",
+      "eスポーツレベルの安定接続を求める人",
+      "長時間のゲームプレイをする人"
+    ],
+    "tagline": "3Dスキャンで作る、自分の耳だけにフィットするイヤホン",
+    "description": [
+      "専用アプリでのスマートフォンスキャンにより、自分の耳の形に合わせたイヤーチップを製造する「パーソナルフィット」が最大の特徴。フィット感のズレによる低遅延接続の途切れを防ぎます。",
+      "ノイズキャンセリングは非搭載ですが、その分ゲーム音と外音のバランスを保ちながら、隙間のないフィット感で長時間のプレイでも快適です。"
+    ],
+    "pros": [
+      "3Dスキャンによる完全個人フィット",
+      "専用ドングルでの低遅延接続",
+      "長時間でもズレにくい装着感",
+      "ゲーム音の定位が明瞭"
+    ],
+    "cons": [
+      "ノイズキャンセリングは非搭載",
+      "購入前のスキャン工程が必要"
+    ],
+    "recommended_for": "フィット感を最優先し、eスポーツレベルの安定した接続を求める人に。"
+  },
+  {
+    "id": "corsair-hs80",
+    "name": "HS80 RGB Wireless",
+    "brand": "Corsair",
+    "release_year": 2022,
+    "category": "ミドル",
+    "price_range": "20000-25000",
+    "price_label": "22,000円",
+    "price_yen": 22000,
+    "price_tier": "high",
+    "fit_type": "over-ear",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "media",
+      "work"
+    ],
+    "persona_tags": [
+      "gaming"
+    ],
+    "low_latency_mode": true,
+    "mic_quality": "excellent",
+    "features": {
+      "noise_canceling": false,
+      "anc_level": "none",
+      "water_resistant": null,
+      "battery_hours": 20,
+      "battery_hours_with_case": null,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC"
+      ]
+    },
+    "target_users": [
+      "ボイスチャット・配信での声の明瞭さを重視する人",
+      "PCゲーマー",
+      "長時間のゲームセッションをする人"
+    ],
+    "tagline": "取り外し可能な高性能マイクを備えるゲーミングヘッドセット",
+    "description": [
+      "オーバーイヤー型のゲーミングヘッドセットで、取り外し可能なブロードキャストクオリティのマイクを搭載。ボイスチャットや配信での声の聞き取りやすさに定評があります。",
+      "2.4GHzワイヤレス接続で低遅延を実現し、長時間のゲームセッションでも疲れにくい快適な装着感が特徴です。"
+    ],
+    "pros": [
+      "ブロードキャストクオリティの高性能マイク",
+      "2.4GHz低遅延ワイヤレス接続",
+      "長時間でも快適な装着感",
+      "PCとの相性が良い"
+    ],
+    "cons": [
+      "ノイズキャンセリングは非搭載",
+      "持ち運びにはかさばる"
+    ],
+    "recommended_for": "ボイスチャットや配信での声の明瞭さを重視する、PCゲーマーに。"
+  },
+  {
+    "id": "sony-inzone-buds",
+    "name": "Inzone Buds",
+    "brand": "SONY",
+    "release_year": 2023,
+    "category": "ミドル",
+    "price_range": "20000-25000",
+    "price_label": "23,000円",
+    "price_yen": 23000,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "media"
+    ],
+    "persona_tags": [
+      "gaming"
+    ],
+    "low_latency_mode": true,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX4",
+      "battery_hours": 12,
+      "battery_hours_with_case": 24,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "PS5やPCでゲームをする人",
+      "立体音響でゲームの定位を掴みたい人",
+      "ANCも欲しいゲーマー"
+    ],
+    "tagline": "PS5・PC向け低遅延、SONYのゲーミングブランドInzone",
+    "description": [
+      "SONYのゲーミングブランド「InZone」の一員で、専用USBアダプターによりPS5・PCで低遅延・高音質のワイヤレス接続ができます。360 Spatial Sound対応で立体的な定位感も楽しめます。",
+      "ノイズキャンセリングも搭載しており、ゲームの環境音への没入感を高めながら、単体でBluetooth接続すれば普段使いのイヤホンとしても使えます。"
+    ],
+    "pros": [
+      "PS5・PC向けの低遅延ワイヤレス接続",
+      "360 Spatial Sound対応",
+      "しっかりとしたノイズキャンセリング",
+      "12時間の長時間再生"
+    ],
+    "cons": [
+      "USBアダプター使用時はポートを1つ使用",
+      "ワイヤレス充電には非対応"
+    ],
+    "recommended_for": "PS5やPCで低遅延・高音質のゲーム体験を求める人に。"
+  },
+  {
+    "id": "jabra-elite-10",
+    "name": "Elite 10",
+    "brand": "Jabra",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "30000-35000",
+    "price_label": "33,000円",
+    "price_yen": 33000,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "work",
+      "media"
+    ],
+    "persona_tags": [
+      "mic_quality",
+      "office"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "excellent",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IP57",
+      "battery_hours": 6,
+      "battery_hours_with_case": 27,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "通話品質を最優先したい人",
+      "音楽再生の質も重視したい人",
+      "Web会議が多い人"
+    ],
+    "tagline": "6つのマイクとイヤーゲル型設計で、通話品質に妥協なし",
+    "description": [
+      "Jabraならではの通話品質へのこだわりが詰まったフラッグシップモデル。片耳6つのマイクと独自のイヤーゲル型設計により、周囲の騒音下でもクリアな声を届けます。",
+      "空間オーディオやDolby Atmos対応など音楽再生の機能も充実しており、通話と音楽の両方を高いレベルで求める人に向いています。"
+    ],
+    "pros": [
+      "片耳6マイクによる高い通話品質",
+      "IP57相当の高い防塵防水性能",
+      "Dolby Atmos対応の空間オーディオ",
+      "しっかりとしたノイズキャンセリング"
+    ],
+    "cons": [
+      "価格は高め",
+      "イヤーゲル型設計は好みが分かれる"
+    ],
+    "recommended_for": "通話品質を最優先しつつ、音楽再生の質も妥協したくない人に。"
+  },
+  {
+    "id": "jabra-elite-8-active",
+    "name": "Elite 8 Active",
+    "brand": "Jabra",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "27,500円",
+    "price_yen": 27500,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "sports",
+      "longwear"
+    ],
+    "use_case_tags": [
+      "sports",
+      "commute"
+    ],
+    "persona_tags": [
+      "mic_quality",
+      "sports"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "excellent",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IP68",
+      "battery_hours": 8,
+      "battery_hours_with_case": 32,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "過酷な環境でも使えるタフさを求める人",
+      "運動時も通話品質を妥協したくない人",
+      "アウトドアが好きな人"
+    ],
+    "tagline": "軍用規格レベルの耐久性と、Jabra譲りの通話品質を運動シーンに",
+    "description": [
+      "IP68相当の防塵防水性能と米国軍用規格に準拠した耐衝撃性を備え、過酷な環境でも使えるタフなモデルです。Jabra譲りの高い通話品質はそのままに、運動時の安定した装着感を実現しています。",
+      "汗や雨を気にせず使えるため、屋外でのランニングやアウトドアシーンで通話も音楽も楽しみたい人に向いています。"
+    ],
+    "pros": [
+      "IP68相当の高い防塵防水性能",
+      "軍用規格準拠の耐衝撃性",
+      "運動時も安定する装着感",
+      "Jabraならではの高い通話品質"
+    ],
+    "cons": [
+      "価格はスポーツ用としては高め",
+      "本体はやや大きめ"
+    ],
+    "recommended_for": "過酷な環境でも使えるタフさと、通話品質の両方を求める人に。"
+  },
+  {
+    "id": "poly-voyager-free-60",
+    "name": "Voyager Free 60",
+    "brand": "Poly",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "30000-40000",
+    "price_label": "35,000円",
+    "price_yen": 35000,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "work",
+      "commute"
+    ],
+    "persona_tags": [
+      "mic_quality",
+      "office"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "excellent",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IP54",
+      "battery_hours": 6,
+      "battery_hours_with_case": 24,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "在宅勤務での通話品質を最優先したい人",
+      "オンライン会議が多い人",
+      "ビジネス用途で信頼性を求める人"
+    ],
+    "tagline": "ビジネス向け音響機器の老舗が作る、通話特化モデル",
+    "description": [
+      "会議室向けスピーカーフォンなどで知られるPoly(旧Plantronics)が手がける、通話品質に特化したモデルです。風切り音を抑えるウィンドスミア機能など、屋外での通話でも聞き取りやすい工夫が施されています。",
+      "Microsoft TeamsやZoomなど主要な会議ツールとの連携も考慮されており、在宅・オフィス問わず仕事用のイヤホンとして高い信頼性を発揮します。"
+    ],
+    "pros": [
+      "風切り音を抑えるウィンドスミア機能",
+      "主要な会議ツールとの連携を考慮した設計",
+      "しっかりとしたノイズキャンセリング",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "音楽再生用途としての機能は控えめ",
+      "価格は仕事用としては高め"
+    ],
+    "recommended_for": "在宅勤務やオンライン会議での通話品質を最優先したい人に。"
+  },
+  {
+    "id": "epos-adapt-460",
+    "name": "ADAPT 460",
+    "brand": "EPOS",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "30000-35000",
+    "price_label": "32,000円",
+    "price_yen": 32000,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "work"
+    ],
+    "persona_tags": [
+      "mic_quality",
+      "office"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "excellent",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": null,
+      "battery_hours": 8,
+      "battery_hours_with_case": 24,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "会社支給・ビジネス用途を探している人",
+      "Web会議の認証機種を求める人",
+      "信頼性を重視する人"
+    ],
+    "tagline": "Sennheiser系ブランドが手がける、ビジネス認証モデル",
+    "description": [
+      "Sennheiserの通信機器部門が独立したブランドEPOSによる、ビジネス向けイヤホンです。Microsoft Teams認証を取得しており、企業のオンライン会議環境での利用を前提に設計されています。",
+      "ノイズキャンセリングと明瞭なマイク性能により、在宅勤務やハイブリッドワークでの通話品質を重視する人に適したモデルです。"
+    ],
+    "pros": [
+      "Microsoft Teams認証取得",
+      "明瞭な通話・マイク性能",
+      "しっかりとしたノイズキャンセリング",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "音楽再生機能はシンプル",
+      "ワイヤレス充電には非対応"
+    ],
+    "recommended_for": "会社支給・ビジネス用途として信頼性の高いイヤホンを探している人に。"
+  },
+  {
+    "id": "beats-powerbeats-pro-2",
+    "name": "Powerbeats Pro 2",
+    "brand": "Beats",
+    "release_year": 2025,
+    "category": "ハイエンド",
+    "price_range": "30000-35000",
+    "price_label": "34,800円",
+    "price_yen": 34800,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "sports",
+      "longwear"
+    ],
+    "use_case_tags": [
+      "sports",
+      "commute"
+    ],
+    "persona_tags": [
+      "mic_quality",
+      "sports"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX4",
+      "battery_hours": 9,
+      "battery_hours_with_case": 33,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "ワークアウトのデータも記録したい人",
+      "運動時の安定感を求める人",
+      "iPhone以外でも使いたい人"
+    ],
+    "tagline": "心拍センサー搭載、耳掛け型フィットで動いても外れない",
+    "description": [
+      "耳にしっかりとフィットする耳掛け型デザインが特徴のスポーツ向けモデル。新たに光学式心拍センサーを搭載し、対応アプリでワークアウトのデータを記録できます。",
+      "iPhone・Androidどちらでも専用アプリからフル機能を使えるため、Apple製品以外を使っている人でも扱いやすいのが特徴です。"
+    ],
+    "pros": [
+      "耳掛け型で運動中も外れにくい",
+      "心拍センサーでワークアウト記録に対応",
+      "iPhone・Androidどちらでもフル機能",
+      "しっかりとしたノイズキャンセリング"
+    ],
+    "cons": [
+      "ワイヤレス充電には非対応",
+      "耳掛け型の装着感は好みが分かれる"
+    ],
+    "recommended_for": "ワークアウトのデータ記録もしたい、運動時の安定感を求める人に。"
+  },
+  {
+    "id": "jabra-evolve2-buds",
+    "name": "Evolve2 Buds",
+    "brand": "Jabra",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "30000-40000",
+    "price_label": "36,000円",
+    "price_yen": 36000,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "work",
+      "commute"
+    ],
+    "persona_tags": [
+      "mic_quality",
+      "office"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "excellent",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IP54",
+      "battery_hours": 8,
+      "battery_hours_with_case": 26,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "会議が多いビジネスパーソン",
+      "ハイブリッドワークをしている人",
+      "信頼性の高い通話品質を求める人"
+    ],
+    "tagline": "Microsoft Teams認証、ハイブリッドワーク時代の会議イヤホン",
+    "description": [
+      "企業向け通信機器のJabraが、オフィスでもリモートでも使えるハイブリッドワークを想定して設計したモデルです。Microsoft Teams認証を取得し、ボタン一つで会議への参加状況を周囲に伝えるインジケーター機能も備えています。",
+      "会議の多いビジネスパーソンに向けて、通話品質と信頼性を最優先に開発された一台です。"
+    ],
+    "pros": [
+      "Microsoft Teams認証取得",
+      "会議参加状況を知らせるインジケーター機能",
+      "高い通話品質",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "音楽再生用途では機能がシンプル",
+      "価格はビジネス用として高め"
+    ],
+    "recommended_for": "会議が多いビジネスパーソンで、信頼性の高い通話品質を求める人に。"
+  },
+  {
+    "id": "jbl-endurance-peak-3",
+    "name": "Endurance Peak 3",
+    "brand": "JBL",
+    "release_year": 2022,
+    "category": "エントリー",
+    "price_range": "8000-10000",
+    "price_label": "9,000円",
+    "price_yen": 9000,
+    "price_tier": "mid",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "sports",
+      "compact"
+    ],
+    "use_case_tags": [
+      "sports"
+    ],
+    "persona_tags": [
+      "sports"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": false,
+      "anc_level": "none",
+      "water_resistant": "IP68",
+      "battery_hours": 10,
+      "battery_hours_with_case": 50,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "汗や雨を気にせず使いたい人",
+      "コスパの良いスポーツ向けイヤホンを探している人",
+      "長時間のトレーニングをする人"
+    ],
+    "tagline": "IP68防水+耳掛けフックで、汗だくトレーニングにも安心",
+    "description": [
+      "IP68相当の高い防塵防水性能を備え、水泳以外の激しい発汗や雨の中でも安心して使えるスポーツ向けモデルです。耳に固定するイヤーフックにより、激しい動きでもズレにくい設計です。",
+      "ケース込みで50時間という圧倒的なバッテリー持続時間も魅力。価格を抑えつつタフに使えるイヤホンを探している人に向いています。"
+    ],
+    "pros": [
+      "IP68相当の高い防塵防水性能",
+      "耳掛けフックでズレにくい",
+      "ケース込み50時間の圧倒的バッテリー",
+      "手頃な価格"
+    ],
+    "cons": [
+      "ノイズキャンセリングは非搭載",
+      "音質は価格なりの範囲"
+    ],
+    "recommended_for": "汗や雨を気にせずタフに使える、コスパの良いスポーツ向けイヤホンを探している人に。"
+  },
+  {
+    "id": "skullcandy-push-active",
+    "name": "Push Active",
+    "brand": "Skullcandy",
+    "release_year": 2022,
+    "category": "エントリー",
+    "price_range": "5000-8000",
+    "price_label": "7,990円",
+    "price_yen": 7990,
+    "price_tier": "low",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "sports",
+      "compact"
+    ],
+    "use_case_tags": [
+      "sports"
+    ],
+    "persona_tags": [
+      "sports"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": false,
+      "anc_level": "none",
+      "water_resistant": "IPX4",
+      "battery_hours": 10,
+      "battery_hours_with_case": 44,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "デザイン性も楽しみたい人",
+      "手頃な価格のスポーツイヤホンを探している人",
+      "安定した装着感を求める人"
+    ],
+    "tagline": "アメリカンカジュアルなデザインの、タフなスポーツイヤホン",
+    "description": [
+      "スケートボードカルチャーを背景に持つSkullcandyらしい、カジュアルなデザインが特徴のスポーツ向けモデルです。イヤーフックによる固定式で、激しい運動でも安定した装着感を保ちます。",
+      "ケース込み44時間という長時間バッテリーと手頃な価格で、日常的なワークアウトのお供として選びやすい一台です。"
+    ],
+    "pros": [
+      "カジュアルで個性的なデザイン",
+      "イヤーフックで安定した装着感",
+      "ケース込み44時間の長時間バッテリー",
+      "手頃な価格"
+    ],
+    "cons": [
+      "ノイズキャンセリングは非搭載",
+      "上位コーデックには非対応"
+    ],
+    "recommended_for": "デザイン性も楽しみつつ、手頃な価格でスポーツ向けイヤホンが欲しい人に。"
+  },
+  {
+    "id": "anker-sport-x10",
+    "name": "Soundcore Sport X10",
+    "brand": "Anker",
+    "release_year": 2023,
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "12,000円",
+    "price_yen": 12000,
+    "price_tier": "mid",
+    "fit_type": "open",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "sports",
+      "compact"
+    ],
+    "use_case_tags": [
+      "sports"
+    ],
+    "persona_tags": [
+      "sports"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": false,
+      "anc_level": "none",
+      "water_resistant": "IPX7",
+      "battery_hours": 9,
+      "battery_hours_with_case": 32,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "耳を塞がずに運動したい人",
+      "水濡れを気にせず使いたい人",
+      "複数デバイスを使い分けたい人"
+    ],
+    "tagline": "耳を塞がないクリップ型、IPX7で水濡れも気にせず",
+    "description": [
+      "耳の外側にクリップのように装着するオープンイヤー型のスポーツモデル。耳を塞がないため周囲の音を聞きながら運動でき、IPX7相当の高い防水性能で急な雨や汗にも安心です。",
+      "マルチポイント接続にも対応しており、スマートフォンとスマートウォッチなど複数デバイスを使い分けるアクティブなユーザーにも扱いやすい一台です。"
+    ],
+    "pros": [
+      "耳を塞がないオープンイヤー型",
+      "IPX7相当の高い防水性能",
+      "マルチポイント接続に対応",
+      "安定したクリップ式装着感"
+    ],
+    "cons": [
+      "ノイズキャンセリングは非搭載",
+      "カナル型に比べ低音は控えめ"
+    ],
+    "recommended_for": "耳を塞がずに周囲の音を聞きながら、タフに運動したい人に。"
+  },
+  {
+    "id": "1more-fit-se",
+    "name": "Fit SE",
+    "brand": "1MORE",
+    "release_year": 2023,
+    "category": "エントリー",
+    "price_range": "5000-8000",
+    "price_label": "6,000円",
+    "price_yen": 6000,
+    "price_tier": "low",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "sports",
+      "compact"
+    ],
+    "use_case_tags": [
+      "sports"
+    ],
+    "persona_tags": [
+      "sports"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": false,
+      "anc_level": "none",
+      "water_resistant": "IPX5",
+      "battery_hours": 7,
+      "battery_hours_with_case": 28,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "運動用に気兼ねなく使える1台が欲しい人",
+      "とにかく予算を抑えたい人",
+      "軽量なイヤホンを求める人"
+    ],
+    "tagline": "手頃な価格で運動用の1台を揃えたい人に",
+    "description": [
+      "スポーツ用途に絞った機能構成で、価格を抑えているのが特徴のモデルです。イヤーフックによる装着で、ランニングなどの上下運動でも安定します。",
+      "本格的な機能は必要ないが、運動用に気兼ねなく使える1台が欲しいという人にちょうど良い選択肢です。"
+    ],
+    "pros": [
+      "手頃な価格",
+      "イヤーフックで安定した装着感",
+      "IPX5相当の防水性能",
+      "軽量なボディ"
+    ],
+    "cons": [
+      "ノイズキャンセリングは非搭載",
+      "音質・機能は価格なりの範囲"
+    ],
+    "recommended_for": "運動用に気兼ねなく使える、手頃な価格の1台を探している人に。"
+  },
+  {
+    "id": "oladance-ows2",
+    "name": "OWS2",
+    "brand": "Oladance",
+    "release_year": 2023,
+    "category": "ミドル",
+    "price_range": "15000-20000",
+    "price_label": "19,000円",
+    "price_yen": 19000,
+    "price_tier": "high",
+    "fit_type": "open",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "sports",
+      "longwear"
+    ],
+    "use_case_tags": [
+      "sports",
+      "commute"
+    ],
+    "persona_tags": [
+      "sports"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": false,
+      "anc_level": "none",
+      "water_resistant": "IPX5",
+      "battery_hours": 16,
+      "battery_hours_with_case": 58,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "耳を塞がれる感覚が苦手な人",
+      "長時間の外出でも充電を気にしたくない人",
+      "開放型でも音質を重視したい人"
+    ],
+    "tagline": "大口径ドライバーのオープンイヤー、長時間再生も強み",
+    "description": [
+      "一般的なオープンイヤー型より大きな口径のドライバーを搭載し、開放型としては迫力のあるサウンドを実現しているモデルです。耳を塞がない設計で長時間の装着でも疲れにくいのが特徴です。",
+      "単体で16時間、ケース込みで58時間という圧倒的なバッテリー持続時間も強み。長時間の外出や運動でも充電を気にせず使えます。"
+    ],
+    "pros": [
+      "大口径ドライバーによる迫力のあるサウンド",
+      "耳を塞がず長時間快適な装着感",
+      "圧倒的なバッテリー持続時間",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "ノイズキャンセリングは非搭載",
+      "本体はやや大きめ"
+    ],
+    "recommended_for": "耳を塞がれる感覚が苦手で、長時間の外出でも充電を気にしたくない人に。"
+  },
+  {
+    "id": "google-pixel-buds-pro-2",
+    "name": "Pixel Buds Pro 2",
+    "brand": "Google",
+    "release_year": 2024,
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "29,800円",
+    "price_yen": 29800,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute",
+      "work"
+    ],
+    "persona_tags": [
+      "luxury",
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IP54",
+      "battery_hours": 8,
+      "battery_hours_with_case": 30,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "Pixelスマートフォンを使っている人",
+      "Android連携を重視する人",
+      "自然な装着感を求める人"
+    ],
+    "tagline": "Pixelとの連携が光る、Googleらしい実用性重視の一台",
+    "description": [
+      "Googleが手がけるPixel Budsシリーズの上位モデル。Pixelスマートフォンとの組み合わせでは、デバイス検索やリアルタイム翻訳など独自機能をフル活用できます。",
+      "しっかりとしたノイズキャンセリングと自然な装着感で、Android・Pixelユーザーにとって扱いやすい万能機です。"
+    ],
+    "pros": [
+      "Pixelスマートフォンとの連携機能",
+      "しっかりとしたノイズキャンセリング",
+      "自然な装着感",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "iPhoneでは一部機能が使えない",
+      "LDACなど上位コーデックには非対応"
+    ],
+    "recommended_for": "Pixelスマートフォンをメインで使っている、Android連携を重視する人に。"
+  },
+  {
+    "id": "samsung-galaxy-buds3-pro",
+    "name": "Galaxy Buds3 Pro",
+    "brand": "Samsung",
+    "release_year": 2024,
+    "category": "ハイエンド",
+    "price_range": "30000-35000",
+    "price_label": "33,000円",
+    "price_yen": 33000,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute",
+      "work",
+      "media"
+    ],
+    "persona_tags": [
+      "luxury",
+      "commuter",
+      "office"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IP57",
+      "battery_hours": 7,
+      "battery_hours_with_case": 26,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "SSC"
+      ]
+    },
+    "target_users": [
+      "Galaxyスマートフォンを使っている人",
+      "デザイン性を重視する人",
+      "防水性能も欲しい人"
+    ],
+    "tagline": "スタイリッシュなブレード型デザイン、Galaxyとの連携も強力",
+    "description": [
+      "従来モデルから一新されたブレード型のデザインが特徴のフラッグシップモデル。Galaxyスマートフォンとの組み合わせでは、高音質コーデックや詳細な設定連携が可能です。",
+      "IP57相当の高い防塵防水性能としっかりとしたノイズキャンセリングを備え、通勤からオフィスまで幅広く使える一台です。"
+    ],
+    "pros": [
+      "スタイリッシュなブレード型デザイン",
+      "IP57相当の高い防塵防水性能",
+      "Galaxyスマートフォンとの高い親和性",
+      "しっかりとしたノイズキャンセリング"
+    ],
+    "cons": [
+      "独自コーデックはSamsung製品以外では恩恵が少ない",
+      "価格はやや高め"
+    ],
+    "recommended_for": "Galaxyスマートフォンをメインで使っている、デザイン性も重視する人に。"
+  },
+  {
+    "id": "huawei-freebuds-pro-3",
+    "name": "FreeBuds Pro 3",
+    "brand": "Huawei",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "27,000円",
+    "price_yen": 27000,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media"
+    ],
+    "persona_tags": [
+      "luxury",
+      "audiophile"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IP54",
+      "battery_hours": 6,
+      "battery_hours_with_case": 31,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "L2HC"
+      ]
+    },
+    "target_users": [
+      "迫力あるサウンドを求める人",
+      "強力なノイズキャンセリングを求める人",
+      "デュアルドライバーの音質が好きな人"
+    ],
+    "tagline": "デュアルドライバー構成で、迫力と繊細さを両立",
+    "description": [
+      "低音用と高音用のデュアルドライバーを搭載し、迫力のある低音と繊細な高音域を両立させたサウンドが特徴です。独自コーデックL2HCにより、対応機種では高音質伝送も可能です。",
+      "業界トップクラスのノイズキャンセリングも搭載しており、音質と静音性の両方にこだわりたい人に向いています。"
+    ],
+    "pros": [
+      "デュアルドライバーによる迫力あるサウンド",
+      "業界トップクラスのノイズキャンセリング",
+      "ワイヤレス充電に対応",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "独自コーデックは対応機種が限られる",
+      "国内でのアフターサポート窓口はやや限定的"
+    ],
+    "recommended_for": "迫力あるサウンドと強力なノイズキャンセリングを両立したい人に。"
+  },
+  {
+    "id": "xiaomi-buds-4-pro",
+    "name": "Buds 4 Pro",
+    "brand": "Xiaomi",
+    "release_year": 2023,
+    "category": "ミドル",
+    "price_range": "15000-20000",
+    "price_label": "15,000円",
+    "price_yen": 15000,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IP54",
+      "battery_hours": 8,
+      "battery_hours_with_case": 38,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ]
+    },
+    "target_users": [
+      "コスパを重視する人",
+      "高音質・高ANCを手頃な価格で求める人",
+      "長時間再生を重視する人"
+    ],
+    "tagline": "LDAC対応・しっかりANCを、手に取りやすい価格で",
+    "description": [
+      "LDAC対応の高音質と、業界トップクラスに迫るノイズキャンセリング性能を、比較的手頃な価格で実現しているコストパフォーマンスに優れたモデルです。",
+      "ケース込み38時間という長時間バッテリーも魅力で、機能と価格のバランスを重視する人に向いています。"
+    ],
+    "pros": [
+      "LDAC対応で高音質",
+      "しっかりとしたノイズキャンセリング",
+      "ケース込み38時間の長時間バッテリー",
+      "ワイヤレス充電に対応"
+    ],
+    "cons": [
+      "国内での正規サポート窓口はやや限定的",
+      "アプリの日本語対応は一部制限あり"
+    ],
+    "recommended_for": "高音質・高ANCを、コストパフォーマンス良く手に入れたい人に。"
+  },
+  {
+    "id": "oppo-enco-x3",
+    "name": "Enco X3",
+    "brand": "OPPO",
+    "release_year": 2024,
+    "category": "ミドル",
+    "price_range": "15000-20000",
+    "price_label": "18,000円",
+    "price_yen": 18000,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media"
+    ],
+    "persona_tags": [
+      "audiophile",
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IP55",
+      "battery_hours": 6,
+      "battery_hours_with_case": 25,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "LHDC"
+      ]
+    },
+    "target_users": [
+      "自然でバランスの取れたサウンドが好きな人",
+      "通勤・日常使いを重視する人",
+      "ハイレゾ相当の音質を求める人"
+    ],
+    "tagline": "音響ブランドとの協業チューニングで、自然な音質を追求",
+    "description": [
+      "音響機器ブランドとの共同チューニングにより、自然でバランスの取れたサウンドを追求したモデルです。LHDC対応でハイレゾ相当の情報量を無線でも楽しめます。",
+      "しっかりとしたノイズキャンセリングと合わせて、通勤や日常使いでのリスニング体験を高いレベルで提供します。"
+    ],
+    "pros": [
+      "音響ブランドとの協業チューニング",
+      "LHDC対応で高音質",
+      "しっかりとしたノイズキャンセリング",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "国内での取り扱いはやや限定的",
+      "ワイヤレス充電には非対応"
+    ],
+    "recommended_for": "自然でバランスの取れたサウンドを、通勤・日常使いで楽しみたい人に。"
+  },
+  {
+    "id": "realme-buds-air-6-pro",
+    "name": "Buds Air 6 Pro",
+    "brand": "realme",
+    "release_year": 2024,
+    "category": "エントリー",
+    "price_range": "5000-10000",
+    "price_label": "8,000円",
+    "price_yen": 8000,
+    "price_tier": "mid",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX5",
+      "battery_hours": 7,
+      "battery_hours_with_case": 40,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "コストパフォーマンスを重視する人",
+      "初めてのワイヤレスイヤホンを探している人",
+      "長時間バッテリーを求める人"
+    ],
+    "tagline": "1万円以下とは思えない、しっかりめのノイキャン",
+    "description": [
+      "手頃な価格ながら、しっかりとしたノイズキャンセリングを搭載しているコストパフォーマンスの高いモデルです。",
+      "ケース込み40時間という長時間バッテリーも魅力で、初めてのワイヤレスイヤホンとしても選びやすい一台です。"
+    ],
+    "pros": [
+      "手頃な価格でしっかりとしたANC",
+      "ケース込み40時間の長時間バッテリー",
+      "軽量でコンパクトなデザイン",
+      "カラーバリエーションが豊富"
+    ],
+    "cons": [
+      "マルチポイントには非対応",
+      "国内での正規サポートはやや限定的"
+    ],
+    "recommended_for": "とにかくコストパフォーマンスを重視する、初めての1台を探している人に。"
+  },
+  {
+    "id": "cmf-buds-pro-2",
+    "name": "Buds Pro 2",
+    "brand": "CMF by Nothing",
+    "release_year": 2024,
+    "category": "エントリー",
+    "price_range": "5000-8000",
+    "price_label": "6,500円",
+    "price_yen": 6500,
+    "price_tier": "low",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": true,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IP54",
+      "battery_hours": 6,
+      "battery_hours_with_case": 22,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "デザイン性を重視する若い世代",
+      "コストパフォーマンスを重視する人",
+      "個性的なデザインが好きな人"
+    ],
+    "tagline": "Nothingのサブブランドが放つ、デザイン性とコスパの両立",
+    "description": [
+      "NothingのサブブランドCMFが手がける、個性的なデザインと手頃な価格を両立したモデルです。金属素材を使ったダイヤルなど、価格以上の質感を持つデザインが特徴です。",
+      "しっかりとしたノイズキャンセリングに加え、低遅延モードも搭載しており、価格を抑えつつも幅広い用途に対応できる一台です。"
+    ],
+    "pros": [
+      "価格以上の質感を持つデザイン",
+      "しっかりとしたノイズキャンセリング",
+      "低遅延モードに対応",
+      "非常に手頃な価格"
+    ],
+    "cons": [
+      "マルチポイントには非対応",
+      "国内での知名度はまだ低い"
+    ],
+    "recommended_for": "デザイン性とコストパフォーマンスの両方を重視する、若い世代のユーザーに。"
+  },
+  {
+    "id": "edifier-neobuds-pro-2",
+    "name": "NeoBuds Pro 2",
+    "brand": "Edifier",
+    "release_year": 2023,
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "13,000円",
+    "price_yen": 13000,
+    "price_tier": "mid",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "audiophile",
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IP54",
+      "battery_hours": 7,
+      "battery_hours_with_case": 28,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ]
+    },
+    "target_users": [
+      "予算を抑えつつ高音質を求める人",
+      "スピーカーブランドの技術に興味がある人",
+      "機能と音質のバランスを重視する人"
+    ],
+    "tagline": "スピーカーブランドの技術を注いだ、コスパの良い音質重視機",
+    "description": [
+      "スピーカーやサウンドバーで知られるEdifierが手がける、音質にこだわったモデルです。LDAC対応により、この価格帯としては珍しくハイレゾ相当の音質を無線で楽しめます。",
+      "しっかりとしたノイズキャンセリングとワイヤレス充電にも対応しており、機能と音質のバランスに優れたコストパフォーマンスの高い一台です。"
+    ],
+    "pros": [
+      "LDAC対応でこの価格帯としては高音質",
+      "しっかりとしたノイズキャンセリング",
+      "ワイヤレス充電に対応",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "国内での知名度はやや低い",
+      "アプリの機能はシンプル"
+    ],
+    "recommended_for": "予算を抑えつつ、LDAC対応の高音質を体験したい人に。"
+  },
+  {
+    "id": "sony-linkbuds-open",
+    "name": "LinkBuds Open",
+    "brand": "SONY",
+    "release_year": 2024,
+    "category": "ミドル",
+    "price_range": "20000-25000",
+    "price_label": "24,000円",
+    "price_yen": 24000,
+    "price_tier": "high",
+    "fit_type": "open",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute",
+      "sports"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": false,
+      "anc_level": "none",
+      "water_resistant": "IPX4",
+      "battery_hours": 6,
+      "battery_hours_with_case": 18,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ]
+    },
+    "target_users": [
+      "耳を塞がずに音楽・通話をしたい人",
+      "SONYの音質にもこだわりたい人",
+      "軽さを重視する人"
+    ],
+    "tagline": "リング型ドライバーで、耳を塞がず開放的なSONYサウンド",
+    "description": [
+      "LinkBudsシリーズの特徴である穴あきリング型ドライバーを継承し、耳を塞がずに周囲の音と音楽を両立できるモデルです。LDAC対応で、オープンイヤー型としては珍しく高音質にもこだわっています。",
+      "軽量な装着感で長時間つけていても疲れにくく、周囲の音を聞きながら音楽や通話を楽しみたい人に向いています。"
+    ],
+    "pros": [
+      "耳を塞がないリング型ドライバー",
+      "LDAC対応でオープン型として高音質",
+      "軽量で長時間でも快適",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "ノイズキャンセリングは非搭載",
+      "低音の量感はカナル型に劣る"
+    ],
+    "recommended_for": "耳を塞がずに、SONYならではの音質にもこだわりたい人に。"
+  },
+  {
+    "id": "beyerdynamic-free-byrd",
+    "name": "Free Byrd",
+    "brand": "beyerdynamic",
+    "release_year": 2022,
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "27,000円",
+    "price_yen": 27000,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "media",
+      "audiophile"
+    ],
+    "persona_tags": [
+      "audiophile",
+      "luxury"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX4",
+      "battery_hours": 8,
+      "battery_hours_with_case": 33,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC",
+        "aptX Adaptive"
+      ]
+    },
+    "target_users": [
+      "装着感を細かく調整したい人",
+      "自然なサウンドを求める人",
+      "ドイツブランドが好きな人"
+    ],
+    "tagline": "ドイツの音響ブランドが手がける、装着感自在の一台",
+    "description": [
+      "ドイツの老舗ヘッドホンブランドbeyerdynamicが手がけるモデル。イヤーフックの角度を調整できる独自設計により、自分好みの装着感に細かく合わせられるのが特徴です。",
+      "ドイツブランドらしい誇張のないサウンドチューニングで、長時間のリスニングでも聴き疲れしにくい一台です。"
+    ],
+    "pros": [
+      "角度調整可能な独自イヤーフック設計",
+      "誇張のない自然なサウンド",
+      "長時間再生に対応するバッテリー",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "ワイヤレス充電には非対応",
+      "国内での取扱店舗はやや限られる"
+    ],
+    "recommended_for": "自分に合った装着感を細かく調整したい、音質にもこだわりたい人に。"
+  },
+  {
+    "id": "1more-pistonbuds-pro-2",
+    "name": "PistonBuds Pro 2",
+    "brand": "1MORE",
+    "release_year": 2024,
+    "category": "エントリー",
+    "price_range": "5000-8000",
+    "price_label": "7,000円",
+    "price_yen": 7000,
+    "price_tier": "low",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "basic",
+      "water_resistant": "IPX4",
+      "battery_hours": 7,
+      "battery_hours_with_case": 28,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "とにかく予算を抑えたい人",
+      "サブ機・予備機を探している人",
+      "シンプルな機能で十分な人"
+    ],
+    "tagline": "必要十分な機能を、とにかく手頃な価格で",
+    "description": [
+      "ノイズキャンセリングを含む基本機能を過不足なく備えつつ、価格を抑えたエントリーモデルです。",
+      "デイリーユースに必要な性能を備えており、予備の1台やサブ機としても扱いやすい価格設定です。"
+    ],
+    "pros": [
+      "非常に手頃な価格",
+      "基本的なノイズキャンセリングを搭載",
+      "軽量でシンプルなデザイン",
+      "日常使いに必要十分な性能"
+    ],
+    "cons": [
+      "上位モデルに比べ音質・ANC性能は控えめ",
+      "マルチポイント非対応"
+    ],
+    "recommended_for": "とにかく予算を抑えたい人、サブ機・予備機を探している人に。"
+  },
+  {
+    "id": "sony-wf-c510",
+    "name": "WF-C510",
+    "brand": "SONY",
+    "release_year": 2024,
+    "category": "エントリー",
+    "price_range": "5000-10000",
+    "price_label": "8,000円",
+    "price_yen": 8000,
+    "price_tier": "mid",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": false,
+      "anc_level": "none",
+      "water_resistant": "IPX4",
+      "battery_hours": 11,
+      "battery_hours_with_case": 22,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "シンプルな機能で十分な人",
+      "SONYブランドを手頃な価格で試したい人",
+      "軽さを重視する人"
+    ],
+    "tagline": "SONYの軽量エントリーモデル、シンプルに使いたい人へ",
+    "description": [
+      "ノイズキャンセリングなどの高度な機能は絞り、軽さとシンプルさを重視したSONYのエントリーモデルです。単体で11時間という長めのバッテリー持続時間が魅力です。",
+      "初めてのワイヤレスイヤホンとして、あるいはSONYブランドを手頃な価格で試したい人に向いています。"
+    ],
+    "pros": [
+      "軽量でシンプルな使い勝手",
+      "単体11時間の長めのバッテリー",
+      "手頃な価格でSONYブランド",
+      "豊富なカラーバリエーション"
+    ],
+    "cons": [
+      "ノイズキャンセリングは非搭載",
+      "マルチポイント非対応"
+    ],
+    "recommended_for": "シンプルな機能で十分、手頃な価格でSONYブランドを試したい人に。"
+  },
+  {
+    "id": "jbl-wave-buds",
+    "name": "Wave Buds",
+    "brand": "JBL",
+    "release_year": 2023,
+    "category": "エントリー",
+    "price_range": "5000-8000",
+    "price_label": "6,000円",
+    "price_yen": 6000,
+    "price_tier": "low",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "normal",
+    "comfort_tags": [
+      "compact"
+    ],
+    "use_case_tags": [
+      "commute"
+    ],
+    "persona_tags": [
+      "commuter"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "basic",
+    "features": {
+      "noise_canceling": false,
+      "anc_level": "none",
+      "water_resistant": "IP54",
+      "battery_hours": 8,
+      "battery_hours_with_case": 32,
+      "wireless_charging": false,
+      "multipoint": false,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "とにかく価格を抑えたい人",
+      "気軽に使えるイヤホンを探している人",
+      "JBLらしいサウンドが好きな人"
+    ],
+    "tagline": "JBLらしいサウンドを、気軽な価格で",
+    "description": [
+      "JBLらしい聞き取りやすいサウンドチューニングを、非常に手頃な価格で提供するエントリーモデルです。",
+      "特別な機能は絞られていますが、日常的な音楽再生には十分な性能を備えています。"
+    ],
+    "pros": [
+      "非常に手頃な価格",
+      "JBLらしい聞き取りやすいサウンド",
+      "軽量で装着しやすい",
+      "IP54相当の防塵防水性能"
+    ],
+    "cons": [
+      "ノイズキャンセリングは非搭載",
+      "機能はシンプル"
+    ],
+    "recommended_for": "とにかく価格を抑えたい、気軽に使えるイヤホンを探している人に。"
+  },
+  {
+    "id": "bose-quietcomfort-earbuds",
+    "name": "QuietComfort Earbuds",
+    "brand": "Bose",
+    "release_year": 2023,
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "29,900円",
+    "price_yen": 29900,
+    "price_tier": "premium",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear"
+    ],
+    "use_case_tags": [
+      "commute",
+      "media"
+    ],
+    "persona_tags": [
+      "luxury"
+    ],
+    "low_latency_mode": false,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "top",
+      "water_resistant": "IPX4",
+      "battery_hours": 6,
+      "battery_hours_with_case": 18,
+      "wireless_charging": false,
+      "multipoint": true,
+      "hi_res_audio": false,
+      "codec": [
+        "SBC",
+        "AAC"
+      ]
+    },
+    "target_users": [
+      "Boseの静音性を試したい人",
+      "Ultraモデルより手頃な価格を求める人",
+      "快適な装着感を重視する人"
+    ],
+    "tagline": "QC Ultraより手に取りやすい、Boseの実力派ミドルモデル",
+    "description": [
+      "上位モデルQuietComfort Ultra Earbudsから機能を一部絞り、価格を抑えたモデルです。Bose譲りの高いノイズキャンセリング性能はそのままに、より手に取りやすい価格を実現しています。",
+      "初めてBose製品を試す人や、Ultraモデルほどの予算はかけられないが確かな静音性が欲しい人に向いています。"
+    ],
+    "pros": [
+      "Bose譲りの高いノイズキャンセリング",
+      "上位モデルより手頃な価格",
+      "快適な装着感",
+      "マルチポイント接続に対応"
+    ],
+    "cons": [
+      "イマーシブオーディオなど一部上位機能は非搭載",
+      "ワイヤレス充電には非対応"
+    ],
+    "recommended_for": "Boseの静音性を、Ultraモデルより手頃な価格で試したい人に。"
+  },
+  {
+    "id": "anker-liberty-4-pro",
+    "name": "Soundcore Liberty 4 Pro",
+    "brand": "Anker",
+    "release_year": 2023,
+    "category": "ミドル",
+    "price_range": "15000-20000",
+    "price_label": "17,000円",
+    "price_yen": 17000,
+    "price_tier": "high",
+    "fit_type": "canal",
+    "os_compatibility": "universal",
+    "call_quality": "good",
+    "comfort_tags": [
+      "longwear",
+      "sports"
+    ],
+    "use_case_tags": [
+      "commute",
+      "sports"
+    ],
+    "persona_tags": [
+      "commuter",
+      "sports"
+    ],
+    "low_latency_mode": true,
+    "mic_quality": "good",
+    "features": {
+      "noise_canceling": true,
+      "anc_level": "strong",
+      "water_resistant": "IPX4",
+      "battery_hours": 7,
+      "battery_hours_with_case": 28,
+      "wireless_charging": true,
+      "multipoint": true,
+      "hi_res_audio": true,
+      "codec": [
+        "SBC",
+        "AAC",
+        "LDAC"
+      ]
+    },
+    "target_users": [
+      "通勤・運動・ゲームまで1台でこなしたい人",
+      "ワークアウトのデータも記録したい人",
+      "機能満載のモデルを求める人"
+    ],
+    "tagline": "心拍センサー+アダプティブANC、機能満載の上位モデル",
+    "description": [
+      "Liberty 4 NCの上位モデルとして、周囲の環境に応じて自動調整するアダプティブノイズキャンセリングと、心拍センサーを搭載しています。",
+      "LDAC対応の高音質、低遅延のゲームモードも備えており、1台で幅広い用途をカバーしたい人に向いたバランス型モデルです。"
+    ],
+    "pros": [
+      "周囲に合わせて自動調整するアダプティブANC",
+      "心拍センサーでワークアウト記録に対応",
+      "LDAC対応で高音質",
+      "低遅延のゲームモードも搭載"
+    ],
+    "cons": [
+      "機能が多く操作がやや複雑",
+      "ケースはやや大きめ"
+    ],
+    "recommended_for": "通勤・運動・ゲームまで、1台で幅広くこなしたい人に。"
+  }
+]

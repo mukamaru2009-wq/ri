@@ -1,0 +1,182 @@
+[
+  {
+    "id": "how-to-choose-first-earphones",
+    "title": "初めてのワイヤレスイヤホン、選び方の3つのポイント",
+    "category": "選び方ガイド",
+    "publishedDate": "2025-01-15",
+    "icon": "🎧",
+    "themeColor": "indigo",
+    "excerpt": "何を基準に選べばいいかわからない人向けに、最初に見るべき3つのポイントを整理しました。",
+    "relatedProducts": ["anker-life-p3", "apple-airpods-4-anc", "sony-wf-c700n"],
+    "content": [
+      { "type": "paragraph", "html": "ワイヤレスイヤホンは今や数えきれないほどの機種が発売されており、「結局どれを選べばいいのかわからない」という声をよく耳にします。実際、価格帯も装着スタイルも機能もバラバラで、比較すればするほど迷ってしまうものです。ここでは、初めて購入する人がまず押さえておきたい3つのポイントを整理しました。" },
+      { "type": "heading", "text": "ポイント1: 使うシーンを具体的に思い浮かべる" },
+      { "type": "paragraph", "html": "「なんとなく良さそうだから」で選ぶと、後から「思っていたのと違った」となりがちです。通勤電車の中で音楽を聴きたいのか、オンライン会議での通話が中心なのか、それとも運動中に使いたいのか。使うシーンによって重視すべき性能(ノイズキャンセリングの強さ、マイク品質、装着の安定感など)は大きく変わります。まずは自分の生活の中で「一番よく使う場面」を1つ思い浮かべてみましょう。" },
+      { "type": "heading", "text": "ポイント2: 予算の上限を先に決める" },
+      { "type": "paragraph", "html": "ワイヤレスイヤホンは5,000円以下のモデルから7万円を超えるモデルまで幅が広く、価格と性能はある程度比例します。とはいえ、<a href='product.html?id=anker-life-p3'>Anker Soundcore Life P3</a> や <a href='product.html?id=sony-wf-c700n'>SONY WF-C700N</a> のように、1万円台前半でもノイズキャンセリングを搭載した完成度の高いモデルは増えています。まず予算の上限を決めてから探すと、選択肢が絞られて比較がぐっと楽になります。" },
+      { "type": "heading", "text": "ポイント3: 装着スタイルの好みを知る" },
+      { "type": "paragraph", "html": "耳栓のように密閉する「カナル型」は遮音性と低音に優れますが、圧迫感が苦手な人もいます。逆に <a href='product.html?id=apple-airpods-4-anc'>AirPods 4(ANCモデル)</a> のような半開放型は圧迫感が少ない一方、遮音性は控えめです。可能であれば家電量販店などで一度試着してみると、自分の好みがはっきりします。" },
+      { "type": "list", "items": ["使うシーンを1つ具体的に決める", "予算の上限を先に決めてから探す", "装着スタイルの好みを把握する"] },
+      { "type": "paragraph", "html": "この3つが決まれば、候補は自然と絞られてきます。それでも迷う場合は、当サイトの<a href='quiz.html'>診断ページ</a>で7つの質問に答えるだけでも、自分に合った機種の候補が見つかります。" }
+    ]
+  },
+  {
+    "id": "is-noise-canceling-necessary",
+    "title": "ノイズキャンセリングって本当に必要?メリットとデメリット",
+    "category": "選び方ガイド",
+    "publishedDate": "2025-02-10",
+    "icon": "🔇",
+    "themeColor": "slate",
+    "excerpt": "ANC(アクティブノイズキャンセリング)の仕組みと、向いている人・向いていない人を考えます。",
+    "relatedProducts": ["bose-qc-ultra-earbuds", "bose-ultra-open-earbuds", "anker-aerofit-pro"],
+    "content": [
+      { "type": "paragraph", "html": "ワイヤレスイヤホンを選ぶとき、多くの人が気にする機能が「ノイズキャンセリング(ANC)」です。しかし、実際のところ本当に必要な機能なのでしょうか。ここではANCのメリットとデメリットを整理し、向いている人・向いていない人を考えてみます。" },
+      { "type": "heading", "text": "ANCの仕組みと得られるメリット" },
+      { "type": "paragraph", "html": "ANCは、マイクが拾った周囲の騒音を分析し、逆位相の音を再生することで打ち消す技術です。<a href='product.html?id=bose-qc-ultra-earbuds'>Bose QuietComfort Ultra Earbuds</a> のようなハイエンドモデルでは、電車や飛行機のような低い持続音を大幅に軽減できます。静かな環境が手に入ることで音楽や音声への集中力が上がり、長時間の移動でも疲れにくくなるという声も多く聞かれます。" },
+      { "type": "heading", "text": "ANCのデメリット・注意点" },
+      { "type": "paragraph", "html": "一方で、ANCには気圧がかかったような感覚(圧迫感)を覚える人もいます。また、周囲の音が聞こえにくくなるため、屋外を歩きながら使う場合は車や自転車の接近に気づきにくくなるという安全面のデメリットもあります。バッテリー消費もANCオフ時より大きくなる傾向があります。" },
+      { "type": "heading", "text": "ANCが不要、あるいは弱めでよい人" },
+      { "type": "paragraph", "html": "「周囲の音を聞きながら使いたい」という人には、そもそもANCを搭載しない <a href='product.html?id=bose-ultra-open-earbuds'>Bose Ultra Open Earbuds</a> や <a href='product.html?id=anker-aerofit-pro'>Anker Soundcore AeroFit Pro</a> のようなオープンイヤー型という選択肢もあります。屋外でのランニングや、オフィスで同僚の声にすぐ反応したい人には、ANCよりも「聞きながら使える」設計の方が快適な場合があります。" },
+      { "type": "list", "items": ["静かな環境で集中したい → ANC必須クラスがおすすめ", "電車や人混みでの移動が多い → ANCありがおすすめ", "屋外での運動や安全性重視 → オープンイヤー型も検討"] },
+      { "type": "paragraph", "html": "ANCは「あれば嬉しい機能」ですが、万人に必須というわけではありません。自分の使うシーンに合わせて、ANCの強さや有無を選ぶのがおすすめです。" }
+    ]
+  },
+  {
+    "id": "best-value-under-10000",
+    "title": "1万円以下でも満足できる!コスパ最強モデル特集",
+    "category": "特集",
+    "publishedDate": "2025-03-05",
+    "icon": "💰",
+    "themeColor": "amber",
+    "excerpt": "価格を抑えつつも機能や音質のバランスが良い、コスパに優れたモデルを紹介します。",
+    "relatedProducts": ["anker-life-p3", "anker-p30i", "earfun-air-pro-3", "redmi-buds-5", "jbl-tune-230nc"],
+    "content": [
+      { "type": "paragraph", "html": "ワイヤレスイヤホンは決して安い買い物ではありませんが、実は1万円以下でも十分に満足できる完成度の高いモデルが増えています。今回は、価格を抑えつつも機能や音質のバランスが良い、コスパに優れたモデルを紹介します。" },
+      { "type": "heading", "text": "ノイズキャンセリング搭載で1万円以下" },
+      { "type": "paragraph", "html": "<a href='product.html?id=anker-life-p3'>Anker Soundcore Life P3</a> は1万円以下ながらノイズキャンセリングを搭載し、ケース込みで約40時間という長時間再生にも対応。初めてのワイヤレスイヤホンとしても安心して選べる完成度です。さらに価格を抑えたいなら、5,000円以下で購入できる <a href='product.html?id=anker-p30i'>Anker Soundcore P30i</a> も選択肢になります。" },
+      { "type": "heading", "text": "コスパブランドの実力派" },
+      { "type": "paragraph", "html": "新興ブランドの <a href='product.html?id=earfun-air-pro-3'>EarFun Air Pro 3</a> は、価格を大きく超えるノイズキャンセリング性能とケース込み52時間という圧倒的なバッテリー持続時間が魅力です。また <a href='product.html?id=redmi-buds-5'>Redmi Buds 5</a> は6,000円を切る価格ながら、日常使いに必要十分な性能を備えています。" },
+      { "type": "heading", "text": "有名ブランドの入門機も狙い目" },
+      { "type": "paragraph", "html": "大手ブランドの製品でも、<a href='product.html?id=jbl-tune-230nc'>JBL Tune 230NC TWS</a> のように1万円以下でノイズキャンセリングを搭載したモデルがあります。ブランドの安心感と価格を両立したい人におすすめです。" },
+      { "type": "list", "items": ["Anker Soundcore Life P3: ANC搭載でバランス型", "EarFun Air Pro 3: 圧倒的バッテリーとANC性能", "Redmi Buds 5: とにかく価格重視なら", "JBL Tune 230NC TWS: ブランドの安心感も欲しいなら"] },
+      { "type": "paragraph", "html": "予算1万円以下でも、選び方次第で十分満足度の高い1台に出会えます。他の候補と迷ったら <a href='ranking.html#value'>コスパランキング</a> も参考にしてみてください。" }
+    ]
+  },
+  {
+    "id": "airpodspro2-vs-wf1000xm5",
+    "title": "AirPods Pro 2 vs SONY WF-1000XM5 徹底比較",
+    "category": "比較",
+    "publishedDate": "2025-04-18",
+    "icon": "⚖️",
+    "themeColor": "indigo",
+    "excerpt": "ハイエンド2機種、AirPods Pro 2とWF-1000XM5の違いをエコシステム・音質の観点から比較します。",
+    "relatedProducts": ["apple-airpods-pro-2", "sony-wf-1000xm5"],
+    "content": [
+      { "type": "paragraph", "html": "ハイエンドワイヤレスイヤホンの代表格として必ず名前が挙がるのが、<a href='product.html?id=apple-airpods-pro-2'>Apple AirPods Pro 2</a> と <a href='product.html?id=sony-wf-1000xm5'>SONY WF-1000XM5</a> です。どちらも高いノイズキャンセリング性能と音質を誇りますが、性格は大きく異なります。" },
+      { "type": "heading", "text": "エコシステムで選ぶならAirPods Pro 2" },
+      { "type": "paragraph", "html": "AirPods Pro 2最大の強みは、iPhoneやMacとのシームレスな連携です。デバイス間の自動切り替え、空間オーディオ、紛失防止機能など、Apple製品を複数使っているユーザーにとっての利便性は圧倒的です。一方でAndroidデバイスと組み合わせると、これらの機能の多くが制限されてしまう点は注意が必要です。" },
+      { "type": "heading", "text": "音質とマルチプラットフォームで選ぶならWF-1000XM5" },
+      { "type": "paragraph", "html": "WF-1000XM5は、LDAC対応による高音質と、iPhone・Android問わず安定して使える汎用性が魅力です。マルチポイント接続でPCとスマホを行き来する人にも扱いやすく、音質にこだわりたいユーザーからの評価が特に高いモデルです。" },
+      { "type": "heading", "text": "どちらを選ぶべきか" },
+      { "type": "paragraph", "html": "iPhone・Macを中心に使っていて、着け心地やエコシステムとの連携を重視するならAirPods Pro 2。Androidと組み合わせる、あるいは音質を最優先したいならWF-1000XM5が向いています。価格帯はほぼ同じなので、最終的には「普段使うデバイス」で選ぶのが良いでしょう。" },
+      { "type": "list", "items": ["iPhone/Mac中心・連携重視 → AirPods Pro 2", "Android併用・音質重視 → WF-1000XM5", "通話品質もこだわりたい → どちらも良好"] },
+      { "type": "paragraph", "html": "実際のスペックを横並びで見比べたい場合は、<a href='compare.html?ids=apple-airpods-pro-2,sony-wf-1000xm5'>比較ページでこの2機種を比較する</a>と一目で違いが分かります。" }
+    ]
+  },
+  {
+    "id": "best-for-commute",
+    "title": "通勤・通学におすすめのイヤホン5選",
+    "category": "特集",
+    "publishedDate": "2025-05-02",
+    "icon": "🚃",
+    "themeColor": "teal",
+    "excerpt": "軽さ・装着の安定感・ノイズキャンセリングなど、通勤通学シーンに向いた5機種を紹介します。",
+    "relatedProducts": ["sony-linkbuds-s", "apple-airpods-4-anc", "anker-liberty-4-nc", "nothing-ear-a", "jabra-elite-5"],
+    "content": [
+      { "type": "paragraph", "html": "毎日の通勤・通学で使うイヤホンには、音質だけでなく「軽さ」「装着の安定感」「電車内でのノイズキャンセリング」など、独自の条件があります。ここでは通勤・通学シーンに向いた5機種を紹介します。" },
+      { "type": "heading", "text": "軽さで選ぶなら" },
+      { "type": "paragraph", "html": "<a href='product.html?id=sony-linkbuds-s'>SONY LinkBuds S</a> は約4.8gという超軽量ボディで、長時間の装着でも耳への負担が少なく、毎日使うイヤホンとして高い支持を得ています。" },
+      { "type": "heading", "text": "iPhoneユーザーには" },
+      { "type": "paragraph", "html": "<a href='product.html?id=apple-airpods-4-anc'>AirPods 4(ANCモデル)</a> は、耳を塞がない軽い着け心地とiPhoneとの連携の良さから、通勤中の音楽や通知確認をスムーズにこなせます。" },
+      { "type": "heading", "text": "コストを抑えつつANCも欲しいなら" },
+      { "type": "paragraph", "html": "<a href='product.html?id=anker-liberty-4-nc'>Anker Soundcore Liberty 4 NC</a> は、1万円台でしっかりとしたノイズキャンセリングを搭載。電車の走行音を軽減しながら、コストも抑えたい人にぴったりです。" },
+      { "type": "heading", "text": "デザインも楽しみたいなら" },
+      { "type": "paragraph", "html": "<a href='product.html?id=nothing-ear-a'>Nothing Ear (a)</a> の透明感のあるデザインは、通勤カバンから取り出す瞬間も楽しくなる一台です。" },
+      { "type": "heading", "text": "通話が多い人には" },
+      { "type": "paragraph", "html": "在宅と出社を行き来する働き方で通話が多い人には、マイク・通話品質に定評のある <a href='product.html?id=jabra-elite-5'>Jabra Elite 5</a> がおすすめです。" },
+      { "type": "list", "items": ["SONY LinkBuds S: とにかく軽さ重視", "AirPods 4(ANC): iPhoneとの連携重視", "Anker Soundcore Liberty 4 NC: コスパ重視", "Nothing Ear (a): デザイン性重視", "Jabra Elite 5: 通話品質重視"] },
+      { "type": "heading", "text": "満員電車での取り扱いにも注意" },
+      { "type": "paragraph", "html": "通勤ラッシュの満員電車では、人とぶつかった拍子にイヤホンを落としてしまうこともあります。マルチポイント対応であれば、スマホとPCを行き来しても接続し直す手間が少なく、ケースを開けた瞬間に自動接続されるモデルを選んでおくと、朝の忙しい時間帯でもストレスが減ります。" },
+      { "type": "paragraph", "html": "通勤・通学シーンでの相性をさらに詳しく知りたい場合は、<a href='ranking.html#usecase'>用途別ランキング(通勤・通学)</a> もあわせてチェックしてみてください。" }
+    ]
+  },
+  {
+    "id": "hi-res-audio-models",
+    "title": "音質重視派へ、ハイレゾ対応のこだわりモデル",
+    "category": "特集",
+    "publishedDate": "2025-05-20",
+    "icon": "🎵",
+    "themeColor": "rose",
+    "excerpt": "コーデックや設計にこだわった、ハイレゾ相当の音質を楽しめるモデルを紹介します。",
+    "relatedProducts": ["sony-wf-1000xm5", "technics-eah-az80", "bw-pi8", "anker-liberty-5", "nothing-ear-2024"],
+    "content": [
+      { "type": "paragraph", "html": "ワイヤレスイヤホンでも、コーデックや設計次第でハイレゾ音源に迫る解像感のあるサウンドを楽しめる時代になりました。ここでは、ハイレゾ相当の音質に対応したこだわりのモデルを紹介します。" },
+      { "type": "heading", "text": "音質とANCを高い次元で両立" },
+      { "type": "paragraph", "html": "<a href='product.html?id=sony-wf-1000xm5'>SONY WF-1000XM5</a> はLDAC対応により、無線接続でもハイレゾ音源に近い情報量を再現します。ノイズキャンセリング性能も業界トップクラスで、音質と静音性のどちらも妥協したくない人に最適です。" },
+      { "type": "heading", "text": "老舗オーディオブランドのこだわり" },
+      { "type": "paragraph", "html": "<a href='product.html?id=technics-eah-az80'>Technics EAH-AZ80</a> は、LDACに加えaptX Adaptiveにも対応し、繊細な音の輪郭を丁寧に描き出します。<a href='product.html?id=bw-pi8'>Bowers & Wilkins Pi8</a> は、スピーカーで培った音響技術をイヤホンに凝縮した、価格に見合う所有満足度の高い一台です。" },
+      { "type": "heading", "text": "コスパ良くハイレゾを試すなら" },
+      { "type": "paragraph", "html": "「まずはハイレゾ対応イヤホンを試してみたい」という人には、<a href='product.html?id=anker-liberty-5'>Anker Soundcore Liberty 5</a> や <a href='product.html?id=nothing-ear-2024'>Nothing Ear</a> のように、2万円前後でLDACやLHDCに対応したモデルもおすすめです。" },
+      { "type": "list", "items": ["SONY WF-1000XM5: 音質・ANCともに最高クラス", "Technics EAH-AZ80: 繊細な音の解像感", "Bowers & Wilkins Pi8: 所有満足度の高さ", "Anker Soundcore Liberty 5 / Nothing Ear: コスパ良くハイレゾ入門"] },
+      { "type": "heading", "text": "コーデックの違いをざっくり理解する" },
+      { "type": "paragraph", "html": "ハイレゾ相当の音質を語る上で欠かせないのが「コーデック」です。標準的なSBC・AACに対し、LDACやaptX Adaptive、LHDCといった上位コーデックは、より多くの情報量を無線で伝送できます。ただし対応コーデックはスマートフォン側にも依存するため、購入前に自分の端末がどのコーデックに対応しているかを確認しておくと安心です。" },
+      { "type": "paragraph", "html": "ハイレゾ対応かどうかは、各製品ページの「特徴」欄にある対応コーデックの項目でも確認できます。" }
+    ]
+  },
+  {
+    "id": "sports-running-guide",
+    "title": "スポーツ・ランニング向けの選び方",
+    "category": "選び方ガイド",
+    "publishedDate": "2025-06-08",
+    "icon": "🏃",
+    "themeColor": "mint",
+    "excerpt": "外れにくさ・防水性能・周囲の音への意識という3つの視点から、運動向けの選び方を紹介します。",
+    "relatedProducts": ["beats-fit-pro", "shokz-openrun-pro-2", "anker-aerofit-pro", "anker-liberty-4-nc"],
+    "content": [
+      { "type": "paragraph", "html": "運動中に使うイヤホンには、音楽再生用のイヤホンとは違った視点が必要です。「外れにくさ」「汗・雨への耐性」「周囲の音への意識」の3点を中心に、スポーツ向けの選び方を紹介します。" },
+      { "type": "heading", "text": "外れにくさを最優先するなら" },
+      { "type": "paragraph", "html": "<a href='product.html?id=beats-fit-pro'>Beats Fit Pro</a> は、独自のウイングチップで激しい動きでもズレにくい設計が特徴です。ランニングだけでなく、ジムでの筋トレのような上下運動が多いシーンでも安定した装着感を発揮します。" },
+      { "type": "heading", "text": "耳を塞がず安全に運動したいなら" },
+      { "type": "paragraph", "html": "屋外を走る際は、周囲の車や自転車の音に気づけることも大切です。骨伝導技術を採用した <a href='product.html?id=shokz-openrun-pro-2'>Shokz OpenRun Pro 2</a> や、オープンイヤー型の <a href='product.html?id=anker-aerofit-pro'>Anker Soundcore AeroFit Pro</a> は、耳を完全に塞がないため周囲の音を聞きながら安全に運動できます。" },
+      { "type": "heading", "text": "汗・雨への耐性も確認を" },
+      { "type": "paragraph", "html": "運動用として選ぶ場合は、IPX5相当以上の防水性能があると安心です。<a href='product.html?id=anker-liberty-4-nc'>Anker Soundcore Liberty 4 NC</a> は心拍センサーも搭載しており、ワークアウトの記録と音楽再生を一台で両立できます。" },
+      { "type": "list", "items": ["外れにくさ重視 → Beats Fit Pro", "安全性・骨伝導 → Shokz OpenRun Pro 2", "耳を塞がないオープン型 → Anker Soundcore AeroFit Pro", "ワークアウト記録も → Anker Soundcore Liberty 4 NC"] },
+      { "type": "heading", "text": "汗をかいた後のお手入れも忘れずに" },
+      { "type": "paragraph", "html": "防水性能があるからといって、使用後にそのまま放置するのはおすすめできません。汗や皮脂が充電端子やイヤーピースに残ると、接触不良や肌トラブルの原因になることがあります。運動後は乾いた布で軽く拭き取り、定期的にイヤーピースを取り外して洗浄する習慣をつけると、長く快適に使い続けられます。" },
+      { "type": "paragraph", "html": "スポーツ向けモデルをまとめて比較したい場合は、<a href='ranking.html#usecase'>用途別ランキング(スポーツ)</a> もあわせてご覧ください。" }
+    ]
+  },
+  {
+    "id": "open-ear-and-bone-conduction",
+    "title": "耳を塞がない選択肢――骨伝導・オープンイヤーは「買い」か?",
+    "category": "選び方ガイド",
+    "publishedDate": "2025-06-25",
+    "icon": "👂",
+    "themeColor": "teal",
+    "excerpt": "近年増えているオープンイヤー型・骨伝導型は、実際のところ「買い」なのかを考えます。",
+    "relatedProducts": ["shokz-openrun-pro-2", "bose-ultra-open-earbuds", "anker-aerofit-pro", "apple-airpods-4-anc"],
+    "content": [
+      { "type": "paragraph", "html": "近年、耳を完全に塞がない「オープンイヤー型」や「骨伝導型」のイヤホンが増えています。密閉型に慣れた人にとっては物珍しく感じるかもしれませんが、実際のところ「買い」なのでしょうか。" },
+      { "type": "heading", "text": "オープンイヤー・骨伝導とは" },
+      { "type": "paragraph", "html": "オープンイヤー型は耳の外側から音を届ける設計で、<a href='product.html?id=bose-ultra-open-earbuds'>Bose Ultra Open Earbuds</a> や <a href='product.html?id=anker-aerofit-pro'>Anker Soundcore AeroFit Pro</a> が代表例です。骨伝導型は頬骨を通じて音を伝える技術で、<a href='product.html?id=shokz-openrun-pro-2'>Shokz OpenRun Pro 2</a> のように耳の穴を完全に開放したまま使えます。" },
+      { "type": "heading", "text": "向いている人" },
+      { "type": "paragraph", "html": "周囲の音を聞きながら使いたい人、長時間の装着でも耳が痛くなりにくいものを探している人、屋外での運動時に安全性を重視する人には特に向いています。密閉感が苦手でこれまでワイヤレスイヤホンを避けてきた人にも試す価値があります。半開放型の <a href='product.html?id=apple-airpods-4-anc'>AirPods 4(ANCモデル)</a> のような中間的な選択肢もあります。" },
+      { "type": "heading", "text": "向いていない人・注意点" },
+      { "type": "paragraph", "html": "一方で、密閉型に比べると低音の量感やノイズキャンセリング性能は劣ります。静かな環境で音楽に没入したい人や、電車内でしっかり周囲の音を遮断したい人には、密閉型のカナル型イヤホンの方が満足度は高いでしょう。" },
+      { "type": "list", "items": ["周囲の音を聞きながら使いたい → 向いている", "運動時の安全性重視 → 向いている", "静かな環境での没入感重視 → 密閉型の方が良い", "強力なANCが欲しい → 密閉型の方が良い"] },
+      { "type": "heading", "text": "価格帯もチェックしておきたい" },
+      { "type": "paragraph", "html": "オープンイヤー型・骨伝導型は構造が特殊な分、同価格帯の密閉型と比べるとやや高価に感じることもあります。まずは自分の使い方が「向いている人」に当てはまるかを確認し、そのうえで価格に見合うメリットがあるかを判断するのがおすすめです。" },
+      { "type": "paragraph", "html": "「どちらのタイプが自分に合うか分からない」という人は、<a href='quiz.html'>診断ページ</a>の装着スタイルの質問で、カナル型・オープン型・骨伝導型を含めた提案を受けられます。" }
+    ]
+  }
+]

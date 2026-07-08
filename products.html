@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>製品一覧 | イヤホン診断</title>
+<meta name="description" content="ワイヤレスイヤホン72機種を、メーカー・価格帯・機能で絞り込みながら比較できます。" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="index.html" class="logo"><span class="logo-dot"></span>イヤホン診断</a>
+    <nav class="site-nav">
+      <a href="index.html" class="site-nav-link">トップ</a>
+      <a href="quiz.html" class="site-nav-link">診断</a>
+      <a href="products.html" class="site-nav-link is-active">製品一覧</a>
+      <a href="compare.html" class="site-nav-link">比較</a>
+      <a href="ranking.html" class="site-nav-link">ランキング</a>
+      <a href="articles.html" class="site-nav-link">特集記事</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="container products-page-header">
+    <h1>製品一覧</h1>
+    <p>実在するワイヤレスイヤホン72機種を、条件で絞り込みながら比較できます。</p>
+  </div>
+
+  <div class="container-wide">
+    <div class="products-toolbar">
+      <div class="search-bar">
+        <input type="search" id="searchInput" placeholder="製品名・メーカー名で検索" aria-label="製品名・メーカー名で検索" />
+      </div>
+      <button type="button" class="btn btn-ghost filter-toggle-btn" id="filterToggleBtn">フィルタを開く</button>
+    </div>
+
+    <div class="products-body">
+      <aside class="filter-panel" id="filterPanel">
+        <div class="filter-panel-header">
+          <h2>絞り込み</h2>
+          <button type="button" class="filter-close-btn" id="filterCloseBtn" aria-label="フィルタを閉じる">×</button>
+        </div>
+
+        <div class="filter-group">
+          <h3>メーカー</h3>
+          <div class="filter-checkbox-list" id="brandFilterList"></div>
+        </div>
+
+        <div class="filter-group">
+          <h3>価格帯</h3>
+          <div class="filter-checkbox-list" id="priceFilterList"></div>
+        </div>
+
+        <div class="filter-group">
+          <h3>カテゴリ</h3>
+          <div class="filter-checkbox-list" id="categoryFilterList"></div>
+        </div>
+
+        <div class="filter-group">
+          <h3>装着タイプ</h3>
+          <div class="filter-checkbox-list" id="fitFilterList"></div>
+        </div>
+
+        <div class="filter-group">
+          <h3>こだわりタグ</h3>
+          <div class="filter-checkbox-list" id="personaFilterList"></div>
+        </div>
+
+        <div class="filter-group">
+          <h3>ノイズキャンセリング</h3>
+          <label class="filter-toggle">
+            <input type="checkbox" id="ancFilter" />
+            <span>ANC対応のみ</span>
+          </label>
+        </div>
+
+        <div class="filter-group">
+          <h3>防水性能</h3>
+          <label class="filter-toggle">
+            <input type="checkbox" id="waterFilter" />
+            <span>防水対応のみ</span>
+          </label>
+        </div>
+
+        <div class="filter-group">
+          <h3>バッテリー(単体)</h3>
+          <div class="filter-checkbox-list" id="batteryFilterList"></div>
+        </div>
+
+        <div class="filter-group">
+          <h3>ワイヤレス充電</h3>
+          <label class="filter-toggle">
+            <input type="checkbox" id="chargingFilter" />
+            <span>対応のみ</span>
+          </label>
+        </div>
+
+        <div class="filter-group">
+          <h3>低遅延モード</h3>
+          <label class="filter-toggle">
+            <input type="checkbox" id="lowLatencyFilter" />
+            <span>ゲーミング向け低遅延モード対応のみ</span>
+          </label>
+        </div>
+
+        <button type="button" class="btn btn-ghost filter-clear-btn" id="filterClearBtn">フィルタをすべてクリア</button>
+      </aside>
+
+      <div class="products-main">
+        <div class="active-filters" id="activeFilters" hidden></div>
+
+        <div class="products-result-bar">
+          <p class="result-count" id="resultCount"></p>
+          <select id="sortSelect" class="sort-select" aria-label="並び替え">
+            <option value="recommended">おすすめ順</option>
+            <option value="price-asc">価格が安い順</option>
+            <option value="price-desc">価格が高い順</option>
+            <option value="battery-desc">バッテリー長い順</option>
+            <option value="year-desc">発売年が新しい順</option>
+          </select>
+        </div>
+
+        <div class="product-grid" id="productGrid"></div>
+        <p class="empty-state" id="emptyState" hidden>
+          条件に一致する製品が見つかりませんでした。フィルタを調整してみてください。
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <p class="result-note">
+    掲載している価格・仕様は2025年時点の参考情報です。最新の価格・仕様は各公式サイトでご確認ください。
+  </p>
+</main>
+
+<div class="filter-overlay" id="filterOverlay" hidden></div>
+
+<footer class="site-footer">
+  <p>本サイトは情報提供のみを目的としており、アフィリエイトリンク等は含まれません。</p>
+</footer>
+
+<script src="js/products.js"></script>
+<script src="js/icons.js"></script>
+<script src="js/compare-tray.js"></script>
+<script src="js/products-list.js"></script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>特集記事 | イヤホン診断</title>
+<meta name="description" content="ワイヤレスイヤホンの選び方や特集記事をお届けします。" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="index.html" class="logo"><span class="logo-dot"></span>イヤホン診断</a>
+    <nav class="site-nav">
+      <a href="index.html" class="site-nav-link">トップ</a>
+      <a href="quiz.html" class="site-nav-link">診断</a>
+      <a href="products.html" class="site-nav-link">製品一覧</a>
+      <a href="compare.html" class="site-nav-link">比較</a>
+      <a href="ranking.html" class="site-nav-link">ランキング</a>
+      <a href="articles.html" class="site-nav-link is-active">特集記事</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="container articles-page-header">
+    <h1>特集記事</h1>
+    <p>イヤホン選びに役立つ、選び方ガイドや特集記事、機種比較コラムをお届けします。</p>
+  </div>
+
+  <div id="articlesError" class="container state-block" hidden>
+    <p class="state-message">記事データの読み込みに失敗しました。file:// で直接開いていませんか?</p>
+  </div>
+
+  <div class="container-wide">
+    <div class="article-grid" id="articleGrid"></div>
+  </div>
+
+  <p class="result-note">
+    掲載している価格・仕様は2025年時点の参考情報です。最新の価格・仕様は各公式サイトでご確認ください。
+  </p>
+</main>
+
+<footer class="site-footer">
+  <p>本サイトは情報提供のみを目的としており、アフィリエイトリンク等は含まれません。</p>
+</footer>
+
+<script src="js/articles.js"></script>
+<script src="js/articles-list.js"></script>
+</body>
+</html>

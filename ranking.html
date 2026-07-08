@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>ランキング | イヤホン診断</title>
+<meta name="description" content="総合・価格帯別・用途別・ノイズキャンセリング・バッテリー・コスパの各ランキングを、製品データから自動算出しています。" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="index.html" class="logo"><span class="logo-dot"></span>イヤホン診断</a>
+    <nav class="site-nav">
+      <a href="index.html" class="site-nav-link">トップ</a>
+      <a href="quiz.html" class="site-nav-link">診断</a>
+      <a href="products.html" class="site-nav-link">製品一覧</a>
+      <a href="compare.html" class="site-nav-link">比較</a>
+      <a href="ranking.html" class="site-nav-link is-active">ランキング</a>
+      <a href="articles.html" class="site-nav-link">特集記事</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="container ranking-page-header">
+    <h1>ランキング</h1>
+    <p>製品データの属性から自動集計したランキングです。迷ったときの参考にしてください。</p>
+  </div>
+
+  <nav class="ranking-tabs" id="rankingTabs">
+    <div class="ranking-tabs-inner">
+      <a href="#overall" class="ranking-tab is-active" data-tab="overall">総合</a>
+      <a href="#price" class="ranking-tab" data-tab="price">価格帯別</a>
+      <a href="#usecase" class="ranking-tab" data-tab="usecase">用途別</a>
+      <a href="#anc" class="ranking-tab" data-tab="anc">ノイズキャンセリング</a>
+      <a href="#battery" class="ranking-tab" data-tab="battery">バッテリー</a>
+      <a href="#value" class="ranking-tab" data-tab="value">コスパ</a>
+    </div>
+  </nav>
+
+  <div id="rankingError" class="container state-block" hidden>
+    <p class="state-message">製品データの読み込みに失敗しました。file:// で直接開いていませんか?</p>
+  </div>
+
+  <div class="container-wide ranking-body">
+    <section class="ranking-section is-active" id="overall">
+      <h2>総合おすすめランキング TOP10</h2>
+      <p class="ranking-desc">ANC性能・対応機能数・バッテリー・通話品質を統合したスコアで算出しています。</p>
+      <div id="overallList"></div>
+    </section>
+
+    <section class="ranking-section" id="price">
+      <h2>価格帯別ランキング</h2>
+      <p class="ranking-desc">価格帯ごとに、総合スコアが高い順に上位5機種を並べています。</p>
+      <div id="priceGroups"></div>
+    </section>
+
+    <section class="ranking-section" id="usecase">
+      <h2>用途別ランキング</h2>
+      <p class="ranking-desc">用途タグ・ハイレゾ対応の有無で絞り込み、総合スコア順に上位5機種を並べています。</p>
+      <div id="usecaseGroups"></div>
+    </section>
+
+    <section class="ranking-section" id="anc">
+      <h2>ノイズキャンセリング性能ランキング TOP10</h2>
+      <p class="ranking-desc">ANCレベル(トップクラス → しっかり搭載 → ベーシック)順。ANC非搭載モデルは対象外です。</p>
+      <div id="ancList"></div>
+    </section>
+
+    <section class="ranking-section" id="battery">
+      <h2>バッテリー持続時間ランキング TOP10</h2>
+      <p class="ranking-desc">ケース込みの合計再生時間(記載がない機種は単体再生時間)が長い順です。</p>
+      <div id="batteryList"></div>
+    </section>
+
+    <section class="ranking-section" id="value">
+      <h2>コスパランキング TOP10</h2>
+      <p class="ranking-desc">総合スコアを価格(1万円あたり)で割った「コストパフォーマンス」順です。</p>
+      <div id="valueList"></div>
+    </section>
+  </div>
+
+  <p class="result-note">
+    掲載している価格・仕様は2025年時点の参考情報です。最新の価格・仕様は各公式サイトでご確認ください。
+  </p>
+</main>
+
+<footer class="site-footer">
+  <p>本サイトは情報提供のみを目的としており、アフィリエイトリンク等は含まれません。</p>
+</footer>
+
+<script src="js/products.js"></script>
+<script src="js/icons.js"></script>
+<script src="js/ranking-scores.js"></script>
+<script src="js/ranking.js"></script>
+</body>
+</html>

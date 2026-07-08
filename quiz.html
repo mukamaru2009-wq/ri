@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>診断中... | イヤホン診断</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="index.html" class="logo"><span class="logo-dot"></span>イヤホン診断</a>
+    <nav class="site-nav">
+      <a href="index.html" class="site-nav-link">トップ</a>
+      <a href="quiz.html" class="site-nav-link is-active">診断</a>
+      <a href="products.html" class="site-nav-link">製品一覧</a>
+      <a href="compare.html" class="site-nav-link">比較</a>
+      <a href="ranking.html" class="site-nav-link">ランキング</a>
+      <a href="articles.html" class="site-nav-link">特集記事</a>
+    </nav>
+  </div>
+</header>
+
+<main class="quiz-main">
+  <div class="progress-wrap">
+    <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+    <p class="progress-label" id="progressLabel">質問 1 / 7</p>
+  </div>
+
+  <div class="quiz-card" id="quizCard">
+    <h2 class="question-text" id="questionText"></h2>
+    <div class="choice-list" id="choiceList"></div>
+  </div>
+
+  <div class="quiz-nav">
+    <button type="button" class="btn btn-ghost" id="backBtn">戻る</button>
+  </div>
+</main>
+
+<script src="js/questions.js"></script>
+<script src="js/quiz.js"></script>
+</body>
+</html>
