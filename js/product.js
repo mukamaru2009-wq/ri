@@ -73,6 +73,7 @@
         </div>
         <div class="product-quick-specs">${buildQuickSpecHtml(product)}</div>
         <button type="button" class="btn btn-ghost compare-add-btn" id="compareAddBtn" data-id="${product.id}">+ 比較に追加</button>
+        ${buildShopLinksHtml(product, "product-hero-shop-links")}
       </div>
     `;
 

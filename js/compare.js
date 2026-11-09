@@ -85,7 +85,11 @@
         <th class="compare-row-label">&nbsp;</th>
         ${products
           .map(
-            (p) => `<td><a class="btn btn-ghost compare-detail-link" href="product.html?id=${encodeURIComponent(p.id)}">詳しく見る →</a></td>`
+            (p) => `
+            <td>
+              <a class="btn btn-ghost compare-detail-link" href="product.html?id=${encodeURIComponent(p.id)}">詳しく見る →</a>
+              ${buildShopLinksHtml(p, "compare-shop-links")}
+            </td>`
           )
           .join("")}
       </tr>`;

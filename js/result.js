@@ -23,8 +23,12 @@
   }
 
   function buildCard(product, index) {
-    const card = document.createElement("article");
+    const card = document.createElement("div");
     card.className = "result-card" + (index === 0 ? " is-top" : "");
+
+    const link = document.createElement("a");
+    link.className = "result-card-link";
+    link.href = `product.html?id=${encodeURIComponent(product.id)}`;
 
     const badge = document.createElement("span");
     badge.className = "result-badge";
@@ -42,11 +46,8 @@
     brand.textContent = product.brand;
 
     const name = document.createElement("h2");
-    const nameLink = document.createElement("a");
-    nameLink.href = `product.html?id=${encodeURIComponent(product.id)}`;
-    nameLink.className = "result-name-link";
-    nameLink.textContent = product.name;
-    name.appendChild(nameLink);
+    name.className = "result-name";
+    name.textContent = product.name;
 
     const tagline = document.createElement("p");
     tagline.className = "result-tagline";
@@ -68,9 +69,8 @@
     recommend.className = "result-recommend";
     recommend.innerHTML = `<strong>こんな人におすすめ:</strong> ${product.recommended_for}`;
 
-    const detailLink = document.createElement("a");
+    const detailLink = document.createElement("span");
     detailLink.className = "result-detail-link";
-    detailLink.href = `product.html?id=${encodeURIComponent(product.id)}`;
     detailLink.textContent = "詳しく見る →";
 
     body.appendChild(brand);
@@ -81,9 +81,15 @@
     body.appendChild(recommend);
     body.appendChild(detailLink);
 
+    link.appendChild(icon);
+    link.appendChild(body);
+
+    const shopLinks = document.createElement("div");
+    shopLinks.innerHTML = buildShopLinksHtml(product, "result-shop-links");
+
     card.appendChild(badge);
-    card.appendChild(icon);
-    card.appendChild(body);
+    card.appendChild(link);
+    card.appendChild(shopLinks.firstElementChild);
     return card;
   }
 

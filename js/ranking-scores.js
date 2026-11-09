@@ -45,6 +45,7 @@ function buildRankingItemHtml(rank, p, reason) {
         <p class="ranking-item-brand">${p.brand}</p>
         <p class="ranking-item-name"><a href="product.html?id=${encodeURIComponent(p.id)}">${p.name}</a></p>
         <p class="ranking-item-reason">${reason}</p>
+        ${buildShopLinksHtml(p, "ranking-item-shop-links")}
       </div>
       <a class="btn btn-ghost ranking-item-link" href="product.html?id=${encodeURIComponent(p.id)}">詳しく見る</a>
     </li>`;
