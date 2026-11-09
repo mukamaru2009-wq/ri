@@ -15,12 +15,6 @@ const FIT_ICONS = {
       <circle cx="24" cy="27" r="13" fill="currentColor" fill-opacity="0.15" stroke="currentColor" stroke-width="2.5"/>
       <path d="M35 19 C50 19 52 41 41 50 C36 54 29 52 27 47" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" fill="none"/>
     </svg>`,
-  "over-ear": `
-    <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M14 32 C14 15 50 15 50 32" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-      <rect x="8" y="30" width="11" height="20" rx="5.5" fill="currentColor" fill-opacity="0.15" stroke="currentColor" stroke-width="2.5"/>
-      <rect x="45" y="30" width="11" height="20" rx="5.5" fill="currentColor" fill-opacity="0.15" stroke="currentColor" stroke-width="2.5"/>
-    </svg>`,
   "bone-conduction": `
     <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M18 48 C8 48 6 32 14 24 C20 18 28 20 28 27" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round"/>
@@ -38,7 +32,6 @@ function getFitIcon(fitType) {
 const FIT_LABELS = {
   canal: "カナル型",
   open: "オープン型",
-  "over-ear": "オーバーイヤー型",
   "bone-conduction": "骨伝導型"
 };
 

@@ -7,10 +7,9 @@
 const TIER_ORDER = ["low", "mid", "high", "premium"];
 
 const FIT_COMPAT = {
-  canal: { canal: 4, open: -4, "over-ear": -2, "bone-conduction": -4 },
-  open: { canal: -4, open: 4, "over-ear": -1, "bone-conduction": 2 },
-  "over-ear": { canal: -2, open: -1, "over-ear": 4, "bone-conduction": -2 },
-  "bone-conduction": { canal: -4, open: 2, "over-ear": -2, "bone-conduction": 4 }
+  canal: { canal: 4, open: -4, "bone-conduction": -4 },
+  open: { canal: -4, open: 4, "bone-conduction": 2 },
+  "bone-conduction": { canal: -4, open: 2, "bone-conduction": 4 }
 };
 
 const QUESTIONS = [
@@ -71,7 +70,6 @@ const QUESTIONS = [
     choices: [
       { value: "canal", label: "耳栓のようにしっかり密閉するカナル型" },
       { value: "open", label: "耳を塞がないイヤホン型(オープンイヤー)" },
-      { value: "over-ear", label: "耳全体を覆うヘッドホンタイプ" },
       { value: "bone-conduction", label: "耳を塞がない骨伝導タイプ" }
     ],
     scoreFn(product, value) {

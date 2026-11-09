@@ -17,7 +17,7 @@
   ];
 
   const CATEGORY_ORDER = ["エントリー", "ミドル", "ハイエンド"];
-  const FIT_ORDER = ["canal", "open", "over-ear", "bone-conduction"];
+  const FIT_ORDER = ["canal", "open", "bone-conduction"];
   const PERSONA_ORDER = ["luxury", "gaming", "mic_quality", "sports", "commuter", "office", "audiophile"];
   const PERSONA_LABELS = {
     luxury: "高級帯",
@@ -171,6 +171,7 @@
           <p class="product-card-tagline">${p.tagline}</p>
         </a>
         <button type="button" class="compare-add-btn" data-id="${p.id}">+ 比較に追加</button>
+        ${buildShopLinksHtml(p)}
       </div>
     `;
   }
