@@ -62,18 +62,19 @@
       "Androidでは一部機能が使えない",
       "価格はやや高め"
     ],
-    "recommended_for": "iPhone・Macをメインで使っていて、集中したい時間も、映画や音楽の没入感も両方妥協したくない人に。"
+    "recommended_for": "iPhone・Macをメインで使っていて、集中したい時間も、映画や音楽の没入感も両方妥協したくない人に。",
+    "official_url": "https://www.apple.com/jp/airpods/"
   },
   {
     "id": "apple-airpods-4-anc",
     "name": "AirPods 4(ANCモデル)",
     "brand": "Apple",
     "release_year": 2024,
-    "category": "ミドル",
-    "price_range": "20000-25000",
-    "price_label": "24,800円",
-    "price_yen": 24800,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "29,800円",
+    "price_yen": 29800,
+    "price_tier": "premium",
     "fit_type": "open",
     "os_compatibility": "ios-only",
     "call_quality": "normal",
@@ -125,7 +126,8 @@
       "密閉型ほどの強力なANCは期待できない",
       "Androidでは機能が制限される"
     ],
-    "recommended_for": "耳栓のような密閉感が苦手だけれど、ある程度のANCも欲しいiPhoneユーザーに。"
+    "recommended_for": "耳栓のような密閉感が苦手だけれど、ある程度のANCも欲しいiPhoneユーザーに。",
+    "official_url": "https://www.apple.com/jp/airpods/"
   },
   {
     "id": "sony-wf-1000xm5",
@@ -134,8 +136,8 @@
     "release_year": 2023,
     "category": "ハイエンド",
     "price_range": "35000-40000",
-    "price_label": "39,600円",
-    "price_yen": 39600,
+    "price_label": "35,800円",
+    "price_yen": 35800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -190,18 +192,19 @@
       "価格は高め",
       "ワイヤレス充電はケースのみ対応"
     ],
-    "recommended_for": "音質に強くこだわりたい人、長時間リスニングや映画・ゲームの没入感を求める人に。"
+    "recommended_for": "音質に強くこだわりたい人、長時間リスニングや映画・ゲームの没入感を求める人に。",
+    "official_url": "https://www.sony.jp/headphone/products/WF-1000XM5/"
   },
   {
     "id": "sony-linkbuds-s",
     "name": "LinkBuds S",
     "brand": "SONY",
     "release_year": 2022,
-    "category": "ミドル",
-    "price_range": "20000-25000",
-    "price_label": "24,000円",
-    "price_yen": 24000,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "26,400円",
+    "price_yen": 26400,
+    "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "good",
@@ -255,18 +258,19 @@
       "ワイヤレス充電には非対応",
       "バッテリー持続時間は標準的"
     ],
-    "recommended_for": "長時間の装着でも疲れにくいものを探している、仕事や通勤で毎日使う人に。"
+    "recommended_for": "長時間の装着でも疲れにくいものを探している、仕事や通勤で毎日使う人に。",
+    "official_url": "https://www.sony.jp/headphone/products/LinkBuds_S/"
   },
   {
     "id": "sony-linkbuds-fit",
     "name": "LinkBuds Fit",
     "brand": "SONY",
     "release_year": 2024,
-    "category": "ミドル",
-    "price_range": "20000-25000",
-    "price_label": "22,000円",
-    "price_yen": 22000,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "29,700円",
+    "price_yen": 29700,
+    "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "good",
@@ -320,7 +324,8 @@
       "ワイヤレス充電には非対応",
       "価格はLinkBuds Sよりやや高め"
     ],
-    "recommended_for": "フィット感を重視しつつ、軽い運動にも通勤にも幅広く使いたい人に。"
+    "recommended_for": "フィット感を重視しつつ、軽い運動にも通勤にも幅広く使いたい人に。",
+    "official_url": "https://www.sony.jp/headphone/products/LinkBuds_Fit/"
   },
   {
     "id": "sony-wf-c700n",
@@ -328,10 +333,10 @@
     "brand": "SONY",
     "release_year": 2023,
     "category": "ミドル",
-    "price_range": "10000-15000",
-    "price_label": "14,300円",
-    "price_yen": 14300,
-    "price_tier": "mid",
+    "price_range": "15000-20000",
+    "price_label": "16,500円",
+    "price_yen": 16500,
+    "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -381,7 +386,8 @@
       "上位モデルよりANC性能は控えめ",
       "マルチポイントには非対応"
     ],
-    "recommended_for": "初めてノイキャンイヤホンを試したい人、予算を抑えつつSONYブランドを選びたい人に。"
+    "recommended_for": "初めてノイキャンイヤホンを試したい人、予算を抑えつつSONYブランドを選びたい人に。",
+    "official_url": "https://www.sony.jp/headphone/products/WF-C700N/"
   },
   {
     "id": "bose-qc-ultra-earbuds",
@@ -390,8 +396,8 @@
     "release_year": 2023,
     "category": "ハイエンド",
     "price_range": "35000-40000",
-    "price_label": "39,600円",
-    "price_yen": 39600,
+    "price_label": "35,500円",
+    "price_yen": 35500,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -446,7 +452,8 @@
       "価格は高め",
       "ケースがやや大きめ"
     ],
-    "recommended_for": "とにかく周囲の音を遮断したい、移動中や集中作業の時間が多い人に。"
+    "recommended_for": "とにかく周囲の音を遮断したい、移動中や集中作業の時間が多い人に。",
+    "official_url": "https://www.bose.com/p/earbuds/bose-quietcomfort-ultra-earbuds/QCUE-HEADPHONEIN.html"
   },
   {
     "id": "bose-ultra-open-earbuds",
@@ -455,8 +462,8 @@
     "release_year": 2023,
     "category": "ハイエンド",
     "price_range": "35000-40000",
-    "price_label": "39,600円",
-    "price_yen": 39600,
+    "price_label": "35,500円",
+    "price_yen": 35500,
     "price_tier": "premium",
     "fit_type": "open",
     "os_compatibility": "universal",
@@ -510,7 +517,8 @@
       "ノイズキャンセリング非搭載",
       "周囲が非常に騒がしい環境では音楽が聞き取りづらい"
     ],
-    "recommended_for": "耳を塞がれる感覚が苦手な人、周囲の音を聞きながら音楽や通話をしたい人に。"
+    "recommended_for": "耳を塞がれる感覚が苦手な人、周囲の音を聞きながら音楽や通話をしたい人に。",
+    "official_url": "https://www.bose.com/p/earbuds/bose-ultra-open-earbuds/ULT-HEADPHONEOPN.html"
   },
   {
     "id": "bw-pi8",
@@ -518,9 +526,9 @@
     "brand": "Bowers & Wilkins",
     "release_year": 2024,
     "category": "ハイエンド",
-    "price_range": "60000-70000",
-    "price_label": "64,900円",
-    "price_yen": 64900,
+    "price_range": "65000-70000",
+    "price_label": "69,800円",
+    "price_yen": 69800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -573,7 +581,8 @@
       "価格が非常に高い",
       "国内でのサポート拠点はやや少なめ"
     ],
-    "recommended_for": "音質と所有満足度の両方を重視する、予算に余裕のあるこだわり派に。"
+    "recommended_for": "音質と所有満足度の両方を重視する、予算に余裕のあるこだわり派に。",
+    "official_url": "https://www.bowerswilkins.com/en-gb/product/wireless-earbuds/pi8/FP44962P.html"
   },
   {
     "id": "technics-eah-az80",
@@ -581,9 +590,9 @@
     "brand": "Technics",
     "release_year": 2023,
     "category": "ハイエンド",
-    "price_range": "35000-40000",
-    "price_label": "39,600円",
-    "price_yen": 39600,
+    "price_range": "25000-30000",
+    "price_label": "27,800円",
+    "price_yen": 27800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -639,7 +648,8 @@
       "価格は高め",
       "本体がやや大きめ"
     ],
-    "recommended_for": "音質とANCの両方を高いレベルで求める、出張や移動が多い人に。"
+    "recommended_for": "音質とANCの両方を高いレベルで求める、出張や移動が多い人に。",
+    "official_url": "https://www.us.technics.com/products/hi-fi-true-wireless-earbuds-with-noise-cancelling-eah-az80"
   },
   {
     "id": "anker-liberty-4-nc",
@@ -648,8 +658,8 @@
     "release_year": 2023,
     "category": "ミドル",
     "price_range": "10000-15000",
-    "price_label": "14,990円",
-    "price_yen": 14990,
+    "price_label": "12,990円",
+    "price_yen": 12990,
     "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -702,7 +712,8 @@
       "上位モデルに比べ音質は一段劣る",
       "装着感はやや大きめ"
     ],
-    "recommended_for": "予算を抑えつつANCも欲しい、コストパフォーマンス重視派に。"
+    "recommended_for": "予算を抑えつつANCも欲しい、コストパフォーマンス重視派に。",
+    "official_url": "https://www.ankerjapan.com"
   },
   {
     "id": "anker-liberty-5",
@@ -710,10 +721,10 @@
     "brand": "Anker",
     "release_year": 2024,
     "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "16,990円",
-    "price_yen": 16990,
-    "price_tier": "high",
+    "price_range": "10000-15000",
+    "price_label": "14,990円",
+    "price_yen": 14990,
+    "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "good",
@@ -768,7 +779,8 @@
       "Liberty 4 NCよりは価格が上がる",
       "ケースがやや大きめ"
     ],
-    "recommended_for": "コストパフォーマンスと音質の両方を求める、長時間外出が多い人に。"
+    "recommended_for": "コストパフォーマンスと音質の両方を求める、長時間外出が多い人に。",
+    "official_url": "https://www.ankerjapan.com"
   },
   {
     "id": "anker-life-p3",
@@ -776,10 +788,10 @@
     "brand": "Anker",
     "release_year": 2021,
     "category": "エントリー",
-    "price_range": "5000-8000",
-    "price_label": "7,990円",
-    "price_yen": 7990,
-    "price_tier": "low",
+    "price_range": "5000-10000",
+    "price_label": "8,990円",
+    "price_yen": 8990,
+    "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -828,7 +840,8 @@
       "上位モデルに比べ音質・ANC性能は控えめ",
       "マルチポイント非対応"
     ],
-    "recommended_for": "とにかく予算を抑えたい人、初めてワイヤレスイヤホンを試す人に。"
+    "recommended_for": "とにかく予算を抑えたい人、初めてワイヤレスイヤホンを試す人に。",
+    "official_url": "https://www.ankerjapan.com"
   },
   {
     "id": "anker-p30i",
@@ -836,9 +849,9 @@
     "brand": "Anker",
     "release_year": 2024,
     "category": "エントリー",
-    "price_range": "0-5000",
-    "price_label": "4,990円",
-    "price_yen": 4990,
+    "price_range": "5000-10000",
+    "price_label": "5,990円",
+    "price_yen": 5990,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -888,7 +901,8 @@
       "音質・ANC性能は価格なりの範囲",
       "マルチポイント非対応"
     ],
-    "recommended_for": "とにかく安く済ませたい人、予備の1台やサブ機を探している人に。"
+    "recommended_for": "とにかく安く済ませたい人、予備の1台やサブ機を探している人に。",
+    "official_url": "https://www.ankerjapan.com"
   },
   {
     "id": "anker-aerofit-pro",
@@ -896,9 +910,9 @@
     "brand": "Anker",
     "release_year": 2023,
     "category": "ミドル",
-    "price_range": "20000-25000",
-    "price_label": "22,990円",
-    "price_yen": 22990,
+    "price_range": "15000-20000",
+    "price_label": "19,990円",
+    "price_yen": 19990,
     "price_tier": "high",
     "fit_type": "open",
     "os_compatibility": "universal",
@@ -949,7 +963,8 @@
       "ノイズキャンセリングは非搭載",
       "低音の量感はカナル型に劣る"
     ],
-    "recommended_for": "耳を塞がれる感覚が苦手な人、周囲の音を聞きながら音楽や通話をしたい人に。"
+    "recommended_for": "耳を塞がれる感覚が苦手な人、周囲の音を聞きながら音楽や通話をしたい人に。",
+    "official_url": "https://www.ankerjapan.com"
   },
   {
     "id": "nothing-ear-a",
@@ -957,10 +972,10 @@
     "brand": "Nothing",
     "release_year": 2024,
     "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "15,800円",
-    "price_yen": 15800,
-    "price_tier": "high",
+    "price_range": "10000-15000",
+    "price_label": "14,800円",
+    "price_yen": 14800,
+    "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -1011,7 +1026,8 @@
       "マルチポイントには非対応",
       "ワイヤレス充電は非対応"
     ],
-    "recommended_for": "性能はもちろん、デザインの個性も大事にしたい人に。"
+    "recommended_for": "性能はもちろん、デザインの個性も大事にしたい人に。",
+    "official_url": "https://jp.nothing.tech"
   },
   {
     "id": "nothing-ear-2024",
@@ -1020,8 +1036,8 @@
     "release_year": 2024,
     "category": "ミドル",
     "price_range": "20000-25000",
-    "price_label": "21,800円",
-    "price_yen": 21800,
+    "price_label": "22,800円",
+    "price_yen": 22800,
     "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -1075,7 +1091,8 @@
       "Ear (a) より価格は上がる",
       "日本国内でのアフターサポート拠点は少なめ"
     ],
-    "recommended_for": "デザインと音質のどちらも譲れない、最新ガジェット好きな人に。"
+    "recommended_for": "デザインと音質のどちらも譲れない、最新ガジェット好きな人に。",
+    "official_url": "https://jp.nothing.tech"
   },
   {
     "id": "jbl-live-pro-2",
@@ -1084,8 +1101,8 @@
     "release_year": 2023,
     "category": "ミドル",
     "price_range": "15000-20000",
-    "price_label": "19,800円",
-    "price_yen": 19800,
+    "price_label": "17,600円",
+    "price_yen": 17600,
     "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -1136,7 +1153,8 @@
       "繊細さより迫力重視のチューニング",
       "マルチポイントの安定性は上位機に劣る"
     ],
-    "recommended_for": "迫力のある低音を求める、コスパの良いANCイヤホンを探している人に。"
+    "recommended_for": "迫力のある低音を求める、コスパの良いANCイヤホンを探している人に。",
+    "official_url": "https://jp.jbl.com"
   },
   {
     "id": "jbl-tour-pro-2",
@@ -1144,9 +1162,9 @@
     "brand": "JBL",
     "release_year": 2023,
     "category": "ハイエンド",
-    "price_range": "35000-40000",
-    "price_label": "38,500円",
-    "price_yen": 38500,
+    "price_range": "30000-35000",
+    "price_label": "33,000円",
+    "price_yen": 33000,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -1200,18 +1218,19 @@
       "ケースがやや大きめでかさばる",
       "価格はハイエンド帯"
     ],
-    "recommended_for": "ガジェットとしての面白さと、確かな音質・機能性を両方求める人に。"
+    "recommended_for": "ガジェットとしての面白さと、確かな音質・機能性を両方求める人に。",
+    "official_url": "https://jp.jbl.com"
   },
   {
     "id": "jbl-tune-230nc",
     "name": "Tune 230NC TWS",
     "brand": "JBL",
     "release_year": 2023,
-    "category": "エントリー",
-    "price_range": "8000-10000",
-    "price_label": "8,980円",
-    "price_yen": 8980,
-    "price_tier": "mid",
+    "category": "ミドル",
+    "price_range": "15000-20000",
+    "price_label": "15,500円",
+    "price_yen": 15500,
+    "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -1260,7 +1279,8 @@
       "マルチポイント・ワイヤレス充電は非対応",
       "上位モデルに比べ機能はシンプル"
     ],
-    "recommended_for": "とにかく予算を抑えたい人、気軽にANCイヤホンを試したい人に。"
+    "recommended_for": "とにかく予算を抑えたい人、気軽にANCイヤホンを試したい人に。",
+    "official_url": "https://support.jbl.com/in/en/headphones/headphones-bluetooth-wireless/TUNE230NCTWS-.html"
   },
   {
     "id": "beats-fit-pro",
@@ -1268,9 +1288,9 @@
     "brand": "Beats",
     "release_year": 2021,
     "category": "ハイエンド",
-    "price_range": "25000-30000",
-    "price_label": "29,800円",
-    "price_yen": 29800,
+    "price_range": "30000-35000",
+    "price_label": "30,980円",
+    "price_yen": 30980,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -1324,18 +1344,19 @@
       "ケースはややかさばる",
       "ワイヤレス充電は非対応"
     ],
-    "recommended_for": "ランニングやジムでの使用がメインで、装着の安定感を最優先したい人に。"
+    "recommended_for": "ランニングやジムでの使用がメインで、装着の安定感を最優先したい人に。",
+    "official_url": "https://www.beatsbydre.com/"
   },
   {
     "id": "beats-studio-buds-plus",
     "name": "Beats Studio Buds +",
     "brand": "Beats",
     "release_year": 2023,
-    "category": "ミドル",
-    "price_range": "20000-25000",
-    "price_label": "24,980円",
-    "price_yen": 24980,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "25,980円",
+    "price_yen": 25980,
+    "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "good",
@@ -1387,7 +1408,8 @@
       "ワイヤレス充電には非対応",
       "バッテリー持続時間は標準的"
     ],
-    "recommended_for": "小型軽量で、iPhone以外でも使いやすいイヤホンを探している人に。"
+    "recommended_for": "小型軽量で、iPhone以外でも使いやすいイヤホンを探している人に。",
+    "official_url": "https://www.beatsbydre.com/earbuds/studio-buds"
   },
   {
     "id": "earfun-air-pro-3",
@@ -1395,10 +1417,10 @@
     "brand": "EarFun",
     "release_year": 2023,
     "category": "エントリー",
-    "price_range": "5000-8000",
-    "price_label": "7,990円",
-    "price_yen": 7990,
-    "price_tier": "low",
+    "price_range": "5000-10000",
+    "price_label": "9,280円",
+    "price_yen": 9280,
+    "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -1447,7 +1469,8 @@
       "ブランド知名度は大手より低い",
       "国内サポート体制はシンプル"
     ],
-    "recommended_for": "とにかくコストパフォーマンスを重視する、ANC性能を安く体験したい人に。"
+    "recommended_for": "とにかくコストパフォーマンスを重視する、ANC性能を安く体験したい人に。",
+    "official_url": "https://www.myearfun.com/jp"
   },
   {
     "id": "redmi-buds-5",
@@ -1455,9 +1478,9 @@
     "brand": "Redmi",
     "release_year": 2023,
     "category": "エントリー",
-    "price_range": "5000-8000",
-    "price_label": "5,980円",
-    "price_yen": 5980,
+    "price_range": "5000-10000",
+    "price_label": "6,980円",
+    "price_yen": 6980,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -1507,7 +1530,8 @@
       "ANC性能は上位機に見劣りする",
       "マルチポイント・ワイヤレス充電は非対応"
     ],
-    "recommended_for": "とにかく価格を抑えたい人、サブ機・予備機を探している人に。"
+    "recommended_for": "とにかく価格を抑えたい人、サブ機・予備機を探している人に。",
+    "official_url": "https://www.mi.com/global/product/redmi-buds-5/"
   },
   {
     "id": "jabra-elite-5",
@@ -1571,18 +1595,19 @@
       "ブランドとしての知名度はやや控えめ",
       "デザインはやや実用重視"
     ],
-    "recommended_for": "オンライン会議や通話が多い、バランスの良い実力機を探している人に。"
+    "recommended_for": "オンライン会議や通話が多い、バランスの良い実力機を探している人に。",
+    "official_url": "https://jabra.com/bluetooth-headsets/jabra-elite-5"
   },
   {
     "id": "shokz-openrun-pro-2",
     "name": "OpenRun Pro 2",
     "brand": "Shokz",
     "release_year": 2024,
-    "category": "ミドル",
-    "price_range": "20000-25000",
-    "price_label": "23,760円",
-    "price_yen": 23760,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "27,800円",
+    "price_yen": 27800,
+    "price_tier": "premium",
     "fit_type": "bone-conduction",
     "os_compatibility": "universal",
     "call_quality": "good",
@@ -1632,7 +1657,8 @@
       "ノイズキャンセリングは非搭載",
       "骨伝導特有の音質(振動音)に好みが分かれる"
     ],
-    "recommended_for": "ランニングやサイクリングをする、周囲の音を聞きながら安全に運動したい人に。"
+    "recommended_for": "ランニングやサイクリングをする、周囲の音を聞きながら安全に運動したい人に。",
+    "official_url": "https://shokz.com/products/openrunpro2"
   },
   {
     "id": "bang-olufsen-beoplay-ex",
@@ -1640,9 +1666,9 @@
     "brand": "Bang & Olufsen",
     "release_year": 2022,
     "category": "ハイエンド",
-    "price_range": "40000-50000",
-    "price_label": "45,000円",
-    "price_yen": 45000,
+    "price_range": "60000-65000",
+    "price_label": "64,800円",
+    "price_yen": 64800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -1696,7 +1722,8 @@
       "価格が高め",
       "国内の取扱店舗はやや限られる"
     ],
-    "recommended_for": "高級感のあるデザインと所有満足度を重視する、上質なイヤホンを探している人に。"
+    "recommended_for": "高級感のあるデザインと所有満足度を重視する、上質なイヤホンを探している人に。",
+    "official_url": "https://www.bang-olufsen.com/en/ca/earphones/beoplay-ex"
   },
   {
     "id": "sennheiser-momentum-tw4",
@@ -1704,9 +1731,9 @@
     "brand": "Sennheiser",
     "release_year": 2024,
     "category": "ハイエンド",
-    "price_range": "35000-40000",
-    "price_label": "39,800円",
-    "price_yen": 39800,
+    "price_range": "45000-50000",
+    "price_label": "46,800円",
+    "price_yen": 46800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -1760,7 +1787,8 @@
       "価格は高め",
       "ケースがやや大きめ"
     ],
-    "recommended_for": "誇張のない自然なサウンドを求める、音質にこだわりたい人に。"
+    "recommended_for": "誇張のない自然なサウンドを求める、音質にこだわりたい人に。",
+    "official_url": "https://global.sennheiser-hearing.com/products/momentum-true-wireless-4"
   },
   {
     "id": "bw-pi7-s2",
@@ -1768,9 +1796,9 @@
     "brand": "Bowers & Wilkins",
     "release_year": 2023,
     "category": "ハイエンド",
-    "price_range": "50000-60000",
-    "price_label": "54,000円",
-    "price_yen": 54000,
+    "price_range": "60000-65000",
+    "price_label": "61,800円",
+    "price_yen": 61800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -1824,7 +1852,8 @@
       "価格は依然として高め",
       "バッテリー持続時間は標準的"
     ],
-    "recommended_for": "Pi8ほどの予算はかけられないが、B&Wの音質は体験したい人に。"
+    "recommended_for": "Pi8ほどの予算はかけられないが、B&Wの音質は体験したい人に。",
+    "official_url": "https://www.bowerswilkins.com/en/product/archive-headphones/pi7-s2/300650.html"
   },
   {
     "id": "master-dynamic-mw09",
@@ -1832,9 +1861,9 @@
     "brand": "Master & Dynamic",
     "release_year": 2023,
     "category": "ハイエンド",
-    "price_range": "45000-50000",
-    "price_label": "49,500円",
-    "price_yen": 49500,
+    "price_range": "50000-55000",
+    "price_label": "54,000円",
+    "price_yen": 54000,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -1888,7 +1917,8 @@
       "価格が高い",
       "本体はやや重め"
     ],
-    "recommended_for": "デザイン性と音質を両立したい、所有する満足感を重視する人に。"
+    "recommended_for": "デザイン性と音質を両立したい、所有する満足感を重視する人に。",
+    "official_url": "https://www.masterdynamic.com/products/mw09"
   },
   {
     "id": "denon-perl-pro",
@@ -1896,9 +1926,9 @@
     "brand": "Denon",
     "release_year": 2023,
     "category": "ハイエンド",
-    "price_range": "50000-60000",
-    "price_label": "54,780円",
-    "price_yen": 54780,
+    "price_range": "45000-50000",
+    "price_label": "45,980円",
+    "price_yen": 45980,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -1950,7 +1980,8 @@
       "価格が非常に高い",
       "初期設定にやや時間がかかる"
     ],
-    "recommended_for": "自分の聴こえ方に合わせた、唯一無二のサウンド体験をしたい人に。"
+    "recommended_for": "自分の聴こえ方に合わせた、唯一無二のサウンド体験をしたい人に。",
+    "official_url": "https://www.denon.com/en-us/product/wireless-earbuds/perl-pro/300898.html"
   },
   {
     "id": "akg-n5-hybrid",
@@ -1958,9 +1989,9 @@
     "brand": "AKG",
     "release_year": 2023,
     "category": "ハイエンド",
-    "price_range": "25000-30000",
-    "price_label": "29,800円",
-    "price_yen": 29800,
+    "price_range": "35000-40000",
+    "price_label": "38,500円",
+    "price_yen": 38500,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2011,7 +2042,8 @@
       "国内での知名度はやや低い",
       "LDACなど上位コーデックには非対応"
     ],
-    "recommended_for": "プレミアムブランドのサウンドを、比較的手に取りやすい価格で試したい人に。"
+    "recommended_for": "プレミアムブランドのサウンドを、比較的手に取りやすい価格で試したい人に。",
+    "official_url": "https://support.harmanaudio.com/gb/en/mics/hybrid/AKG-N5-HYBRID.html"
   },
   {
     "id": "devialet-gemini-2",
@@ -2019,9 +2051,9 @@
     "brand": "Devialet",
     "release_year": 2023,
     "category": "ハイエンド",
-    "price_range": "50000-60000",
-    "price_label": "54,780円",
-    "price_yen": 54780,
+    "price_range": "65000-70000",
+    "price_label": "69,800円",
+    "price_yen": 69800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2073,7 +2105,8 @@
       "価格が非常に高い",
       "国内でのサポート窓口は限定的"
     ],
-    "recommended_for": "所有満足度の高さと、重厚なサウンドの両方を求める人に。"
+    "recommended_for": "所有満足度の高さと、重厚なサウンドの両方を求める人に。",
+    "official_url": "https://www.devialet.com/en-us/true-wireless-earbuds/gemini-ii-black/"
   },
   {
     "id": "cambridge-audio-melomania-m100",
@@ -2082,8 +2115,8 @@
     "release_year": 2023,
     "category": "ハイエンド",
     "price_range": "30000-35000",
-    "price_label": "34,650円",
-    "price_yen": 34650,
+    "price_label": "33,980円",
+    "price_yen": 33980,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2138,7 +2171,8 @@
       "aptX Losslessは対応スマートフォンが限られる",
       "国内での知名度はやや低い"
     ],
-    "recommended_for": "無線でも妥協のない高音質を求める、音質にこだわりたい人に。"
+    "recommended_for": "無線でも妥協のない高音質を求める、音質にこだわりたい人に。",
+    "official_url": "https://www.cambridgeaudio.com/"
   },
   {
     "id": "final-ze8000-mk2",
@@ -2146,9 +2180,9 @@
     "brand": "Final",
     "release_year": 2024,
     "category": "ハイエンド",
-    "price_range": "50000-60000",
-    "price_label": "54,780円",
-    "price_yen": 54780,
+    "price_range": "35000-40000",
+    "price_label": "36,800円",
+    "price_yen": 36800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2201,7 +2235,8 @@
       "マルチポイント非対応",
       "通話品質は音楽再生ほど重視されていない"
     ],
-    "recommended_for": "実用機能よりも、音質そのものを突き詰めたいこだわり派の人に。"
+    "recommended_for": "実用機能よりも、音質そのものを突き詰めたいこだわり派の人に。",
+    "official_url": "https://final-inc.com/en/products/ze8000mk2-jp"
   },
   {
     "id": "razer-hammerhead-hyperspeed",
@@ -2209,9 +2244,9 @@
     "brand": "Razer",
     "release_year": 2022,
     "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "18,000円",
-    "price_yen": 18000,
+    "price_range": "20000-25000",
+    "price_label": "22,980円",
+    "price_yen": 22980,
     "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2261,7 +2296,8 @@
       "ノイズキャンセリングは控えめ",
       "マルチポイントには非対応"
     ],
-    "recommended_for": "モバイルゲームや配信視聴で、音声のズレを気にしたくない人に。"
+    "recommended_for": "モバイルゲームや配信視聴で、音声のズレを気にしたくない人に。",
+    "official_url": "https://www.razer.com/mobile/earbuds/hammerhead-line"
   },
   {
     "id": "steelseries-arctis-gamebuds",
@@ -2323,7 +2359,8 @@
       "ドングル使用時はUSBポートを1つ使用する",
       "価格はゲーミングイヤホンとしては高め"
     ],
-    "recommended_for": "PCやPS5でのゲームプレイと、普段使いを1台でこなしたい人に。"
+    "recommended_for": "PCやPS5でのゲームプレイと、普段使いを1台でこなしたい人に。",
+    "official_url": "https://steelseries.com/arctisgamebuds"
   },
   {
     "id": "asus-rog-cetra-tws",
@@ -2331,9 +2368,9 @@
     "brand": "ASUS ROG",
     "release_year": 2023,
     "category": "ミドル",
-    "price_range": "10000-20000",
-    "price_label": "15,000円",
-    "price_yen": 15000,
+    "price_range": "15000-20000",
+    "price_label": "15,500円",
+    "price_yen": 15500,
     "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2383,7 +2420,8 @@
       "ノイズキャンセリングは基本的なレベル",
       "マルチポイント非対応"
     ],
-    "recommended_for": "モバイルゲームを中心に、低遅延な接続を手頃な価格で求める人に。"
+    "recommended_for": "モバイルゲームを中心に、低遅延な接続を手頃な価格で求める人に。",
+    "official_url": "https://rog.asus.com/us/headsets-audio/in-ear-headphone/rog-cetra-true-wireless-model"
   },
   {
     "id": "hyperx-cirro-buds-pro",
@@ -2392,8 +2430,8 @@
     "release_year": 2023,
     "category": "ミドル",
     "price_range": "10000-15000",
-    "price_label": "12,000円",
-    "price_yen": 12000,
+    "price_label": "12,400円",
+    "price_yen": 12400,
     "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2443,7 +2481,8 @@
       "ノイズキャンセリングは基本的なレベル",
       "上位コーデックには非対応"
     ],
-    "recommended_for": "コストパフォーマンスの良いゲーミングイヤホンを探している人に。"
+    "recommended_for": "コストパフォーマンスの良いゲーミングイヤホンを探している人に。",
+    "official_url": "https://hyperx.com/products/hyperx-cirro-buds-pro-true-wireless-earbuds"
   },
   {
     "id": "logitech-g-fits",
@@ -2451,9 +2490,9 @@
     "brand": "Logicool G",
     "release_year": 2023,
     "category": "ハイエンド",
-    "price_range": "25000-30000",
-    "price_label": "30,000円",
-    "price_yen": 30000,
+    "price_range": "35000-40000",
+    "price_label": "35,750円",
+    "price_yen": 35750,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2505,7 +2544,8 @@
       "ノイズキャンセリングは非搭載",
       "購入前のスキャン工程が必要"
     ],
-    "recommended_for": "フィット感を最優先し、eスポーツレベルの安定した接続を求める人に。"
+    "recommended_for": "フィット感を最優先し、eスポーツレベルの安定した接続を求める人に。",
+    "official_url": "https://gaming.logicool.co.jp/ja-jp"
   },
   {
     "id": "sony-inzone-buds",
@@ -2514,8 +2554,8 @@
     "release_year": 2023,
     "category": "ミドル",
     "price_range": "20000-25000",
-    "price_label": "23,000円",
-    "price_yen": 23000,
+    "price_label": "22,880円",
+    "price_yen": 22880,
     "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2566,7 +2606,8 @@
       "USBアダプター使用時はポートを1つ使用",
       "ワイヤレス充電には非対応"
     ],
-    "recommended_for": "PS5やPCで低遅延・高音質のゲーム体験を求める人に。"
+    "recommended_for": "PS5やPCで低遅延・高音質のゲーム体験を求める人に。",
+    "official_url": "https://www.sony.jp/inzone/products/INZONE_Buds/"
   },
   {
     "id": "jabra-elite-10",
@@ -2574,9 +2615,9 @@
     "brand": "Jabra",
     "release_year": 2023,
     "category": "ハイエンド",
-    "price_range": "30000-35000",
-    "price_label": "33,000円",
-    "price_yen": 33000,
+    "price_range": "35000-40000",
+    "price_label": "39,600円",
+    "price_yen": 39600,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2629,7 +2670,8 @@
       "価格は高め",
       "イヤーゲル型設計は好みが分かれる"
     ],
-    "recommended_for": "通話品質を最優先しつつ、音楽再生の質も妥協したくない人に。"
+    "recommended_for": "通話品質を最優先しつつ、音楽再生の質も妥協したくない人に。",
+    "official_url": "https://jabra.com/ja-jp/bluetooth-headsets/jabra-elite-10"
   },
   {
     "id": "jabra-elite-8-active",
@@ -2637,9 +2679,9 @@
     "brand": "Jabra",
     "release_year": 2023,
     "category": "ハイエンド",
-    "price_range": "25000-30000",
-    "price_label": "27,500円",
-    "price_yen": 27500,
+    "price_range": "30000-35000",
+    "price_label": "32,780円",
+    "price_yen": 32780,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2692,7 +2734,8 @@
       "価格はスポーツ用としては高め",
       "本体はやや大きめ"
     ],
-    "recommended_for": "過酷な環境でも使えるタフさと、通話品質の両方を求める人に。"
+    "recommended_for": "過酷な環境でも使えるタフさと、通話品質の両方を求める人に。",
+    "official_url": "https://jabra.com/bluetooth-headsets/jabra-elite-8-active/buy"
   },
   {
     "id": "poly-voyager-free-60",
@@ -2700,9 +2743,9 @@
     "brand": "Poly",
     "release_year": 2023,
     "category": "ハイエンド",
-    "price_range": "30000-40000",
-    "price_label": "35,000円",
-    "price_yen": 35000,
+    "price_range": "35000-40000",
+    "price_label": "35,800円",
+    "price_yen": 35800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2754,7 +2797,8 @@
       "音楽再生用途としての機能は控えめ",
       "価格は仕事用としては高め"
     ],
-    "recommended_for": "在宅勤務やオンライン会議での通話品質を最優先したい人に。"
+    "recommended_for": "在宅勤務やオンライン会議での通話品質を最優先したい人に。",
+    "official_url": "https://www.hp.com/us-en/poly/headsets/bluetooth-headsets-and-earbuds/voyager-free-60.html"
   },
   {
     "id": "epos-adapt-460",
@@ -2762,9 +2806,9 @@
     "brand": "EPOS",
     "release_year": 2023,
     "category": "ハイエンド",
-    "price_range": "30000-35000",
-    "price_label": "32,000円",
-    "price_yen": 32000,
+    "price_range": "25000-30000",
+    "price_label": "28,000円",
+    "price_yen": 28000,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2815,7 +2859,8 @@
       "音楽再生機能はシンプル",
       "ワイヤレス充電には非対応"
     ],
-    "recommended_for": "会社支給・ビジネス用途として信頼性の高いイヤホンを探している人に。"
+    "recommended_for": "会社支給・ビジネス用途として信頼性の高いイヤホンを探している人に。",
+    "official_url": "https://www.eposaudio.com/ja-jp"
   },
   {
     "id": "beats-powerbeats-pro-2",
@@ -2823,9 +2868,9 @@
     "brand": "Beats",
     "release_year": 2025,
     "category": "ハイエンド",
-    "price_range": "30000-35000",
-    "price_label": "34,800円",
-    "price_yen": 34800,
+    "price_range": "35000-40000",
+    "price_label": "38,800円",
+    "price_yen": 38800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -2878,7 +2923,8 @@
       "ワイヤレス充電には非対応",
       "耳掛け型の装着感は好みが分かれる"
     ],
-    "recommended_for": "ワークアウトのデータ記録もしたい、運動時の安定感を求める人に。"
+    "recommended_for": "ワークアウトのデータ記録もしたい、運動時の安定感を求める人に。",
+    "official_url": "https://www.beatsbydre.com"
   },
   {
     "id": "jabra-evolve2-buds",
@@ -2940,7 +2986,8 @@
       "音楽再生用途では機能がシンプル",
       "価格はビジネス用として高め"
     ],
-    "recommended_for": "会議が多いビジネスパーソンで、信頼性の高い通話品質を求める人に。"
+    "recommended_for": "会議が多いビジネスパーソンで、信頼性の高い通話品質を求める人に。",
+    "official_url": "https://www.jabra.com/business/office-headsets/jabra-evolve/jabra-evolve2-buds"
   },
   {
     "id": "jbl-endurance-peak-3",
@@ -3001,18 +3048,19 @@
       "ノイズキャンセリングは非搭載",
       "音質は価格なりの範囲"
     ],
-    "recommended_for": "汗や雨を気にせずタフに使える、コスパの良いスポーツ向けイヤホンを探している人に。"
+    "recommended_for": "汗や雨を気にせずタフに使える、コスパの良いスポーツ向けイヤホンを探している人に。",
+    "official_url": "https://jp.jbl.com/ENDURANCE-PEAK-3.html"
   },
   {
     "id": "skullcandy-push-active",
     "name": "Push Active",
     "brand": "Skullcandy",
     "release_year": 2022,
-    "category": "エントリー",
-    "price_range": "5000-8000",
-    "price_label": "7,990円",
-    "price_yen": 7990,
-    "price_tier": "low",
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "12,400円",
+    "price_yen": 12400,
+    "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -3062,17 +3110,18 @@
       "ノイズキャンセリングは非搭載",
       "上位コーデックには非対応"
     ],
-    "recommended_for": "デザイン性も楽しみつつ、手頃な価格でスポーツ向けイヤホンが欲しい人に。"
+    "recommended_for": "デザイン性も楽しみつつ、手頃な価格でスポーツ向けイヤホンが欲しい人に。",
+    "official_url": "https://www.skullcandy.com/shop-push/"
   },
   {
     "id": "anker-sport-x10",
     "name": "Soundcore Sport X10",
     "brand": "Anker",
     "release_year": 2023,
-    "category": "ミドル",
-    "price_range": "10000-15000",
-    "price_label": "12,000円",
-    "price_yen": 12000,
+    "category": "エントリー",
+    "price_range": "5000-10000",
+    "price_label": "9,990円",
+    "price_yen": 9990,
     "price_tier": "mid",
     "fit_type": "open",
     "os_compatibility": "universal",
@@ -3123,18 +3172,19 @@
       "ノイズキャンセリングは非搭載",
       "カナル型に比べ低音は控えめ"
     ],
-    "recommended_for": "耳を塞がずに周囲の音を聞きながら、タフに運動したい人に。"
+    "recommended_for": "耳を塞がずに周囲の音を聞きながら、タフに運動したい人に。",
+    "official_url": "https://www.ankerjapan.com/products/a3961"
   },
   {
     "id": "1more-fit-se",
     "name": "Fit SE",
     "brand": "1MORE",
     "release_year": 2023,
-    "category": "エントリー",
-    "price_range": "5000-8000",
-    "price_label": "6,000円",
-    "price_yen": 6000,
-    "price_tier": "low",
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "10,800円",
+    "price_yen": 10800,
+    "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -3184,7 +3234,8 @@
       "ノイズキャンセリングは非搭載",
       "音質・機能は価格なりの範囲"
     ],
-    "recommended_for": "運動用に気兼ねなく使える、手頃な価格の1台を探している人に。"
+    "recommended_for": "運動用に気兼ねなく使える、手頃な価格の1台を探している人に。",
+    "official_url": "https://www.1more.com"
   },
   {
     "id": "oladance-ows2",
@@ -3192,9 +3243,9 @@
     "brand": "Oladance",
     "release_year": 2023,
     "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "19,000円",
-    "price_yen": 19000,
+    "price_range": "20000-25000",
+    "price_label": "23,000円",
+    "price_yen": 23000,
     "price_tier": "high",
     "fit_type": "open",
     "os_compatibility": "universal",
@@ -3246,7 +3297,8 @@
       "ノイズキャンセリングは非搭載",
       "本体はやや大きめ"
     ],
-    "recommended_for": "耳を塞がれる感覚が苦手で、長時間の外出でも充電を気にしたくない人に。"
+    "recommended_for": "耳を塞がれる感覚が苦手で、長時間の外出でも充電を気にしたくない人に。",
+    "official_url": null
   },
   {
     "id": "google-pixel-buds-pro-2",
@@ -3254,9 +3306,9 @@
     "brand": "Google",
     "release_year": 2024,
     "category": "ハイエンド",
-    "price_range": "25000-30000",
-    "price_label": "29,800円",
-    "price_yen": 29800,
+    "price_range": "35000-40000",
+    "price_label": "36,800円",
+    "price_yen": 36800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -3309,7 +3361,8 @@
       "iPhoneでは一部機能が使えない",
       "LDACなど上位コーデックには非対応"
     ],
-    "recommended_for": "Pixelスマートフォンをメインで使っている、Android連携を重視する人に。"
+    "recommended_for": "Pixelスマートフォンをメインで使っている、Android連携を重視する人に。",
+    "official_url": "https://store.google.com/product/pixel_buds_pro_2"
   },
   {
     "id": "samsung-galaxy-buds3-pro",
@@ -3317,9 +3370,9 @@
     "brand": "Samsung",
     "release_year": 2024,
     "category": "ハイエンド",
-    "price_range": "30000-35000",
-    "price_label": "33,000円",
-    "price_yen": 33000,
+    "price_range": "35000-40000",
+    "price_label": "38,500円",
+    "price_yen": 38500,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -3375,7 +3428,8 @@
       "独自コーデックはSamsung製品以外では恩恵が少ない",
       "価格はやや高め"
     ],
-    "recommended_for": "Galaxyスマートフォンをメインで使っている、デザイン性も重視する人に。"
+    "recommended_for": "Galaxyスマートフォンをメインで使っている、デザイン性も重視する人に。",
+    "official_url": "https://www.samsung.com/jp/audio-sound/galaxy-buds/galaxy-buds3-pro-white-sm-r630nzwaxjp"
   },
   {
     "id": "huawei-freebuds-pro-3",
@@ -3384,8 +3438,8 @@
     "release_year": 2023,
     "category": "ハイエンド",
     "price_range": "25000-30000",
-    "price_label": "27,000円",
-    "price_yen": 27000,
+    "price_label": "28,800円",
+    "price_yen": 28800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -3438,18 +3492,19 @@
       "独自コーデックは対応機種が限られる",
       "国内でのアフターサポート窓口はやや限定的"
     ],
-    "recommended_for": "迫力あるサウンドと強力なノイズキャンセリングを両立したい人に。"
+    "recommended_for": "迫力あるサウンドと強力なノイズキャンセリングを両立したい人に。",
+    "official_url": "https://consumer.huawei.com/en/headphones/freebuds-pro-3"
   },
   {
     "id": "xiaomi-buds-4-pro",
     "name": "Buds 4 Pro",
     "brand": "Xiaomi",
     "release_year": 2023,
-    "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "15,000円",
-    "price_yen": 15000,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "26,800円",
+    "price_yen": 26800,
+    "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "good",
@@ -3501,7 +3556,8 @@
       "国内での正規サポート窓口はやや限定的",
       "アプリの日本語対応は一部制限あり"
     ],
-    "recommended_for": "高音質・高ANCを、コストパフォーマンス良く手に入れたい人に。"
+    "recommended_for": "高音質・高ANCを、コストパフォーマンス良く手に入れたい人に。",
+    "official_url": "https://www.mi.com/jp/product/xiaomi-buds-4-pro"
   },
   {
     "id": "oppo-enco-x3",
@@ -3510,8 +3566,8 @@
     "release_year": 2024,
     "category": "ミドル",
     "price_range": "15000-20000",
-    "price_label": "18,000円",
-    "price_yen": 18000,
+    "price_label": "19,800円",
+    "price_yen": 19800,
     "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -3564,7 +3620,8 @@
       "国内での取り扱いはやや限定的",
       "ワイヤレス充電には非対応"
     ],
-    "recommended_for": "自然でバランスの取れたサウンドを、通勤・日常使いで楽しみたい人に。"
+    "recommended_for": "自然でバランスの取れたサウンドを、通勤・日常使いで楽しみたい人に。",
+    "official_url": "https://www.oppo.com"
   },
   {
     "id": "realme-buds-air-6-pro",
@@ -3573,8 +3630,8 @@
     "release_year": 2024,
     "category": "エントリー",
     "price_range": "5000-10000",
-    "price_label": "8,000円",
-    "price_yen": 8000,
+    "price_label": "9,980円",
+    "price_yen": 9980,
     "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -3624,7 +3681,8 @@
       "マルチポイントには非対応",
       "国内での正規サポートはやや限定的"
     ],
-    "recommended_for": "とにかくコストパフォーマンスを重視する、初めての1台を探している人に。"
+    "recommended_for": "とにかくコストパフォーマンスを重視する、初めての1台を探している人に。",
+    "official_url": "https://www.realme.com"
   },
   {
     "id": "cmf-buds-pro-2",
@@ -3632,10 +3690,10 @@
     "brand": "CMF by Nothing",
     "release_year": 2024,
     "category": "エントリー",
-    "price_range": "5000-8000",
-    "price_label": "6,500円",
-    "price_yen": 6500,
-    "price_tier": "low",
+    "price_range": "5000-10000",
+    "price_label": "9,800円",
+    "price_yen": 9800,
+    "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -3684,7 +3742,8 @@
       "マルチポイントには非対応",
       "国内での知名度はまだ低い"
     ],
-    "recommended_for": "デザイン性とコストパフォーマンスの両方を重視する、若い世代のユーザーに。"
+    "recommended_for": "デザイン性とコストパフォーマンスの両方を重視する、若い世代のユーザーに。",
+    "official_url": "https://jp.nothing.tech/pages/cmf-buds-pro-2"
   },
   {
     "id": "edifier-neobuds-pro-2",
@@ -3693,8 +3752,8 @@
     "release_year": 2023,
     "category": "ミドル",
     "price_range": "10000-15000",
-    "price_label": "13,000円",
-    "price_yen": 13000,
+    "price_label": "14,990円",
+    "price_yen": 14990,
     "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -3748,18 +3807,19 @@
       "国内での知名度はやや低い",
       "アプリの機能はシンプル"
     ],
-    "recommended_for": "予算を抑えつつ、LDAC対応の高音質を体験したい人に。"
+    "recommended_for": "予算を抑えつつ、LDAC対応の高音質を体験したい人に。",
+    "official_url": "https://edifier.com/jp/p/true-wireless-earbuds/neobuds-pro-2"
   },
   {
     "id": "sony-linkbuds-open",
     "name": "LinkBuds Open",
     "brand": "SONY",
     "release_year": 2024,
-    "category": "ミドル",
-    "price_range": "20000-25000",
-    "price_label": "24,000円",
-    "price_yen": 24000,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "28,600円",
+    "price_yen": 28600,
+    "price_tier": "premium",
     "fit_type": "open",
     "os_compatibility": "universal",
     "call_quality": "good",
@@ -3811,7 +3871,8 @@
       "ノイズキャンセリングは非搭載",
       "低音の量感はカナル型に劣る"
     ],
-    "recommended_for": "耳を塞がずに、SONYならではの音質にもこだわりたい人に。"
+    "recommended_for": "耳を塞がずに、SONYならではの音質にもこだわりたい人に。",
+    "official_url": "https://www.sony.jp/headphone/products/LinkBuds_Open/"
   },
   {
     "id": "beyerdynamic-free-byrd",
@@ -3820,8 +3881,8 @@
     "release_year": 2022,
     "category": "ハイエンド",
     "price_range": "25000-30000",
-    "price_label": "27,000円",
-    "price_yen": 27000,
+    "price_label": "29,800円",
+    "price_yen": 29800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -3874,17 +3935,18 @@
       "ワイヤレス充電には非対応",
       "国内での取扱店舗はやや限られる"
     ],
-    "recommended_for": "自分に合った装着感を細かく調整したい、音質にもこだわりたい人に。"
+    "recommended_for": "自分に合った装着感を細かく調整したい、音質にもこだわりたい人に。",
+    "official_url": "https://global.beyerdynamic.com/p/free-byrd"
   },
   {
-    "id": "1more-pistonbuds-pro-2",
-    "name": "PistonBuds Pro 2",
+    "id": "1more-pistonbuds-pro-q30",
+    "name": "PistonBuds Pro Q30",
     "brand": "1MORE",
-    "release_year": 2024,
+    "release_year": 2023,
     "category": "エントリー",
-    "price_range": "5000-8000",
-    "price_label": "7,000円",
-    "price_yen": 7000,
+    "price_range": "5000-10000",
+    "price_label": "7,800円",
+    "price_yen": 7800,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -3934,7 +3996,8 @@
       "上位モデルに比べ音質・ANC性能は控えめ",
       "マルチポイント非対応"
     ],
-    "recommended_for": "とにかく予算を抑えたい人、サブ機・予備機を探している人に。"
+    "recommended_for": "とにかく予算を抑えたい人、サブ機・予備機を探している人に。",
+    "official_url": "https://usa.1more.com/products/1more-pistonbuds-pro-q30true-wireless-active-noise-canceling-headphones"
   },
   {
     "id": "sony-wf-c510",
@@ -3994,7 +4057,8 @@
       "ノイズキャンセリングは非搭載",
       "マルチポイント非対応"
     ],
-    "recommended_for": "シンプルな機能で十分、手頃な価格でSONYブランドを試したい人に。"
+    "recommended_for": "シンプルな機能で十分、手頃な価格でSONYブランドを試したい人に。",
+    "official_url": "https://www.sony.jp/headphone/products/WF-C510/"
   },
   {
     "id": "jbl-wave-buds",
@@ -4002,9 +4066,9 @@
     "brand": "JBL",
     "release_year": 2023,
     "category": "エントリー",
-    "price_range": "5000-8000",
-    "price_label": "6,000円",
-    "price_yen": 6000,
+    "price_range": "5000-10000",
+    "price_label": "6,600円",
+    "price_yen": 6600,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -4054,7 +4118,8 @@
       "ノイズキャンセリングは非搭載",
       "機能はシンプル"
     ],
-    "recommended_for": "とにかく価格を抑えたい、気軽に使えるイヤホンを探している人に。"
+    "recommended_for": "とにかく価格を抑えたい、気軽に使えるイヤホンを探している人に。",
+    "official_url": "https://global.jbl.com/wireless-earbuds/WAVE-BUDS.html"
   },
   {
     "id": "bose-quietcomfort-earbuds",
@@ -4063,8 +4128,8 @@
     "release_year": 2023,
     "category": "ハイエンド",
     "price_range": "25000-30000",
-    "price_label": "29,900円",
-    "price_yen": 29900,
+    "price_label": "27,800円",
+    "price_yen": 27800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -4115,7 +4180,8 @@
       "イマーシブオーディオなど一部上位機能は非搭載",
       "ワイヤレス充電には非対応"
     ],
-    "recommended_for": "Boseの静音性を、Ultraモデルより手頃な価格で試したい人に。"
+    "recommended_for": "Boseの静音性を、Ultraモデルより手頃な価格で試したい人に。",
+    "official_url": "https://www.bose.com/p/earbuds/bose-quietcomfort-earbuds/QCEARB24-HEADPHONEIN.html"
   },
   {
     "id": "anker-liberty-4-pro",
@@ -4123,9 +4189,9 @@
     "brand": "Anker",
     "release_year": 2023,
     "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "17,000円",
-    "price_yen": 17000,
+    "price_range": "20000-25000",
+    "price_label": "22,990円",
+    "price_yen": 22990,
     "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -4179,7 +4245,8 @@
       "機能が多く操作がやや複雑",
       "ケースはやや大きめ"
     ],
-    "recommended_for": "通勤・運動・ゲームまで、1台で幅広くこなしたい人に。"
+    "recommended_for": "通勤・運動・ゲームまで、1台で幅広くこなしたい人に。",
+    "official_url": "https://www.soundcore.com/products/a3954-liberty-4-pro-tws-earbuds"
   },
   {
     "id": "sony-wf-1000xm4",
@@ -4241,7 +4308,8 @@
       "通話品質は評価が分かれる",
       "本体が後継機よりやや大きい"
     ],
-    "recommended_for": "最新モデルでなくてもいいから、ソニーのANCと音質を少しでも安く体験したい人に。"
+    "recommended_for": "最新モデルでなくてもいいから、ソニーのANCと音質を少しでも安く体験したい人に。",
+    "official_url": "https://www.sony.jp/headphone/products/WF-1000XM4/"
   },
   {
     "id": "anker-soundcore-space-a40",
@@ -4302,7 +4370,8 @@
       "ワイヤレス充電には非対応",
       "通話品質は標準的"
     ],
-    "recommended_for": "1.5万円以下の予算で、ANCも音質もできるだけ妥協したくない人に。"
+    "recommended_for": "1.5万円以下の予算で、ANCも音質もできるだけ妥協したくない人に。",
+    "official_url": "https://www.soundcore.com/space-a40"
   },
   {
     "id": "anker-soundcore-note-3s",
@@ -4310,9 +4379,9 @@
     "brand": "Anker",
     "release_year": 2023,
     "category": "エントリー",
-    "price_range": "0-5000",
-    "price_label": "3,990円",
-    "price_yen": 3990,
+    "price_range": "5000-10000",
+    "price_label": "6,990円",
+    "price_yen": 6990,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -4360,7 +4429,8 @@
       "ノイズキャンセリング非搭載",
       "音質・通話品質は価格相応"
     ],
-    "recommended_for": "初めてのワイヤレスイヤホンや、とにかく予算を抑えたい2台目・3台目に。"
+    "recommended_for": "初めてのワイヤレスイヤホンや、とにかく予算を抑えたい2台目・3台目に。",
+    "official_url": "https://www.ankerjapan.com/products/a3945"
   },
   {
     "id": "anker-soundcore-dot-3i",
@@ -4368,9 +4438,9 @@
     "brand": "Anker",
     "release_year": 2023,
     "category": "エントリー",
-    "price_range": "0-5000",
-    "price_label": "2,990円",
-    "price_yen": 2990,
+    "price_range": "5000-10000",
+    "price_label": "7,990円",
+    "price_yen": 7990,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -4417,17 +4487,18 @@
       "ノイズキャンセリング非搭載",
       "音質・機能は価格相応のシンプルさ"
     ],
-    "recommended_for": "とにかく予算を最優先したい人、サブ機として気軽に使いたい人に。"
+    "recommended_for": "とにかく予算を最優先したい人、サブ機として気軽に使いたい人に。",
+    "official_url": "https://www.ankerjapan.com/products/a3982"
   },
   {
     "id": "jabra-elite-4",
     "name": "Jabra Elite 4",
     "brand": "Jabra",
     "release_year": 2022,
-    "category": "エントリー",
-    "price_range": "5000-10000",
-    "price_label": "9,900円",
-    "price_yen": 9900,
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "14,300円",
+    "price_yen": 14300,
     "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -4477,7 +4548,8 @@
       "ANCは上位機種ほど強くない",
       "ワイヤレス充電には非対応"
     ],
-    "recommended_for": "予算を抑えつつ、通話品質にはこだわりたい人に。"
+    "recommended_for": "予算を抑えつつ、通話品質にはこだわりたい人に。",
+    "official_url": "https://jabra.com/elite4"
   },
   {
     "id": "jbl-reflect-aero",
@@ -4485,10 +4557,10 @@
     "brand": "JBL",
     "release_year": 2022,
     "category": "ミドル",
-    "price_range": "10000-15000",
-    "price_label": "11,000円",
-    "price_yen": 11000,
-    "price_tier": "mid",
+    "price_range": "20000-25000",
+    "price_label": "22,990円",
+    "price_yen": 22990,
+    "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -4535,7 +4607,8 @@
       "マルチポイント非対応",
       "音質はスポーツ向けの味付け"
     ],
-    "recommended_for": "汗や雨を気にせず、丸洗いできるくらい頑丈なイヤホンが欲しい人に。"
+    "recommended_for": "汗や雨を気にせず、丸洗いできるくらい頑丈なイヤホンが欲しい人に。",
+    "official_url": "https://global.jbl.com/sport-earbuds/REFLECT-AERO.html"
   },
   {
     "id": "jbl-vibe-beam",
@@ -4592,17 +4665,18 @@
       "ノイズキャンセリング非搭載",
       "マルチポイント非対応"
     ],
-    "recommended_for": "価格を抑えつつ、聞き慣れたブランドの音を楽しみたい人に。"
+    "recommended_for": "価格を抑えつつ、聞き慣れたブランドの音を楽しみたい人に。",
+    "official_url": "https://support.jbl.com/us/en/VIBE-BEAM.html"
   },
   {
     "id": "samsung-galaxy-buds-fe",
     "name": "Galaxy Buds FE",
     "brand": "Samsung",
     "release_year": 2023,
-    "category": "エントリー",
-    "price_range": "5000-10000",
-    "price_label": "9,980円",
-    "price_yen": 9980,
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "12,900円",
+    "price_yen": 12900,
     "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -4649,17 +4723,18 @@
       "防水性能はIPX2と控えめ",
       "ANCは上位機種ほど強くない"
     ],
-    "recommended_for": "Galaxyスマホユーザーで、手頃な価格のイヤホンを探している人に。"
+    "recommended_for": "Galaxyスマホユーザーで、手頃な価格のイヤホンを探している人に。",
+    "official_url": "https://www.samsung.com/jp/audio-sound/galaxy-buds/galaxy-buds-fe-graphite-sm-r400nzaaxjp"
   },
   {
     "id": "huawei-freebuds-5i",
     "name": "FreeBuds 5i",
     "brand": "Huawei",
     "release_year": 2023,
-    "category": "エントリー",
-    "price_range": "5000-10000",
-    "price_label": "9,800円",
-    "price_yen": 9800,
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "11,800円",
+    "price_yen": 11800,
     "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -4707,7 +4782,8 @@
       "対応コーデックはHuawei製デバイスで真価を発揮",
       "通話品質は標準的"
     ],
-    "recommended_for": "価格を抑えつつ、ANCの効きの良さを重視したい人に。"
+    "recommended_for": "価格を抑えつつ、ANCの効きの良さを重視したい人に。",
+    "official_url": "https://consumer.huawei.com/jp/audio/freebuds5i/"
   },
   {
     "id": "redmi-buds-5-pro",
@@ -4716,9 +4792,9 @@
     "release_year": 2023,
     "category": "エントリー",
     "price_range": "5000-10000",
-    "price_label": "8,990円",
-    "price_yen": 8990,
-    "price_tier": "mid",
+    "price_label": "6,980円",
+    "price_yen": 6980,
+    "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -4766,7 +4842,8 @@
       "ブランドとしての知名度はまだ発展途上",
       "通話品質は標準的"
     ],
-    "recommended_for": "とにかくコストパフォーマンスを重視し、機能面で妥協したくない人に。"
+    "recommended_for": "とにかくコストパフォーマンスを重視し、機能面で妥協したくない人に。",
+    "official_url": "https://www.mi.com/jp/"
   },
   {
     "id": "oppo-enco-air3-pro",
@@ -4826,17 +4903,18 @@
       "ワイヤレス充電には非対応",
       "対応コーデックの恩恵はOPPO/対応端末で最大化"
     ],
-    "recommended_for": "価格と機能のバランスを重視し、音質にもこだわりたい人に。"
+    "recommended_for": "価格と機能のバランスを重視し、音質にもこだわりたい人に。",
+    "official_url": "https://www.oppo.com/"
   },
   {
     "id": "beats-solo-buds",
     "name": "Beats Solo Buds",
     "brand": "Beats",
     "release_year": 2024,
-    "category": "エントリー",
-    "price_range": "5000-10000",
-    "price_label": "9,980円",
-    "price_yen": 9980,
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "12,800円",
+    "price_yen": 12800,
     "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -4885,7 +4963,8 @@
       "ノイズキャンセリング非搭載",
       "ケースに追加充電機能はない"
     ],
-    "recommended_for": "機能よりシンプルさと長時間再生、デザインを重視する人に。"
+    "recommended_for": "機能よりシンプルさと長時間再生、デザインを重視する人に。",
+    "official_url": "https://www.beatsbydre.com/earbuds/solo-buds"
   },
   {
     "id": "skullcandy-dime-3",
@@ -4893,9 +4972,9 @@
     "brand": "Skullcandy",
     "release_year": 2024,
     "category": "エントリー",
-    "price_range": "0-5000",
-    "price_label": "3,980円",
-    "price_yen": 3980,
+    "price_range": "5000-10000",
+    "price_label": "5,480円",
+    "price_yen": 5480,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -4941,18 +5020,19 @@
       "バッテリーは短め",
       "ノイズキャンセリング非搭載"
     ],
-    "recommended_for": "価格とコンパクトさを最優先したい、気軽なサブ機に。"
+    "recommended_for": "価格とコンパクトさを最優先したい、気軽なサブ機に。",
+    "official_url": "https://skullcandy.com/dime-3-wireless-earbuds"
   },
   {
     "id": "sennheiser-accentum-tw",
     "name": "ACCENTUM True Wireless",
     "brand": "Sennheiser",
     "release_year": 2023,
-    "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "17,000円",
-    "price_yen": 17000,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "30000-35000",
+    "price_label": "30,900円",
+    "price_yen": 30900,
+    "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "good",
@@ -5000,7 +5080,8 @@
       "ハイレゾ対応コーデックは非搭載",
       "上位機種に比べるとケースはやや大きめ"
     ],
-    "recommended_for": "価格を抑えつつ、Sennheiserらしい音のバランスを楽しみたい人に。"
+    "recommended_for": "価格を抑えつつ、Sennheiserらしい音のバランスを楽しみたい人に。",
+    "official_url": "https://global.sennheiser-hearing.com/products/accentum-true-wireless"
   },
   {
     "id": "technics-eah-az40m2",
@@ -5061,7 +5142,8 @@
       "旗艦機に比べるとANCはやや控えめ",
       "ワイヤレス充電には非対応"
     ],
-    "recommended_for": "旗艦機より価格を抑えつつ、Technicsらしい音質を楽しみたい人に。"
+    "recommended_for": "旗艦機より価格を抑えつつ、Technicsらしい音質を楽しみたい人に。",
+    "official_url": "https://jp.technics.com/products/tws/az40m2/"
   },
   {
     "id": "audio-technica-ath-twx9",
@@ -5122,7 +5204,8 @@
       "価格はハイエンド帯",
       "バッテリーは競合より短め"
     ],
-    "recommended_for": "価格よりも音質とANCの完成度を最優先したい音響メーカー志向の人に。"
+    "recommended_for": "価格よりも音質とANCの完成度を最優先したい音響メーカー志向の人に。",
+    "official_url": "https://audio-technica.com/en-us/ath-twx9"
   },
   {
     "id": "audio-technica-ath-cks50tw",
@@ -5181,7 +5264,8 @@
       "ハイレゾ対応コーデックは非搭載",
       "マルチポイント非対応"
     ],
-    "recommended_for": "低音をしっかり効かせたサウンドが好きな人に。"
+    "recommended_for": "低音をしっかり効かせたサウンドが好きな人に。",
+    "official_url": "https://www.audio-technica.co.jp/product/ATH-CKS50TW"
   },
   {
     "id": "yamaha-tw-e3c",
@@ -5241,17 +5325,18 @@
       "ノイズキャンセリング非搭載",
       "マルチポイント非対応"
     ],
-    "recommended_for": "ANCより音のナチュラルさ・バランスを重視したい人に。"
+    "recommended_for": "ANCより音のナチュラルさ・バランスを重視したい人に。",
+    "official_url": "https://usa.yamaha.com/products/audio_visual/headphones/tw-e3c/index.html"
   },
   {
     "id": "panasonic-rz-s50w",
     "name": "RZ-S50W",
     "brand": "Panasonic",
     "release_year": 2021,
-    "category": "エントリー",
-    "price_range": "5000-10000",
-    "price_label": "8,800円",
-    "price_yen": 8800,
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "10,900円",
+    "price_yen": 10900,
     "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -5298,7 +5383,8 @@
       "マルチポイント非対応",
       "ハイレゾ対応コーデックは非搭載"
     ],
-    "recommended_for": "1万円以下の予算で、しっかりしたANCを求める人に。"
+    "recommended_for": "1万円以下の予算で、しっかりしたANCを求める人に。",
+    "official_url": "https://panasonic.jp/"
   },
   {
     "id": "creative-zen-air-pro",
@@ -5355,7 +5441,8 @@
       "マルチポイント非対応",
       "ブランドとしての認知度はまだ発展途上"
     ],
-    "recommended_for": "予算を抑えつつ、ANCの効きの良さと長時間バッテリーを重視したい人に。"
+    "recommended_for": "予算を抑えつつ、ANCの効きの良さと長時間バッテリーを重視したい人に。",
+    "official_url": "https://creative.com/ZenAirPro"
   },
   {
     "id": "soundpeats-air4-pro",
@@ -5364,9 +5451,9 @@
     "release_year": 2023,
     "category": "エントリー",
     "price_range": "5000-10000",
-    "price_label": "6,990円",
-    "price_yen": 6990,
-    "price_tier": "low",
+    "price_label": "8,480円",
+    "price_yen": 8480,
+    "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -5414,7 +5501,8 @@
       "ブランドとしての知名度・サポート体制は大手ほど手厚くない",
       "通話品質は標準的"
     ],
-    "recommended_for": "とにかくコストパフォーマンスを重視し、音質にもこだわりたい人に。"
+    "recommended_for": "とにかくコストパフォーマンスを重視し、音質にもこだわりたい人に。",
+    "official_url": "https://soundpeats.com/products/air4-pro-in-ear-aptx-lossless-wireless-earbuds"
   },
   {
     "id": "ugreen-hitune-x6",
@@ -5422,9 +5510,9 @@
     "brand": "UGREEN",
     "release_year": 2022,
     "category": "エントリー",
-    "price_range": "0-5000",
-    "price_label": "3,990円",
-    "price_yen": 3990,
+    "price_range": "5000-10000",
+    "price_label": "7,980円",
+    "price_yen": 7980,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -5471,18 +5559,19 @@
       "ANCの効きは上位機種ほど強くない",
       "マルチポイント非対応"
     ],
-    "recommended_for": "とにかく安くANC搭載イヤホンを試してみたい人に。"
+    "recommended_for": "とにかく安くANC搭載イヤホンを試してみたい人に。",
+    "official_url": "https://www.ugreen.com/"
   },
   {
     "id": "shure-aonic-free",
     "name": "AONIC FREE",
     "brand": "Shure",
     "release_year": 2021,
-    "category": "ミドル",
-    "price_range": "20000-25000",
-    "price_label": "24,800円",
-    "price_yen": 24800,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "30000-35000",
+    "price_label": "30,800円",
+    "price_yen": 30800,
+    "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "good",
@@ -5530,7 +5619,8 @@
       "バッテリーは5時間と短め",
       "ANCは最強クラスではない"
     ],
-    "recommended_for": "ANCの強さよりも、通話品質とタフさを重視したい人に。"
+    "recommended_for": "ANCの強さよりも、通話品質とタフさを重視したい人に。",
+    "official_url": "https://www.shure.com/en-US/products/earphones/aonic_free"
   },
   {
     "id": "marshall-minor-iii",
@@ -5538,10 +5628,10 @@
     "brand": "Marshall",
     "release_year": 2022,
     "category": "ミドル",
-    "price_range": "10000-15000",
-    "price_label": "14,000円",
-    "price_yen": 14000,
-    "price_tier": "mid",
+    "price_range": "15000-20000",
+    "price_label": "18,990円",
+    "price_yen": 18990,
+    "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -5587,7 +5677,8 @@
       "ノイズキャンセリング非搭載",
       "マルチポイント非対応"
     ],
-    "recommended_for": "デザインとMarshallらしいサウンドの個性を重視したい人に。"
+    "recommended_for": "デザインとMarshallらしいサウンドの個性を重視したい人に。",
+    "official_url": "https://www.marshall.com/jp/ja"
   },
   {
     "id": "marshall-motif-ii-anc",
@@ -5646,7 +5737,8 @@
       "バッテリーは短め",
       "マルチポイント非対応"
     ],
-    "recommended_for": "Marshallのデザインを楽しみつつ、ANCも欲しい人に。"
+    "recommended_for": "Marshallのデザインを楽しみつつ、ANCも欲しい人に。",
+    "official_url": "https://www.marshall.com/product/motif-ii-anc"
   },
   {
     "id": "final-ze3000",
@@ -5654,10 +5746,10 @@
     "brand": "Final",
     "release_year": 2022,
     "category": "ミドル",
-    "price_range": "10000-15000",
-    "price_label": "14,300円",
-    "price_yen": 14300,
-    "price_tier": "mid",
+    "price_range": "15000-20000",
+    "price_label": "15,800円",
+    "price_yen": 15800,
+    "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -5705,18 +5797,19 @@
       "ノイズキャンセリング非搭載",
       "マルチポイント非対応"
     ],
-    "recommended_for": "ANCより何よりも、音質の良さを最優先したい人に。"
+    "recommended_for": "ANCより何よりも、音質の良さを最優先したい人に。",
+    "official_url": "https://final-inc.com/products/ze3000-jp"
   },
   {
-    "id": "marley-redemption-anc-3",
-    "name": "Redemption ANC 3",
+    "id": "marley-redemption-anc-2",
+    "name": "Redemption ANC 2",
     "brand": "House of Marley",
-    "release_year": 2023,
-    "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "18,700円",
-    "price_yen": 18700,
-    "price_tier": "high",
+    "release_year": 2022,
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "25,900円",
+    "price_yen": 25900,
+    "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -5737,7 +5830,7 @@
       "water_resistant": "IPX4",
       "battery_hours": 6,
       "battery_hours_with_case": 24,
-      "wireless_charging": true,
+      "wireless_charging": false,
       "multipoint": false,
       "hi_res_audio": false,
       "codec": [
@@ -5756,13 +5849,15 @@
     "pros": [
       "サステナブルな素材を使用",
       "実用的なANC性能",
-      "ワイヤレス充電対応"
+      "IPX5相当の防水性能"
     ],
     "cons": [
-      "マルチポイント非対応",
-      "ハイレゾ対応コーデックは非搭載"
+      "ハイレゾ対応コーデックは非搭載",
+      "ワイヤレス充電には非対応",
+      "マルチポイント非対応"
     ],
-    "recommended_for": "環境に配慮した素材を使った製品を選びたい人に。"
+    "recommended_for": "環境に配慮した素材を使った製品を選びたい人に。",
+    "official_url": "https://www.houseofmarley.com/"
   },
   {
     "id": "apple-airpods-4",
@@ -5770,9 +5865,9 @@
     "brand": "Apple",
     "release_year": 2024,
     "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "19,800円",
-    "price_yen": 19800,
+    "price_range": "20000-25000",
+    "price_label": "21,800円",
+    "price_yen": 21800,
     "price_tier": "high",
     "fit_type": "open",
     "os_compatibility": "ios-only",
@@ -5822,17 +5917,18 @@
       "ノイズキャンセリング非搭載",
       "Androidでは一部機能が使えない"
     ],
-    "recommended_for": "ANCは不要で、AirPodsらしい使いやすさとデザインだけ欲しい人に。"
+    "recommended_for": "ANCは不要で、AirPodsらしい使いやすさとデザインだけ欲しい人に。",
+    "official_url": "https://www.apple.com/jp/airpods/"
   },
   {
-    "id": "1more-comfobuds-pro-2",
-    "name": "ComfoBuds Pro 2",
+    "id": "1more-comfobuds-pro",
+    "name": "ComfoBuds Pro",
     "brand": "1MORE",
-    "release_year": 2023,
-    "category": "ミドル",
-    "price_range": "10000-15000",
-    "price_label": "11,900円",
-    "price_yen": 11900,
+    "release_year": 2021,
+    "category": "エントリー",
+    "price_range": "5000-10000",
+    "price_label": "9,800円",
+    "price_yen": 9800,
     "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -5849,7 +5945,7 @@
       "commuter"
     ],
     "low_latency_mode": false,
-    "mic_quality": "good",
+    "mic_quality": "basic",
     "features": {
       "noise_canceling": true,
       "anc_level": "strong",
@@ -5858,11 +5954,10 @@
       "battery_hours_with_case": 28,
       "wireless_charging": false,
       "multipoint": true,
-      "hi_res_audio": true,
+      "hi_res_audio": false,
       "codec": [
         "SBC",
-        "AAC",
-        "LDAC"
+        "AAC"
       ]
     },
     "target_users": [
@@ -5872,18 +5967,19 @@
     "tagline": "6マイクのENCによる通話品質と、快適な装着感を両立",
     "description": [
       "快適な装着感を追求した1MOREのモデル。6マイク構成のENC(環境ノイズキャンセリング)により、Web会議や電話での通話品質にも配慮されています。",
-      "LDAC対応のハイレゾ相当の音質にも対応し、音楽鑑賞と通話どちらも重視したい人にバランスの良い選択肢です。"
+      "手頃な価格でありながらANCを搭載しており、価格と機能のバランスを重視したい人に向いています。"
     ],
     "pros": [
       "6マイクによる良好な通話品質",
-      "LDAC対応のハイレゾ相当の音質",
+      "ANC搭載の中でも手頃な価格",
       "快適な装着感"
     ],
     "cons": [
       "ワイヤレス充電には非対応",
       "ブランド認知度は大手ほど高くない"
     ],
-    "recommended_for": "Web会議の通話品質と、音楽鑑賞の音質を両方重視したい人に。"
+    "recommended_for": "Web会議の通話品質と、音楽鑑賞の音質を両方重視したい人に。",
+    "official_url": "https://usa.1more.com"
   },
   {
     "id": "edifier-neobuds-s",
@@ -5944,7 +6040,8 @@
       "バッテリーは単体5時間と短め",
       "ブランド認知度は大手ほど高くない"
     ],
-    "recommended_for": "装着感の軽さと音質、どちらも重視したい人に。"
+    "recommended_for": "装着感の軽さと音質、どちらも重視したい人に。",
+    "official_url": "https://www.edifier.com/us/p/true-wireless-earbuds/neobuds-s"
   },
   {
     "id": "jlab-go-air-pop",
@@ -6000,18 +6097,19 @@
       "ノイズキャンセリング非搭載",
       "音質・通話品質は価格相応"
     ],
-    "recommended_for": "とにかく価格を抑えた1台目、気軽なサブ機を探している人に。"
+    "recommended_for": "とにかく価格を抑えた1台目、気軽なサブ機を探している人に。",
+    "official_url": "https://www.jlab.com/"
   },
   {
     "id": "jlab-epic-air-sport-anc",
     "name": "Epic Air Sport ANC",
     "brand": "JLab",
     "release_year": 2021,
-    "category": "エントリー",
-    "price_range": "5000-10000",
-    "price_label": "9,900円",
-    "price_yen": 9900,
-    "price_tier": "mid",
+    "category": "ミドル",
+    "price_range": "15000-20000",
+    "price_label": "15,800円",
+    "price_yen": 15800,
+    "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -6058,7 +6156,8 @@
       "マルチポイント非対応",
       "ハイレゾ対応コーデックは非搭載"
     ],
-    "recommended_for": "激しい運動でも外れにくく、長時間バッテリーも重視したい人に。"
+    "recommended_for": "激しい運動でも外れにくく、長時間バッテリーも重視したい人に。",
+    "official_url": "https://www.jlab.com/products/epic-air-sport-anc-true-wireless-earbuds"
   },
   {
     "id": "shokz-openfit",
@@ -6067,8 +6166,8 @@
     "release_year": 2023,
     "category": "ミドル",
     "price_range": "20000-25000",
-    "price_label": "22,800円",
-    "price_yen": 22800,
+    "price_label": "24,800円",
+    "price_yen": 24800,
     "price_tier": "high",
     "fit_type": "open",
     "os_compatibility": "universal",
@@ -6119,7 +6218,8 @@
       "ノイズキャンセリング非搭載",
       "密閉型に比べると低音は控えめ"
     ],
-    "recommended_for": "耳を塞がずに運動や作業をしたいが、骨伝導より音質にもこだわりたい人に。"
+    "recommended_for": "耳を塞がずに運動や作業をしたいが、骨伝導より音質にもこだわりたい人に。",
+    "official_url": "https://shokz.com/products/openfit"
   },
   {
     "id": "huawei-freeclip",
@@ -6180,7 +6280,8 @@
       "ノイズキャンセリング非搭載",
       "密閉型に比べると低音は弱め"
     ],
-    "recommended_for": "耳の穴に何も入れたくない、新しい着け心地を試したい人に。"
+    "recommended_for": "耳の穴に何も入れたくない、新しい着け心地を試したい人に。",
+    "official_url": "https://consumer.huawei.com/en/headphones/freeclip/"
   },
   {
     "id": "honor-earbuds-open",
@@ -6188,9 +6289,9 @@
     "brand": "Honor",
     "release_year": 2024,
     "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "15,800円",
-    "price_yen": 15800,
+    "price_range": "20000-25000",
+    "price_label": "24,800円",
+    "price_yen": 24800,
     "price_tier": "high",
     "fit_type": "open",
     "os_compatibility": "universal",
@@ -6240,18 +6341,19 @@
       "ノイズキャンセリング非搭載",
       "ワイヤレス充電には非対応"
     ],
-    "recommended_for": "耳を塞がずに、通勤からスポーツまで幅広く使いたい人に。"
+    "recommended_for": "耳を塞がずに、通勤からスポーツまで幅広く使いたい人に。",
+    "official_url": "https://www.honor.com/global/audio/honor-earbuds-open/"
   },
   {
     "id": "jbl-soundgear-sense",
     "name": "Soundgear Sense",
     "brand": "JBL",
     "release_year": 2023,
-    "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "17,000円",
-    "price_yen": 17000,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "25,800円",
+    "price_yen": 25800,
+    "price_tier": "premium",
     "fit_type": "open",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -6301,18 +6403,19 @@
       "マルチポイント非対応",
       "ノイズキャンセリング非搭載"
     ],
-    "recommended_for": "個性的なデザインを楽しみつつ、耳を塞がず使いたい人に。"
+    "recommended_for": "個性的なデザインを楽しみつつ、耳を塞がず使いたい人に。",
+    "official_url": "https://support.jbl.com/headphones/SOUNDGEAR-SENSE.html"
   },
   {
     "id": "cleer-arc-3",
     "name": "ARC 3",
     "brand": "Cleer",
     "release_year": 2023,
-    "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "19,800円",
-    "price_yen": 19800,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "30000-35000",
+    "price_label": "34,800円",
+    "price_yen": 34800,
+    "price_tier": "premium",
     "fit_type": "open",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -6361,18 +6464,19 @@
       "ノイズキャンセリング非搭載",
       "ブランド認知度は大手ほど高くない"
     ],
-    "recommended_for": "開放型イヤホンの音質にもこだわりたい人に。"
+    "recommended_for": "開放型イヤホンの音質にもこだわりたい人に。",
+    "official_url": "https://cleeraudio.com/earbuds/arc-3"
   },
   {
     "id": "earfun-openjump",
     "name": "OpenJump",
     "brand": "EarFun",
     "release_year": 2024,
-    "category": "エントリー",
-    "price_range": "5000-10000",
-    "price_label": "7,990円",
-    "price_yen": 7990,
-    "price_tier": "low",
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "12,400円",
+    "price_yen": 12400,
+    "price_tier": "mid",
     "fit_type": "open",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -6421,7 +6525,8 @@
       "ノイズキャンセリング非搭載",
       "マルチポイント非対応"
     ],
-    "recommended_for": "価格を抑えて、まず開放型イヤホンを試してみたい人に。"
+    "recommended_for": "価格を抑えて、まず開放型イヤホンを試してみたい人に。",
+    "official_url": "https://www.myearfun.com/jp"
   },
   {
     "id": "anker-soundcore-aeroclip",
@@ -6429,10 +6534,10 @@
     "brand": "Anker",
     "release_year": 2024,
     "category": "ミドル",
-    "price_range": "10000-15000",
-    "price_label": "13,990円",
-    "price_yen": 13990,
-    "price_tier": "mid",
+    "price_range": "15000-20000",
+    "price_label": "17,990円",
+    "price_yen": 17990,
+    "price_tier": "high",
     "fit_type": "open",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -6481,7 +6586,8 @@
       "ノイズキャンセリング非搭載",
       "密閉型に比べると音漏れしやすい"
     ],
-    "recommended_for": "軽い着け心地のクリップ型開放型イヤホンを探している人に。"
+    "recommended_for": "軽い着け心地のクリップ型開放型イヤホンを探している人に。",
+    "official_url": "https://www.ankerjapan.com/products/a3388"
   },
   {
     "id": "sony-linkbuds",
@@ -6489,10 +6595,10 @@
     "brand": "SONY",
     "release_year": 2022,
     "category": "ミドル",
-    "price_range": "20000-25000",
-    "price_label": "23,980円",
-    "price_yen": 23980,
-    "price_tier": "high",
+    "price_range": "10000-15000",
+    "price_label": "11,000円",
+    "price_yen": 11000,
+    "price_tier": "mid",
     "fit_type": "open",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -6541,7 +6647,8 @@
       "ノイズキャンセリング非搭載",
       "バッテリーは短め"
     ],
-    "recommended_for": "耳を塞がず、周囲の音も聞きながら音楽を楽しみたい人に。"
+    "recommended_for": "耳を塞がず、周囲の音も聞きながら音楽を楽しみたい人に。",
+    "official_url": "https://www.sony.co.uk/electronics/truly-wireless/wf-l900/specifications"
   },
   {
     "id": "bose-qc-ultra-earbuds-2",
@@ -6549,9 +6656,9 @@
     "brand": "Bose",
     "release_year": 2024,
     "category": "ハイエンド",
-    "price_range": "35000-40000",
-    "price_label": "39,900円",
-    "price_yen": 39900,
+    "price_range": "45000-50000",
+    "price_label": "45,800円",
+    "price_yen": 45800,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -6604,7 +6711,8 @@
       "価格はハイエンド帯",
       "ケースはやや大きめ"
     ],
-    "recommended_for": "価格よりもANCと音質の完成度を最優先したい人に。"
+    "recommended_for": "価格よりもANCと音質の完成度を最優先したい人に。",
+    "official_url": "https://www.bose.com/p/earbuds/bose-quietcomfort-ultra-earbuds-2nd-gen/QCUE2-HEADPHONEIN.html"
   },
   {
     "id": "jbl-tune-130nc",
@@ -6661,18 +6769,19 @@
       "ANCの効きは上位機種ほど強くない",
       "マルチポイント非対応"
     ],
-    "recommended_for": "価格を抑えつつ、ANC搭載モデルを試したい人に。"
+    "recommended_for": "価格を抑えつつ、ANC搭載モデルを試したい人に。",
+    "official_url": "https://global.jbl.com/wireless-earbuds/TUNE130NCTWS-.html"
   },
   {
     "id": "jbl-tune-flex",
     "name": "Tune Flex",
     "brand": "JBL",
     "release_year": 2022,
-    "category": "エントリー",
-    "price_range": "5000-10000",
-    "price_label": "9,980円",
-    "price_yen": 9980,
-    "price_tier": "mid",
+    "category": "ミドル",
+    "price_range": "15000-20000",
+    "price_label": "15,800円",
+    "price_yen": 15800,
+    "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -6718,7 +6827,8 @@
       "ANCは控えめ",
       "マルチポイント非対応"
     ],
-    "recommended_for": "装着スタイルを状況に応じて変えたい、柔軟性重視の人に。"
+    "recommended_for": "装着スタイルを状況に応じて変えたい、柔軟性重視の人に。",
+    "official_url": "https://support.jbl.com/my/en/headphones/TUNE-FLEX.html"
   },
   {
     "id": "technics-eah-az60m2",
@@ -6778,18 +6888,19 @@
       "旗艦機に比べるとANCはやや控えめ",
       "ワイヤレス充電には非対応"
     ],
-    "recommended_for": "価格と音質・ANCのバランスを重視したい人に。"
+    "recommended_for": "価格と音質・ANCのバランスを重視したい人に。",
+    "official_url": "https://us.technics.com/products/true-wireless-earbuds-with-noise-cancelling-eah-az60m2"
   },
   {
     "id": "sennheiser-momentum-tw3",
     "name": "MOMENTUM True Wireless 3",
     "brand": "Sennheiser",
     "release_year": 2022,
-    "category": "ミドル",
-    "price_range": "20000-25000",
-    "price_label": "22,000円",
-    "price_yen": 22000,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "29,800円",
+    "price_yen": 29800,
+    "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "good",
@@ -6840,7 +6951,8 @@
       "最新モデルよりANCの細かな制御は劣る",
       "本体は競合よりやや大きめ"
     ],
-    "recommended_for": "最新モデルでなくても、Sennheiserの音質とANCを少し安く体験したい人に。"
+    "recommended_for": "最新モデルでなくても、Sennheiserの音質とANCを少し安く体験したい人に。",
+    "official_url": "https://global.sennheiser-hearing.com/"
   },
   {
     "id": "bw-pi5-s2",
@@ -6849,8 +6961,8 @@
     "release_year": 2023,
     "category": "ミドル",
     "price_range": "20000-25000",
-    "price_label": "24,000円",
-    "price_yen": 24000,
+    "price_label": "20,000円",
+    "price_yen": 20000,
     "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -6901,7 +7013,8 @@
       "ワイヤレス充電には非対応",
       "上位機種に比べるとANCはやや控えめ"
     ],
-    "recommended_for": "B&Wの音質を、上位機より手頃な価格で楽しみたい人に。"
+    "recommended_for": "B&Wの音質を、上位機より手頃な価格で楽しみたい人に。",
+    "official_url": "https://www.bowerswilkins.com/en-us/product/headphones/pi5"
   },
   {
     "id": "audio-technica-ath-twx7",
@@ -6909,9 +7022,9 @@
     "brand": "Audio-Technica",
     "release_year": 2022,
     "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "17,000円",
-    "price_yen": 17000,
+    "price_range": "20000-25000",
+    "price_label": "22,000円",
+    "price_yen": 22000,
     "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -6961,18 +7074,19 @@
       "バッテリーは競合よりやや短め",
       "ワイヤレス充電には非対応"
     ],
-    "recommended_for": "旗艦機より価格を抑えつつ、LDAC対応の音質は確保したい人に。"
+    "recommended_for": "旗艦機より価格を抑えつつ、LDAC対応の音質は確保したい人に。",
+    "official_url": "https://www.audio-technica.com/en-ca/ath-twx7"
   },
   {
     "id": "denon-perl",
     "name": "PerL",
     "brand": "Denon",
     "release_year": 2023,
-    "category": "ミドル",
-    "price_range": "20000-25000",
-    "price_label": "24,800円",
-    "price_yen": 24800,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "25000-30000",
+    "price_label": "27,800円",
+    "price_yen": 27800,
+    "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "good",
@@ -7022,7 +7136,8 @@
       "PerL Proよりカスタマイズの幅は狭い",
       "ワイヤレス充電には非対応"
     ],
-    "recommended_for": "個人最適化サウンド技術を、上位機より手頃な価格で試したい人に。"
+    "recommended_for": "個人最適化サウンド技術を、上位機より手頃な価格で試したい人に。",
+    "official_url": "https://www.denon.com/en/ja-jp/product/wireless-earbuds/perl/AHC10PL.html"
   },
   {
     "id": "marshall-mode-ii",
@@ -7030,9 +7145,9 @@
     "brand": "Marshall",
     "release_year": 2023,
     "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "15,800円",
-    "price_yen": 15800,
+    "price_range": "20000-25000",
+    "price_label": "24,800円",
+    "price_yen": 24800,
     "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -7079,17 +7194,18 @@
       "ノイズキャンセリング非搭載",
       "マルチポイント非対応"
     ],
-    "recommended_for": "Marshallのデザインと音を、シンプルな機能構成で楽しみたい人に。"
+    "recommended_for": "Marshallのデザインと音を、シンプルな機能構成で楽しみたい人に。",
+    "official_url": "https://www.marshall.com/"
   },
   {
     "id": "final-ze2000",
     "name": "ZE2000",
     "brand": "Final",
     "release_year": 2022,
-    "category": "エントリー",
-    "price_range": "5000-10000",
-    "price_label": "8,690円",
-    "price_yen": 8690,
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "14,800円",
+    "price_yen": 14800,
     "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -7137,7 +7253,8 @@
       "ノイズキャンセリング非搭載",
       "マルチポイント非対応"
     ],
-    "recommended_for": "価格を抑えつつ、Finalの音作りを試してみたい人に。"
+    "recommended_for": "価格を抑えつつ、Finalの音作りを試してみたい人に。",
+    "official_url": "https://snext-final.com/"
   },
   {
     "id": "1more-aero",
@@ -7146,8 +7263,8 @@
     "release_year": 2023,
     "category": "ミドル",
     "price_range": "15000-20000",
-    "price_label": "17,900円",
-    "price_yen": 17900,
+    "price_label": "17,000円",
+    "price_yen": 17000,
     "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -7197,18 +7314,19 @@
       "ワイヤレス充電には非対応",
       "ブランド認知度は大手ほど高くない"
     ],
-    "recommended_for": "1MOREの中でも特に音質にこだわりたい人に。"
+    "recommended_for": "1MOREの中でも特に音質にこだわりたい人に。",
+    "official_url": "https://usa.1more.com/"
   },
   {
     "id": "xiaomi-buds-5",
     "name": "Buds 5",
     "brand": "Xiaomi",
     "release_year": 2024,
-    "category": "エントリー",
-    "price_range": "5000-10000",
-    "price_label": "9,900円",
-    "price_yen": 9900,
-    "price_tier": "mid",
+    "category": "ミドル",
+    "price_range": "15000-20000",
+    "price_label": "16,800円",
+    "price_yen": 16800,
+    "price_tier": "high",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -7256,7 +7374,8 @@
       "通話品質は標準的",
       "ブランドとしての知名度は発展途上"
     ],
-    "recommended_for": "とにかくコストパフォーマンスを重視したい人に。"
+    "recommended_for": "とにかくコストパフォーマンスを重視したい人に。",
+    "official_url": "https://www.mi.com/global/product/xiaomi-buds-5/"
   },
   {
     "id": "huawei-freebuds-se2",
@@ -7265,8 +7384,8 @@
     "release_year": 2024,
     "category": "エントリー",
     "price_range": "5000-10000",
-    "price_label": "5,980円",
-    "price_yen": 5980,
+    "price_label": "5,800円",
+    "price_yen": 5800,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -7313,7 +7432,8 @@
       "ノイズキャンセリング非搭載",
       "音質・通話品質は価格相応"
     ],
-    "recommended_for": "価格と長時間バッテリーを重視したい、気軽な1台に。"
+    "recommended_for": "価格と長時間バッテリーを重視したい、気軽な1台に。",
+    "official_url": "https://consumer.huawei.com/en/headphones/freebuds-se-2/specs/"
   },
   {
     "id": "realme-buds-t100",
@@ -7322,8 +7442,8 @@
     "release_year": 2023,
     "category": "エントリー",
     "price_range": "0-5000",
-    "price_label": "2,990円",
-    "price_yen": 2990,
+    "price_label": "4,980円",
+    "price_yen": 4980,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -7370,7 +7490,8 @@
       "ノイズキャンセリング非搭載",
       "音質・通話品質は価格相応"
     ],
-    "recommended_for": "とにかく価格を抑えたい、気軽なサブ機を探している人に。"
+    "recommended_for": "とにかく価格を抑えたい、気軽なサブ機を探している人に。",
+    "official_url": "https://www.realme.com/"
   },
   {
     "id": "oppo-enco-buds2",
@@ -7379,8 +7500,8 @@
     "release_year": 2023,
     "category": "エントリー",
     "price_range": "0-5000",
-    "price_label": "4,990円",
-    "price_yen": 4990,
+    "price_label": "3,980円",
+    "price_yen": 3980,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -7427,7 +7548,8 @@
       "ノイズキャンセリング非搭載",
       "マルチポイント非対応"
     ],
-    "recommended_for": "価格を抑えつつOPPOブランドを試したい人に。"
+    "recommended_for": "価格を抑えつつOPPOブランドを試したい人に。",
+    "official_url": "https://www.oppo.com/en/accessories/oppo-enco-buds2/"
   },
   {
     "id": "cmf-buds-2",
@@ -7436,8 +7558,8 @@
     "release_year": 2024,
     "category": "エントリー",
     "price_range": "0-5000",
-    "price_label": "3,990円",
-    "price_yen": 3990,
+    "price_label": "4,980円",
+    "price_yen": 4980,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -7484,18 +7606,19 @@
       "ANCの効きは上位機種ほど強くない",
       "マルチポイント非対応"
     ],
-    "recommended_for": "手頃な価格で、ANC搭載・デザイン性のあるイヤホンを探す人に。"
+    "recommended_for": "手頃な価格で、ANC搭載・デザイン性のあるイヤホンを探す人に。",
+    "official_url": "https://checkout-eu.nothing.tech/products/cmf-buds-2"
   },
   {
     "id": "earfun-free-pro-3",
     "name": "Free Pro 3",
     "brand": "EarFun",
     "release_year": 2022,
-    "category": "エントリー",
-    "price_range": "5000-10000",
-    "price_label": "7,990円",
-    "price_yen": 7990,
-    "price_tier": "low",
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "12,400円",
+    "price_yen": 12400,
+    "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -7541,7 +7664,8 @@
       "ハイレゾ対応コーデックは非搭載",
       "ブランド認知度は大手ほど高くない"
     ],
-    "recommended_for": "価格を抑えつつ、装備の充実度を重視したい人に。"
+    "recommended_for": "価格を抑えつつ、装備の充実度を重視したい人に。",
+    "official_url": "https://www.myearfun.com/jp"
   },
   {
     "id": "soundpeats-capsule3-pro",
@@ -7550,8 +7674,8 @@
     "release_year": 2022,
     "category": "エントリー",
     "price_range": "5000-10000",
-    "price_label": "7,990円",
-    "price_yen": 7990,
+    "price_label": "7,200円",
+    "price_yen": 7200,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -7600,18 +7724,19 @@
       "ブランドとしての知名度・サポート体制は大手ほど手厚くない",
       "通話品質は標準的"
     ],
-    "recommended_for": "コストパフォーマンスを重視し、音質にもこだわりたい人に。"
+    "recommended_for": "コストパフォーマンスを重視し、音質にもこだわりたい人に。",
+    "official_url": "https://soundpeats.com/"
   },
   {
     "id": "skullcandy-indy-evo",
     "name": "Indy Evo",
     "brand": "Skullcandy",
     "release_year": 2022,
-    "category": "エントリー",
-    "price_range": "5000-10000",
-    "price_label": "7,990円",
-    "price_yen": 7990,
-    "price_tier": "low",
+    "category": "ミドル",
+    "price_range": "10000-15000",
+    "price_label": "10,800円",
+    "price_yen": 10800,
+    "price_tier": "mid",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "basic",
@@ -7656,7 +7781,8 @@
       "ノイズキャンセリング非搭載",
       "音質・通話品質は価格相応"
     ],
-    "recommended_for": "価格を抑えつつ、ユニークな機能を楽しみたい人に。"
+    "recommended_for": "価格を抑えつつ、ユニークな機能を楽しみたい人に。",
+    "official_url": "https://www.skullcandy.com/"
   },
   {
     "id": "technics-eah-az100",
@@ -7664,9 +7790,9 @@
     "brand": "Technics",
     "release_year": 2024,
     "category": "ハイエンド",
-    "price_range": "30000-40000",
-    "price_label": "34,980円",
-    "price_yen": 34980,
+    "price_range": "35000-40000",
+    "price_label": "39,600円",
+    "price_yen": 39600,
     "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -7718,7 +7844,8 @@
       "価格はハイエンド帯",
       "AZ80からの買い替えは価格差が大きい"
     ],
-    "recommended_for": "価格よりも音質とANCの最高クラスの完成度を求める人に。"
+    "recommended_for": "価格よりも音質とANCの最高クラスの完成度を求める人に。",
+    "official_url": "https://www.technics.com/ca/products/headphones/eah-az100.html"
   },
   {
     "id": "audio-technica-ath-sq1tw",
@@ -7727,9 +7854,9 @@
     "release_year": 2020,
     "category": "エントリー",
     "price_range": "5000-10000",
-    "price_label": "8,000円",
-    "price_yen": 8000,
-    "price_tier": "mid",
+    "price_label": "6,300円",
+    "price_yen": 6300,
+    "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "basic",
@@ -7778,18 +7905,19 @@
       "ノイズキャンセリング非搭載",
       "防水性能はIPX2と控えめ"
     ],
-    "recommended_for": "軽量さとデザイン性を重視する、普段使いのサブ機に。"
+    "recommended_for": "軽量さとデザイン性を重視する、普段使いのサブ機に。",
+    "official_url": "https://audio-technica.com/en-gb/ath-sq1tw"
   },
   {
     "id": "yamaha-tw-e7b",
     "name": "TW-E7B",
     "brand": "Yamaha",
     "release_year": 2021,
-    "category": "ミドル",
-    "price_range": "15000-20000",
-    "price_label": "17,000円",
-    "price_yen": 17000,
-    "price_tier": "high",
+    "category": "ハイエンド",
+    "price_range": "30000-35000",
+    "price_label": "33,000円",
+    "price_yen": 33000,
+    "price_tier": "premium",
     "fit_type": "canal",
     "os_compatibility": "universal",
     "call_quality": "normal",
@@ -7838,7 +7966,8 @@
       "マルチポイント非対応",
       "ハイレゾ相当のコーデック(LDAC等)は非搭載"
     ],
-    "recommended_for": "ANCを備えつつ、Yamahaらしい自然な音を楽しみたい人に。"
+    "recommended_for": "ANCを備えつつ、Yamahaらしい自然な音を楽しみたい人に。",
+    "official_url": "https://usa.yamaha.com/products/audio_visual/headphones/tw-e7b/index.html"
   },
   {
     "id": "panasonic-rz-s30w",
@@ -7847,8 +7976,8 @@
     "release_year": 2021,
     "category": "エントリー",
     "price_range": "5000-10000",
-    "price_label": "6,000円",
-    "price_yen": 6000,
+    "price_label": "6,900円",
+    "price_yen": 6900,
     "price_tier": "low",
     "fit_type": "canal",
     "os_compatibility": "universal",
@@ -7895,6 +8024,7 @@
       "ノイズキャンセリング非搭載",
       "マルチポイント非対応"
     ],
-    "recommended_for": "ANCは不要で、価格を最優先したい人に。"
+    "recommended_for": "ANCは不要で、価格を最優先したい人に。",
+    "official_url": "https://panasonic.jp/headphone/products/lineup_tw.html"
   }
 ]

@@ -1397,6 +1397,15 @@ body.has-compare-tray {
   font-weight: 600;
 }
 
+.compare-chip-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.compare-chip-link:hover {
+  text-decoration: underline;
+}
+
 .compare-chip-remove {
   background: none;
   border: none;

@@ -50,7 +50,31 @@
 
   async function renderTray() {
     if (!trayEl) return;
-    const ids = getIds();
+    let ids = getIds();
+
+    if (ids.length === 0) {
+      trayEl.classList.remove("is-visible");
+      trayEl.innerHTML = "";
+      document.body.classList.remove("has-compare-tray");
+      return;
+    }
+
+    let products = [];
+    try {
+      products = await loadProducts();
+    } catch (e) {
+      products = [];
+    }
+
+    // 製品データに存在しないID(リネーム・削除された旧ID等)が残っていたら
+    // リンクが切れてしまうため、保存データから自動的に取り除く
+    if (products.length > 0) {
+      const validIds = ids.filter((id) => products.some((p) => p.id === id));
+      if (validIds.length !== ids.length) {
+        ids = validIds;
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(ids));
+      }
+    }
 
     if (ids.length === 0) {
       trayEl.classList.remove("is-visible");
@@ -62,20 +86,13 @@
     trayEl.classList.add("is-visible");
     document.body.classList.add("has-compare-tray");
 
-    let products = [];
-    try {
-      products = await loadProducts();
-    } catch (e) {
-      products = [];
-    }
-
     const chips = ids
       .map((id) => {
         const p = products.find((pp) => pp.id === id);
         const label = p ? p.name : id;
         return `
           <span class="compare-chip">
-            ${label}
+            <a class="compare-chip-link" href="product.html?id=${encodeURIComponent(id)}">${label}</a>
             <button type="button" class="compare-chip-remove" data-id="${id}" aria-label="比較から外す">×</button>
           </span>`;
       })
