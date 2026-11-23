@@ -2,122 +2,133 @@
    イヤホン診断 - 質問データ & スコアリングロジック
    各質問は scoreFn(product, answerValue) を持ち、回答が製品にどれだけ
    マッチするかを点数化する。product は data/products.json の1レコード。
+   想定外の回答値(古いセッションに残った回答など)は 0 点として扱う。
    ========================================================================== */
 
-const TIER_ORDER = ["low", "mid", "high", "premium"];
+const ANC_POINTS = { none: 0, basic: 1, strong: 2, top: 3 };
 
-const FIT_COMPAT = {
-  canal: { canal: 4, open: -4, "bone-conduction": -4 },
-  open: { canal: -4, open: 4, "bone-conduction": 2 },
-  "bone-conduction": { canal: -4, open: 2, "bone-conduction": 4 }
+const BUDGET_RANGES = {
+  under10k: [0, 10000],
+  under20k: [10000, 20000],
+  under30k: [20000, 30000],
+  over30k: [30000, Infinity]
 };
+const BUDGET_ORDER = ["under10k", "under20k", "under30k", "over30k"];
+
+function budgetBracket(priceYen) {
+  return BUDGET_ORDER.findIndex((key) => {
+    const [min, max] = BUDGET_RANGES[key];
+    return priceYen >= min && priceYen < max;
+  });
+}
 
 const QUESTIONS = [
   {
-    id: "usecase",
-    text: "主にどんなシーンでイヤホンを使いたいですか?",
+    id: "scene",
+    text: "いちばん使うのはどんなとき?",
     choices: [
-      { value: "commute", label: "通勤・通学中の音楽や通話" },
-      { value: "sports", label: "運動・スポーツをしながら" },
-      { value: "work", label: "仕事のWeb会議・通話が中心" },
-      { value: "media", label: "映画・ゲームなどの没入体験" },
-      { value: "audiophile", label: "とにかく音質を追求したい" }
+      { value: "commute", label: "通勤・通学" },
+      { value: "sports", label: "運動・ランニング" },
+      { value: "work", label: "仕事・Web会議" },
+      { value: "game", label: "ゲーム・動画" }
     ],
     scoreFn(product, value) {
-      let score = product.use_case_tags.includes(value) ? 3 : 0;
-      if (value === "sports" && product.features.water_resistant) score += 2;
-      if (value === "audiophile" && product.features.hi_res_audio) score += 2;
-      return score;
+      const f = product.features;
+      if (value === "commute") {
+        return (product.use_case_tags.includes("commute") ? 3 : 0) + (ANC_POINTS[f.anc_level] >= 2 ? 1 : 0);
+      }
+      if (value === "sports") {
+        return (product.use_case_tags.includes("sports") ? 3 : 0) + (f.water_resistant ? 2 : -2);
+      }
+      if (value === "work") {
+        return (product.use_case_tags.includes("work") ? 3 : 0) + (f.multipoint ? 1 : 0);
+      }
+      if (value === "game") {
+        return (product.low_latency_mode ? 3 : 0) + (product.persona_tags.includes("gaming") ? 2 : 0) + (product.use_case_tags.includes("media") ? 1 : 0);
+      }
+      return 0;
     }
   },
   {
     id: "budget",
-    text: "予算はどれくらいですか?",
+    text: "予算はいくらくらい?",
     choices: [
-      { value: "low", label: "〜8,000円" },
-      { value: "mid", label: "8,000〜15,000円" },
-      { value: "high", label: "15,000〜25,000円" },
-      { value: "premium", label: "25,000円以上" }
+      { value: "under10k", label: "1万円まで" },
+      { value: "under20k", label: "1〜2万円" },
+      { value: "under30k", label: "2〜3万円" },
+      { value: "over30k", label: "3万円以上でもOK" }
     ],
     scoreFn(product, value) {
-      const diff = Math.abs(
-        TIER_ORDER.indexOf(product.price_tier) - TIER_ORDER.indexOf(value)
-      );
-      const table = [4, 0, -3, -6];
-      return table[diff];
+      const wanted = BUDGET_ORDER.indexOf(value);
+      if (wanted === -1) return 0;
+      const diff = budgetBracket(product.price_yen) - wanted;
+      if (diff === 0) return 4;
+      if (diff === -1) return 1;
+      if (diff === 1) return -3;
+      return diff < 0 ? -1 : -6;
     }
   },
   {
-    id: "anc",
-    text: "ノイズキャンセリング(周囲の騒音を消す機能)はどれくらい重視しますか?",
+    id: "noise",
+    text: "まわりの音はどうしたい?",
     choices: [
-      { value: "must", label: "必須。とにかく静かな環境が欲しい" },
-      { value: "nice", label: "あれば嬉しいが必須ではない" },
-      { value: "no", label: "不要。周囲の音を聞きながら使いたい" }
+      { value: "cut", label: "しっかり消したい" },
+      { value: "either", label: "どちらでもいい" },
+      { value: "hear", label: "聞こえていてほしい" }
     ],
     scoreFn(product, value) {
-      const table = {
-        must: { none: -4, basic: 0, strong: 3, top: 4 },
-        nice: { none: 0, basic: 2, strong: 2, top: 1 },
-        no: { none: 4, basic: 1, strong: -1, top: -2 }
-      };
-      return table[value][product.features.anc_level];
+      const anc = ANC_POINTS[product.features.anc_level];
+      if (value === "cut") return [-4, 0, 3, 4][anc];
+      if (value === "hear") return product.fit_type === "canal" ? -1 : 3;
+      return 0;
     }
   },
   {
     id: "fit",
-    text: "装着スタイルはどちらが好みですか?",
+    text: "イヤホンの形はどれがいい?",
     choices: [
-      { value: "canal", label: "耳栓のようにしっかり密閉するカナル型" },
-      { value: "open", label: "耳を塞がないイヤホン型(オープンイヤー)" },
-      { value: "bone-conduction", label: "耳を塞がない骨伝導タイプ" }
+      { value: "canal", label: "カナル型(耳の穴に入れる)" },
+      { value: "open", label: "オープン型(耳の穴をふさがない)" },
+      { value: "bone-conduction", label: "骨伝導(耳の外から骨で聞く)" },
+      { value: "any", label: "こだわらない" }
     ],
     scoreFn(product, value) {
-      return FIT_COMPAT[value][product.fit_type];
-    }
-  },
-  {
-    id: "comfort",
-    text: "装着感で一番重視したいことは?",
-    choices: [
-      { value: "longwear", label: "長時間つけていても疲れにくいこと" },
-      { value: "sports", label: "運動しても外れない安定感" },
-      { value: "compact", label: "とにかく軽くて小さいこと" }
-    ],
-    scoreFn(product, value) {
-      return product.comfort_tags.includes(value) ? 3 : 0;
-    }
-  },
-  {
-    id: "os",
-    text: "主に使うデバイスは?",
-    choices: [
-      { value: "ios", label: "iPhone / Mac が中心" },
-      { value: "android", label: "Android / Windows が中心" },
-      { value: "both", label: "どちらもよく使う" }
-    ],
-    scoreFn(product, value) {
-      const table = {
-        "ios-only": { ios: 2, android: -3, both: -2 },
-        universal: { ios: 2, android: 2, both: 3 }
-      };
-      let score = table[product.os_compatibility][value];
-      if (value === "both" && product.features.multipoint) score += 2;
-      return score;
+      if (!["canal", "open", "bone-conduction"].includes(value)) return 0;
+      // 形の希望ははっきりしているので、他の質問より強く効かせる
+      if (product.fit_type === value) return 8;
+      // オープン型と骨伝導はどちらも耳をふさがないので近い扱い
+      const earFree = (t) => t === "open" || t === "bone-conduction";
+      if (earFree(product.fit_type) && earFree(value)) return 3;
+      return -8;
     }
   },
   {
     id: "call",
-    text: "通話・オンライン会議での利用頻度は?",
+    text: "電話やWeb会議でも使う?",
     choices: [
-      { value: "important", label: "よく使う。通話品質を重視したい" },
-      { value: "notmuch", label: "あまり使わない" }
+      { value: "often", label: "よく使う" },
+      { value: "rarely", label: "あまり使わない" }
     ],
     scoreFn(product, value) {
-      if (value === "important") {
-        return product.call_quality === "good" ? 2 : -1;
-      }
-      return 0;
+      if (value !== "often") return 0;
+      let score = product.call_quality === "good" ? 2 : -1;
+      if (product.mic_quality === "excellent") score += 2;
+      return score;
+    }
+  },
+  {
+    id: "battery",
+    text: "充電はどれくらい持ってほしい?",
+    choices: [
+      { value: "long", label: "1日中つけていたい" },
+      { value: "normal", label: "ふつうでいい" }
+    ],
+    scoreFn(product, value) {
+      if (value !== "long") return 0;
+      const hours = product.features.battery_hours;
+      if (hours >= 8) return 3;
+      if (hours >= 7) return 1;
+      return -2;
     }
   }
 ];
